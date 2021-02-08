@@ -1,0 +1,5 @@
+---
+title: "NES"
+featured: "/assets/svg/sistema/nes.svg"
+---
+Nintendo Entertainment System (NES, popularmente chamado de Nintendinho) é um console lançado pela Nintendo na América do Norte, Europa, Ásia, Austrália e Brasil. Originalmente lançado no Japão em 1983 com o nome de Nintendo Family Computer, Family Computer, ou apenas Famicom, o sistema foi redesenhado e recebeu o novo nome para ser lançado no mercado americano em 1985. O NES/Famicom foi o videogame de maior sucesso comercial na sua época, ajudou a indústria de videogames a se recuperar da crise de 1983 e estabeleceu novos padrões que seriam seguidos pela indústria. Também foi o primeiro console a ser produzido por terceiros, o que ajudou a divulgar o sistema em todo o mundo. O NES também foi um dos primeiros consoles a se apoiar em jogos feitos por terceiros (não só pela própria fabricante). Seu código de modelo é NES-001.

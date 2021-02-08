@@ -1,0 +1,5 @@
+---
+title: "Playstation"
+featured: "/assets/svg/sistema/playstation.svg"
+---
+PlayStation (プレイステーション Pureisutēshon?, oficialmente abreviado PS) foi lançado em 3 de dezembro de 1994, no Japão, e em 29 de setembro de 1995, nos Estados Unidos. Desde o seu lançamento até 2006 (quando sua produção foi extinta), a PlayStation vendeu mais de 103 milhões de unidades. Inicialmente PlayStation seria um leitor de CD-ROM para o Super Nintendo Entertainment System, o SNES-CD, a ser produzido em conjunto com a Nintendo.Durante as negociações para o lançamento, o acordo entre as empresas foi rompido. Então o engenheiro Ken Kutaragi convenceu os executivos da Sony a continuar com o projeto. Foi aí que nasceu a divisão Sony Computer Entertainment (atualmente Sony Interactive Entertainment), com o objetivo de implementar no mercado uma nova consola de videogame: a PlayStation. Mal sabia a Nintendo que nascia ali o seu maior rival no mundo do entretenimento eletrônico, que superou até mesmo a Sega.
