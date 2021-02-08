@@ -11,7 +11,7 @@ As traduções são as seguintes:
 
 **Mega Drive (3 traduções)**:
 
--   [Chip 'n Dale - Rescue Ranger (Tugahack)](//romhackers.org/traducoes/console/mega-drive/chip-'n-dale-rescue-ranger-(tugahack)/
+-   [Chip 'n Dale - Rescue Ranger (Tugahack)](//romhackers.org/traducoes/console/mega-drive/chip-'n-dale-rescue-ranger-(tugahack)/)
 -   [Rolling Thunder 2 (Tedenfe e Anime_World)](//romhackers.org/traducoes/console/mega-drive/rolling-thunder-2-(tedenfe-e-anime_world)/)
 -   [Turma da Mônica na Terra dos Monstros (Anime_World)](//romhackers.org/traducoes/console/mega-drive/turma-da-monica-na-terra-dos-monstros-(anime_world)/)
 
