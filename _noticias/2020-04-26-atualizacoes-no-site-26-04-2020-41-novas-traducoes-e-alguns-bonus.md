@@ -5,57 +5,57 @@ slug: "atualizacoes-no-site-26-04-2020-41-novas-traducoes-e-alguns-bonus"
 author: "Mr.Fox"
 comments: true
 ---
-Boa noite, meus caros (e minhas caras) visitantes do **PO.B.R.E.** Hoje eu estou aqui para cumprir uma promessa que fiz há vários meses: após um longo período sem atualizar o site, eu aproveitei este período de quarentena forçada e cadastrei 41 traduções que haviam sido lançadas no [Fórum Unificado de Romhacking e Tradução](//web.archive.org/web/20200928103531/http://romhacking.net.br/), mas que ainda não estavam disponíveis aqui no **PO.B.R.E.**
+Boa noite, meus caros (e minhas caras) visitantes do **PO.B.R.E.** Hoje eu estou aqui para cumprir uma promessa que fiz há vários meses: após um longo período sem atualizar o site, eu aproveitei este período de quarentena forçada e cadastrei 41 traduções que haviam sido lançadas no [Fórum Unificado de Romhacking e Tradução](//romhacking.net.br/), mas que ainda não estavam disponíveis aqui no **PO.B.R.E.**
 
 As traduções são as seguintes:
 
 **Mega Drive (3 traduções)**:
 
--   [Chip 'n Dale - Rescue Ranger (Tugahack)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1456)
--   [Rolling Thunder 2 (Tedenfe e Anime_World)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1455)
--   [Turma da Mônica na Terra dos Monstros (Anime_World)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1457)
+-   [Chip 'n Dale - Rescue Ranger (Tugahack)](//romhackers.org/traducoes/console/mega-drive/chip-'n-dale-rescue-ranger-(tugahack)/
+-   [Rolling Thunder 2 (Tedenfe e Anime_World)](//romhackers.org/traducoes/console/mega-drive/rolling-thunder-2-(tedenfe-e-anime_world)/)
+-   [Turma da Mônica na Terra dos Monstros (Anime_World)](//romhackers.org/traducoes/console/mega-drive/turma-da-monica-na-terra-dos-monstros-(anime_world)/)
 
 
 **NES (7 traduções)**:
 
--   [1942 (Andyriddler)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1451)
--   [1943 - The Battle of Midway (Andyriddler)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1450)
--   [8 Eye's (Andyriddler)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1452)
--   [Crash 'n' the Boys - Street Challenge (Andyriddler e Natália)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1459)
--   [The 3-D Battles of World Runner (Andyriddler)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1445)
--   [The Adventures of Bayou Billy (Andyriddler e Natália)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1453)
--   [The Blues Brothers (Andyriddler e Natália)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1446)
+-   [1942 (Andyriddler)](//romhackers.org/traducoes/console/nes/1942-(andyriddler)/)
+-   [1943 - The Battle of Midway (Andyriddler)](//romhackers.org/traducoes/console/nes/1943-the-battle-of-midway-(andyriddler)/)
+-   [8 Eye's (Andyriddler)](//romhackers.org/traducoes/console/nes/8-eye's-(andyriddler)/)
+-   [Crash 'n' the Boys - Street Challenge (Andyriddler e Natália)](//romhackers.org/traducoes/console/nes/crash-'n'-the-boys-street-challenge-(andyriddler-e-natalia)/)
+-   [The 3-D Battles of World Runner (Andyriddler)](//romhackers.org/traducoes/console/nes/the-3-d-battles-of-world-runner-(andyriddler)/)
+-   [The Adventures of Bayou Billy (Andyriddler e Natália)](//romhackers.org/traducoes/console/nes/the-adventures-of-bayou-billy-(andyriddler-e-natalia)/)
+-   [The Blues Brothers (Andyriddler e Natália)](//romhackers.org/traducoes/console/nes/the-blues-brothers-(andyriddler-e-natalia)/)
 
 
 **PC (7 traduções)**:
 
--   [Another Metroid 2 Remake v1.1 (hiratafabio)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1421)
--   [Another Metroid 2 Remake v1.1 (JohnVyttalRay)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1422)
--   [Another Metroid 2 Remake v1.1 (uesudorasu)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1423)
--   [Another Metroid 2 Remake v1.1 (JonBaxter)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1424)
--   [Another Metroid 2 Remake v1.1 (renmr)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1425)
--   [Another Metroid 2 Remake v1.1 (JuninhoDancer)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1426)
--   [Another Metroid 2 Remake v1.1 (Kazemaru)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1427)
+-   [Another Metroid 2 Remake v1.1 (hiratafabio)](//romhackers.org/traducoes/computador/pc/another-metroid-2-remake-v1.1-(hiratafabio)/)
+-   [Another Metroid 2 Remake v1.1 (JohnVyttalRay)](//romhackers.org/traducoes/computador/pc/another-metroid-2-remake-v1.1-(johnvyttalray)/)
+-   [Another Metroid 2 Remake v1.1 (uesudorasu)](//romhackers.org/traducoes/computador/pc/another-metroid-2-remake-v1.1-(uesudorasu)/)
+-   [Another Metroid 2 Remake v1.1 (JonBaxter)](//romhackers.org/traducoes/computador/pc/another-metroid-2-remake-v1.1-(jonbaxter)/)
+-   [Another Metroid 2 Remake v1.1 (renmr)](//romhackers.org/traducoes/computador/pc/another-metroid-2-remake-v1.1-(renmr)/)
+-   [Another Metroid 2 Remake v1.1 (JuninhoDancer)](//romhackers.org/traducoes/computador/pc/another-metroid-2-remake-v1.1-(juninhodancer)/)
+-   [Another Metroid 2 Remake v1.1 (Kazemaru)](//romhackers.org/traducoes/computador/pc/another-metroid-2-remake-v1.1-(kazemaru)/)
 
 
 **Playstation (1 tradução)**:
 
--   [Harvest Moon - Back to Nature (Denver)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=25&lid=969) (**versão atualizada!**)
+-   [Harvest Moon - Back to Nature (Denver)](//romhackers.org/traducoes/console/playstation/harvest-moon-back-to-nature-(denver)/) (**versão atualizada!**)
 
 
 **Playstation 2 (11 traduções)**:
 
--   [Airborne Troops (hnnewgames)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1430)
--   [Cold Fear (versão americana) (HNNEWGAMES)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1442)
--   [Cold Fear (versão europeia) (HNNEWGAMES)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1441)
--   [Darkwatch (HNNEWGAMES)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1435)
--   [Delta Force - Black Hawk Down (hnnewgames)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1431)
--   [Gunfighter II - Revenge of Jesse James (hnnewgames)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1429)
--   [Need for Speed Undercover (HNNEWGAMES)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1461)
--   [ObsCure II - The Aftermath (versão americana) (HNNEWGAMES)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1440)
--   [ObsCure II - The Aftermath (versão europeia) (HNNEWGAMES)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1439)
--   [Rogue Trooper (HNNEWGAMES)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1438)
--   [Sniper Elite - Berlin 1945 (HNNEWGAMES)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1437)
+-   [Airborne Troops (hnnewgames)](//romhackers.org/traducoes/console/playstation-2/airborne-troops-(hnnewgames)/)
+-   [Cold Fear (versão americana) (HNNEWGAMES)](//romhackers.org/traducoes/console/playstation-2/cold-fear-(versao-americana)-(hnnewgames)/)
+-   [Cold Fear (versão europeia) (HNNEWGAMES)](//romhackers.org/traducoes/console/playstation-2/cold-fear-(versao-europeia)-(hnnewgames)/)
+-   [Darkwatch (HNNEWGAMES)](//romhackers.org/traducoes/console/playstation-2/darkwatch-(hnnewgames)/)
+-   [Delta Force - Black Hawk Down (hnnewgames)](//romhackers.org/traducoes/console/playstation-2/delta-force-black-hawk-down-(hnnewgames)/)
+-   [Gunfighter II - Revenge of Jesse James (hnnewgames)](//romhackers.org/traducoes/console/playstation-2/gunfighter-ii-revenge-of-jesse-james-(hnnewgames)/)
+-   [Need for Speed Undercover (HNNEWGAMES)](//romhackers.org/traducoes/console/playstation-2/need-for-speed-undercover-(hnnewgames)/)
+-   [ObsCure II - The Aftermath (versão americana) (HNNEWGAMES)](//romhackers.org/traducoes/console/playstation-2/obscure-ii-the-aftermath-(versao-americana)-(hnnewgames)/)
+-   [ObsCure II - The Aftermath (versão europeia) (HNNEWGAMES)](//romhackers.org/traducoes/console/playstation-2/obscure-ii-the-aftermath-(versao-europeia)-(hnnewgames)/)
+-   [Rogue Trooper (HNNEWGAMES)](//romhackers.org/traducoes/console/playstation-2/rogue-trooper-(hnnewgames)/)
+-   [Sniper Elite - Berlin 1945 (HNNEWGAMES)](//romhackers.org/traducoes/console/playstation-2/sniper-elite-berlin-1945-(hnnewgames)/)
 
 
 **Playstation 3 (1 tradução)**:
@@ -72,24 +72,24 @@ As traduções são as seguintes:
 
 **SG-1000 (8 traduções)**:
 
--   [Doki Doki Penguin Land (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1449)
--   [Dragon Wang (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1460)
--   [GP World (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1447)
--   [Gulkave (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1443)
--   [Orguss (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1444)
--   [Pachinko (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1436)
-- [Pitfall II - The Lost Caverns (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1454)
--   [Sega Galaga (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1448)
+-   [Doki Doki Penguin Land (Patryck)](//romhackers.org/traducoes/console/sg-1000/doki-doki-penguin-land-(patryck)/)
+-   [Dragon Wang (Patryck)](//romhackers.org/traducoes/console/sg-1000/dragon-wang-(patryck)/)
+-   [GP World (Patryck)](//romhackers.org/traducoes/console/sg-1000/gp-world-(patryck)/)
+-   [Gulkave (Patryck)](//romhackers.org/traducoes/console/sg-1000/gulkave-(patryck)/)
+-   [Orguss (Patryck)](//romhackers.org/traducoes/console/sg-1000/orguss-(patryck)/)
+-   [Pachinko (Patryck)](//romhackers.org/traducoes/console/sg-1000/pachinko-(patryck)/)
+- [Pitfall II - The Lost Caverns (Patryck)](//romhackers.org/traducoes/console/sg-1000/pitfall-ii-the-lost-caverns-(patryck)/)
+-   [Sega Galaga (Patryck)](//romhackers.org/traducoes/console/sg-1000/sega-galaga-(patryck)/)
 
 
 Eu também aproveitei a deixa para cadastrar o utilitário [Boolean Match - Binary Pattern Search](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads2/singlefile.php?cid=2&lid=249), feito por **Neto RPG**.
 
 E, por fim, eu também cadastrei um pequeno hack de minha autoria, que corrige um bug gráfico no final da Sypha no hack **Castlevania Netflix**. Eu lancei esse hack de correção no dia 08/03/2020, no fórum onde os criadores do **Castlevania Netflix** lançaram seu hack, mas só agora estou publicando essa correção aqui no **PO.B.R.E.**
 
-![](//web.archive.org/web/20200928103531im_/http://www.romhackers.org/imagens/noticias/CVNetflix-Antes3.png)\
+![](//img.romhackers.org/noticias/CVNetflix-Antes3.png)\
 *Antes: Final da Sypha com bug*
 
-![](//web.archive.org/web/20200928103531im_/http://www.romhackers.org/imagens/noticias/CVNetflix-Depois.jpg)\
+![](//img.romhackers.org/noticias/CVNetflix-Depois.jpg)\
 *Depois: Final da Sypha com bug corrigido*
 
 No pacote do hack, há dois patches: um que corrige o bug na ROM americana (Sypha Ending Bugfix CV3.ips) e outro que corrige o bug na ROM japonesa (Sypha Ending Bugfix AD.ips), mas vale destacar que esse bug é proveniente do hack **Castlevania Netflix**, não da ROM original.
