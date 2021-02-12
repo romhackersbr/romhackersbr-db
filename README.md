@@ -8,7 +8,7 @@
     <a href="https://romhackers.org/emuladores">Emuladores</a>
     <br />
     <a href="https://romhackers.org/colaborando">Colaborar</a> | 
-    <a href="https://romhackers.org/https://github.com/romhackersbr/romhackersbr-db/issues">Reportar Erros</a>
+    <a href="https://github.com/romhackersbr/romhackersbr-db/issues">Reportar Erros</a>
     
     
 
