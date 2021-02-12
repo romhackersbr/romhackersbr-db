@@ -16,5 +16,6 @@ patch_release: "2000"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Snowman%20Traducoes%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Snowman%20Traducoes%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Snowman%20Traducoes%20-%203.png"]
+patch_file: "[SMD] After Burner II (UE) [!] [I-BR T-Bruno_X G-Snowman Traducoes P-100% A-2000].rar"
 ---
 Tradução simples porém regular, com abreviações, erro na tela de selecionar comandos (provavelmente por causa de ponteiros) e traduções esquisitas dos títulos das músicas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "After Burner II (UE) [!].gen" (código MK-1104), com CRC32 CCAFE00E.

@@ -16,5 +16,6 @@ patch_release: "1 de setembro de 2006 (povavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "Textos = 100%; Gráficos = 98%; Acentuação = 100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Joe%20&%20Mac%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Joe%20&%20Mac%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Joe%20&%20Mac%20-%20Trans-Center%20-%203.png"]
+patch_file: "[SMD] Joe & Mac Caveman Ninja (U) [!] [I-BR T-Anime_World G-Trans-Center A-2006].zip"
 ---
 Tradução boa, com quase todos os acentos postos (faltando o "ú" em "música") e todo o pouco texto do jogo traduzido. A ROM foi expandida de maneira estranha para conter uma tela introdutória do grupo Trans-Center.ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "JoeMac-TC.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Joe & Mac Caveman Ninja (U) [!].gen" (código T-103036), com CRC32 85BCC1C7, a única conhecida.

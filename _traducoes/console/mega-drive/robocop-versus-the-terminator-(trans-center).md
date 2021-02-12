@@ -16,5 +16,6 @@ patch_release: "18 de Setembro de 2004"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Robocop%20Versus%20The%20Terminator%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Robocop%20Versus%20The%20Terminator%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Robocop%20Versus%20The%20Terminator%20-%20Trans-Center%20-%203.png"]
+patch_file: "[SMD] Robocop Versus The Terminator (U) [!] [I-BR T-Lord_Ripper G-Trans-Center P-100% A-2004].zip"
 ---
 Tradução boa, com fonte acentuada e quase todo o texto do jogo traduzido (apenas algumas traduções necessárias no "teste som" de fora), incluindo os créditos do jogo, tendo apenas alguns erros de português frequentes e poucos de pontuação.ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "RobocopVSTerminator-TransCenter.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Robocop Versus The Terminator (U) [!].gen" (código T-70166), com CRC32 BBAD77A4.

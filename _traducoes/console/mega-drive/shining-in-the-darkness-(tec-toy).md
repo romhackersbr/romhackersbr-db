@@ -16,5 +16,6 @@ patch_release: "1994"
 patch_type: "Patch IPS e UPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Shining%20in%20the%20Darkness%20-%20Tec%20Toy%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Shining%20in%20the%20Darkness%20-%20Tec%20Toy%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Shining%20in%20the%20Darkness%20-%20Tec%20Toy%20-%203.png"]
+patch_file: "[SMD] Shining in the Darkness (UE) [!] [I-BR G-Tec Toy A-1994].zip"
 ---
 Tradução sem fonte dos diálogos acentuada, com menus gráficos acentuados e traduzidos (o menu inicial), diálogos e itens bem traduzidos, mas com alguns erros de pontuação e nomes de pessoas ("Sol Negro") e itens ("capuztecido") com traduções esquisitas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Shining in the Darkness (UE) [!].gen" (código MK-1310), com CRC32 4D2785BC.

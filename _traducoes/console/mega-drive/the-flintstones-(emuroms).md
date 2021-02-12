@@ -16,5 +16,6 @@ patch_release: "10 de junho de 1999 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Flintstones%20-%20Emuroms%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Flintstones%20-%20Emuroms%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Flintstones%20-%20Emuroms%20-%203.png"]
+patch_file: "[SMD] Flintstones, The (U) [I-BR T-Darth Vader G-Emuroms A-1999].zip"
 ---
 Tradução simples, sem fonte acentuada, com menus e diálogos traduzidos, mas com erros de pontuação e muitas partes sem ajustes corretos de ponteiros, nos diálogos (pontuação repete, tabulação esquisita etc), além de abreviações.ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "Flintstones-Emuroms.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Flintstones, The (U) [c][!].gen" (código T-11116), com CRC32 7C982C59.

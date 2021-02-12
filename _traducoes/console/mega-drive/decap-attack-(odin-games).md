@@ -16,5 +16,6 @@ patch_release: "16 de março de 2005 (provavelmente)"
 patch_type: "Patch IPS e IPSEXE dentro de pacote RAR"
 patch_progress: "98%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Decap%20Attack%20-%20Odin%20Games%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Decap%20Attack%20-%20Odin%20Games%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Decap%20Attack%20-%20Odin%20Games%20-%203.png"]
+patch_file: "[SMD] Decap Attack (UE) [!] [I-BR T-Eduardo Knuckles G-Odin Games V-0.1 P-98% A-2005].rar"
 ---
 Tradução sem fonte acentuada, com os diálogos, menu de opções, alguns gráficos e descrições de itens traduzidos, mas com traduções literais ("friza" no sentido de "congela") e muitas traduções esquisitas nas descrições dos itens.ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "DecapAttack-OdinGames-0.1.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Decap Attack (UE) [!].gen" (código MK1027), com CRC32 73DC0DD8.

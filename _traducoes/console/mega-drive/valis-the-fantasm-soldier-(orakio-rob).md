@@ -16,5 +16,6 @@ patch_release: "29 de agosto de 2002 (lançamento original)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Valis%20-%20The%20Fantasm%20Soldier%20-%20Orakio%20Rob%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Valis%20-%20The%20Fantasm%20Soldier%20-%20Orakio%20Rob%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Valis%20-%20The%20Fantasm%20Soldier%20-%20Orakio%20Rob%20-%203.png"]
+patch_file: "[SMD] Valis (U) [!] [I-BR T-Orakio Rob A-2002].zip"
 ---
 Tradução sem fonte acentuada e com todos os diálogos traduzidos, mas com erros de pontuação e trechos redundantes.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Valis (U) [!].gen" (código T-49196), com CRC32 13BC5B72.

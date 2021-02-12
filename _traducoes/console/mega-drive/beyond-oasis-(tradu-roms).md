@@ -16,5 +16,6 @@ patch_release: "11 de junho de 2004"
 patch_type: "Patch IPS e IPSEXE dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Beyond%20Oasis%20-%20Tradu-Roms%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Beyond%20Oasis%20-%20Tradu-Roms%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Beyond%20Oasis%20-%20Tradu-Roms%20-%203.png"]
+patch_file: "[SMD] Beyond Oasis (U) [!] [I-BR T-Fserve e Groxo_ G-Tradu-Roms V-1.4 P-100% A-2004].zip"
 ---
 Tradução regular, sem fonte acentuada, com alguns erros de português e de pontuação, diálogos e a seleção inicial do menu de pausa traduzido, mas os diálogos contendo traduções esquisitas parcialmente devido à falta de pontuação correta.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Beyond Oasis (U) [!].gen" (código MK-1354), com CRC32 C4728225.

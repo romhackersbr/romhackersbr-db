@@ -16,5 +16,6 @@ patch_release: "01/12/2009"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Gráficos - 90% / Acentos - 80%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Paperboy%20-%20Renix%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Paperboy%20-%20Renix%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Paperboy%20-%20Renix%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[SMD] Paperboy (UE) [!] [T-BR] [T-Renix G-Renix Traduções] [V-1.0 A-2009].rar"
 ---
 Uma tradução muito boa. Todos os textos do jogo estão traduzidos e parcialmente acentuados, e a maioria dos gráficos foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Paperboy (UE) [!].bin, com CRC32 0A44819B.

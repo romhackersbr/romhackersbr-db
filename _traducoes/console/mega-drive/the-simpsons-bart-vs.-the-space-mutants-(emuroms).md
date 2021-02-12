@@ -16,5 +16,6 @@ patch_release: "23 de fevereiro de 2000"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Simpsons%20-%20Bart%20vs.%20the%20Space%20Mutants%20-%20Emuroms%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Simpsons%20-%20Bart%20vs.%20the%20Space%20Mutants%20-%20Emuroms%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Simpsons%20-%20Bart%20vs.%20the%20Space%20Mutants%20-%20Emuroms%20-%203.png"]
+patch_file: "[SMD] Simpsons, The - Bart vs The Space Mutants (UE) (REV00) [!] [I-BR T-Venom Total G-Emuroms A-1999].zip"
 ---
 Tradução sem fonte acentuada e com todos os diálogos (piadas bem adaptadas) e nomes de itens traduzidos, mas ainda tem poucos erros de pontuação.ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente, além de ter sido feito para uma ROM em formato entrelaçado e com cabeçalho pirata (SMD). Um IPS alternativo está disponível no pacote com o nome "TheSimpsonsBvsTSM-Emuroms.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Simpsons, The - Bart vs The Space Mutants (UE) (REV00) [!].gen" (código T-081026), com CRC32 C8620574.Para aplicar o patch original, basta converter essa ROM mencionada.

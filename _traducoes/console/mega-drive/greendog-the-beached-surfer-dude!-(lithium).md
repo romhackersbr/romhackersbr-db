@@ -16,5 +16,6 @@ patch_release: "2 de setembro de 2000"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Greendog%20-%20The%20Beached%20Surfer%20Dude%20-%20Lithium%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Greendog%20-%20The%20Beached%20Surfer%20Dude%20-%20Lithium%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Greendog%20-%20The%20Beached%20Surfer%20Dude%20-%20Lithium%20-%203.png"]
+patch_file: "[SMD] Greendog - The Beached Surfer Dude (UE) [!] [I-BR T-Lithium A-2000].zip"
 ---
 Tradução simples, sem fonte acentuada, com todos os diálogos e menus traduzidos, apesar de alguns poucos erros de português e pontuação.ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "Greendog-Lithium.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Greendog - The Beached Surfer Dude (UE) [!].gen" (código MK-1035), com CRC32 C4820A03, a única conhecida.

@@ -16,5 +16,6 @@ patch_release: "20 de julho de 2001 (provavelmente)"
 patch_type: "Patch IPS e IPSEXE dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Vectorman%202%20-%20Sonic_Spin%20Translations%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Vectorman%202%20-%20Sonic_Spin%20Translations%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Vectorman%202%20-%20Sonic_Spin%20Translations%20-%203.png"]
+patch_file: "[SMD] Vectorman 2 (U) [!] [I-BR T-Sonic_Spin G-Sonic_Spin Translations P-100% A-2001].zip"
 ---
 Tradução simples, sem fonte acentuada e com nomes de níveis, parte dos menus e placares do final da fase traduzidos.ATENÇÃO:Existem dois IPS originais no pacote: "vectorman2_bin.exe" e "vectorman2_smd.exe" (para formato entrelaçado e com cabeçalho pirata, "SMD"). Eles não consertam a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "Vectorman2-SonicSpin.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Vectorman 2 (U) [!].gen" (código MK-1843), com CRC32 C1A24088.O IPS "vectorman2_smd.exe" deve ser aplicado após converter essa ROM mencionada.

@@ -16,5 +16,6 @@ patch_release: "9 de maio de 2001"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Streets%20of%20Rage%202%20-%20GTC%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Streets%20of%20Rage%202%20-%20GTC%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Streets%20of%20Rage%202%20-%20GTC%20-%203.png"]
+patch_file: "[SMD] Streets of Rage 2 (U) [!] [I-BR T-ShadowJake G-GTC A-2001].rar"
 ---
 Tradução boa, com fonte acentuada, alguns gráficos editados e quase todo o texto do jogo traduzido, apesar do que parece ser dois erros de digitação na introdução ("tres" e "vinganças"), e um aparente erro de ponteiros na tela do logotipo (a data), além da mudança esquisita do nome de alguns inimigos.ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "StreetsOfRage2-GTC.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Streets of Rage 2 (U) [!].gen" (código MK-1054), com CRC32 E01FA526.

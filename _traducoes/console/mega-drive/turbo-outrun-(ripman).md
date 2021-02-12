@@ -16,5 +16,6 @@ patch_release: "07/10/2017"
 patch_type: "IPS"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Turbo%20Outrun%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Turbo%20Outrun%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Turbo%20Outrun%20-%203.png"]
+patch_file: "[SMD] Turbo Outrun (JE) [c][!] [T-BR] [T-ripman G-Nenhum] [V-1.0 A-2017].7z"
 ---
 Segundo o autor desta tradução, todos os textos do jogo foram traduzidos, mas não foram acentuados, e nenhuma mensagem em forma de gráfico foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM Turbo Outrun (JE) [c][!].bin, com CRC32 0C661369.

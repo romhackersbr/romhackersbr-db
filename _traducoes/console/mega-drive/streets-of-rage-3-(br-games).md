@@ -16,5 +16,6 @@ patch_release: "4 de março de 2000"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Streets%20of%20Rage%203%20-%20BR%20Games%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Streets%20of%20Rage%203%20-%20BR%20Games%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Streets%20of%20Rage%203%20-%20BR%20Games%20-%203.png"]
+patch_file: "[SMD] Streets of Rage 3 (U) [!] [I-BR T-XMib G-BR Games P-100% A-2000].zip"
 ---
 Tradução sem fonte acentuada e com todos os diálogos (alguns termos de fora, como "City Hall") e menu de opções traduzidos, mas com alguns erros de pontuação, de português e de digitação ("acupado" na introdução), além de traduções literais, como expressões, que deixam os diálogos do jogo sem sentido.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Streets of Rage 3 (U) [!].gen" (código MK-1539), com CRC32 D5BB15D9.

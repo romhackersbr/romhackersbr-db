@@ -16,5 +16,6 @@ patch_release: "11/02/2009"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Flintstones%20-%20Masters%20Games%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Flintstones%20-%20Masters%20Games%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Flintstones%20-%20Masters%20Games%20-%203.png"]
+patch_file: "[SMD] Flintstones, The (U) [c][!] [T-BR] [T-Zyre G-Masters Games] [P-100% A-2009].zip"
 ---
 Uma boa tradução que conta com todos os textos traduzidos, mas sem acentuação e edição nos gráficos.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Flintstones, The (U) [c][!].bin, com CRC32 7C982C59.

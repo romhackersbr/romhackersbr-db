@@ -16,5 +16,6 @@ patch_release: "13 de dezembro de 1999"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Altered%20Beast%20-%20Emuroms%20e%20Hideway%202000%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Altered%20Beast%20-%20Emuroms%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Altered%20Beast%20-%20Emuroms%20-%203.png"]
+patch_file: "[SMD] Altered Beast (UE) (REV02) [!] [I-BR T-Homer Simpsons G-Emuroms A-1999].zip"
 ---
 Tradução simples, sem fonte acentuada e com abreviações no menu das opções, além de ter tirado os textos do final das fases (trocou o da primeira por "PONTOS").ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, travando o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "AlteredBeast-Emuroms-1999.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Altered Beast (UE) (REV02) [!].gen" (código interno 00054002, japonês G-4001), com CRC32 154D59BB. Única ROM conhecida sem contar as versões dentro dos BIOS.

@@ -16,5 +16,6 @@ patch_release: "22/11/2016"
 patch_type: "IPS"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Super%20Mario%20Bros.%20MULS%201.4.2%20-%20H%C3%A9lder%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Super%20Mario%20Bros.%20MULS%201.4.2%20-%20H%C3%A9lder%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Super%20Mario%20Bros.%20MULS%201.4.2%20-%20H%C3%A9lder%20-%203.png"]
+patch_file: "[SMD] Super Mario Bros. MULS 1.4.2 [T-PT] [T-Hélder G-Nenhum] [V-1.0 A-2016].zip"
 ---
 Super Mario Bros. MULS 1.4.2 é um game homebrew, feito pelo programador argentino Mairtrus, que traz o primeiro jogo da série Super Mario Bros. para o sistema Mega Drive.Com relação à tradução, o romhacker português Hélder informa que todos os textos do jogo estão traduzidos para o idioma português de Portugal, mas não estão acentuados, e nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original MULS_1.4.2.bin, com CRC32 87A8C533.OBS: O pacote de tradução conta com um patch extra ([SMD] Super Mario Bros. MULS 1.4.2 [T-PT] [T-Hélder G-Nenhum] [V-1.0 A-2016] [checksum fixed].ips) que já corrige a checksum da ROM.

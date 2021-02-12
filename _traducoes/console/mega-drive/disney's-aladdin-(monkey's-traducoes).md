@@ -16,5 +16,6 @@ patch_release: "25/12/2009"
 patch_type: "IPS-EXE"
 patch_progress: "95%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Disney's%20Aladdin%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Disney's%20Aladdin%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Disney's%20Aladdin%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[SMD] Disney's Aladdin (U) [!] [T-BR] [T-Unknown Master G-Monkey's Traduções] [V-1.0 P-95% A-2009].rar"
 ---
 Uma ótima tradução. Todos os textos estão traduzidos e acentuados, mas nenhum gráfico além da fonte foi editado ainda (o autor promete tentar editar os gráficos e lançar uma versão 2.0 da tradução futuramente).OBS: Esta é a primeira tradução lançada pelo tradutor Unknown Master.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Disney's Aladdin (U) [!].bin, com CRC32 ED427EA9.

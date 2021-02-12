@@ -16,5 +16,6 @@ patch_release: "10 de setembro de 2004 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Valis%20III%20-%20Dark%20Heaven%20Traducoes%20e%20IPS%20Center%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Valis%20III%20-%20Dark%20Heaven%20Traducoes%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Valis%20III%20-%20Dark%20Heaven%20Traducoes%20-%203.png"]
+patch_file: "[SMD] Valis III (U) [!] [I-BR G-Dark Heaven Traducoes A-2004].zip"
 ---
 Tradução sem fonte acentuada e com todos os diálogos e créditos traduzidos, mas com alguns erros de pontuação.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Valis III (U) [!].gen" (código T-49086), com CRC32 59A2A368.

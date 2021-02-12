@@ -16,5 +16,6 @@ patch_release: "18 de setembro de 1999 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Pit%20Fighter%20-%20Emuroms%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Pit%20Fighter%20-%20Emuroms%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Pit%20Fighter%20-%20Emuroms%20-%203.png"]
+patch_file: "[SMD] Pit Fighter (UE) (Jun 1991) [!] [I-BR T-Felipe-17 G-Emuroms A-1999].zip"
 ---
 Tradução simples porém regular, sem fonte acentuada e com boa parte dos textos traduzidos (alguns termos sem tradução), mas contendo muitas abreviações, alguns erros de português e de tradução, além de traduções literais.ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "PitFighter-Emuroms.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Pit Fighter (UE) (Jun 1991) [!].gen" (código T-48076), com CRC32 1E0E0831.

@@ -16,5 +16,6 @@ patch_release: "19 de Setembro de 2015"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Bio-Hazard%20Battle%20-%20Yoz%20-%201.bmp","//img.romhackers.org/traducoes/%5BSMD%5D%20Bio-Hazard%20Battle%20-%20Yoz%20-%202.bmp","//img.romhackers.org/traducoes/%5BSMD%5D%20Bio-Hazard%20Battle%20-%20Yoz%20-%203.bmp"]
+patch_file: "[SMD] Bio-Hazard Battle (UE) [!] [T-BR] [T-Yoz G-Nenhum] [A-2015].rar"
 ---
 A grande maioria dos textos estão traduzidos (os textos 'TIME', 'Credit', 'Game Over' e 'No' não estão traduzidos). Nenhum gráfico foi editado e a fonte não foi acentuada.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Bio-Hazard Battle (UE) [!].bin, com CRC32 95B0EA2B.

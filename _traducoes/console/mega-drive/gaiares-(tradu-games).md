@@ -16,5 +16,6 @@ patch_release: "1 de maio de 2003 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Gaiares%20-%20Tradu%20Games%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Gaiares%20-%20Tradu%20Games%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Gaiares%20-%20Tradu%20Games%20-%203.png"]
+patch_file: "[SMD] Gaiares (JU) [!] [I-BR T-Orakio Rob G-Tradu Games A-2003].rar"
 ---
 Tradução regular, sem fonte acentuada e com todos os diálogos traduzidos, apesar dos erros de pontuação, alguns erros de português e tradução literal de um trecho, deixando-o esquisito (presente na tradução original em inglês, mas não foi adaptado).ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "Gaiares-TraduGames-Orakio.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Gaiares (JU) [!].gen" (código T-49013), com CRC32 5D8BF68B.

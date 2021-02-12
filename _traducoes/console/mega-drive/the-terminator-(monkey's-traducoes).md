@@ -16,5 +16,6 @@ patch_release: "05/07/2010"
 patch_type: "undefined"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Terminator%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Terminator%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Terminator%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[SMD] Terminator, The (U) [!] [T-BR] [T-Unknown Master G-Monkey's Traduções] [V-1.0 P-100% A-2010].rar"
 ---
 Uma ótima tradução. Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Terminator, The (U) [!].bin, com CRC32 31A629BE.

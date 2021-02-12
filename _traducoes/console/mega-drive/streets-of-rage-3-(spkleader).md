@@ -16,5 +16,6 @@ patch_release: "26 de maio de 2010"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Streets%20of%20Rage%203%20-%20SpkLeader%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Streets%20of%20Rage%203%20-%20SpkLeader%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Streets%20of%20Rage%203%20-%20SpkLeader%20-%203.png"]
+patch_file: "[SMD] Streets of Rage 3 (U) [!] [I-BR T-SpkLeader V-2.0 P-100% A-2010].zip"
 ---
 Tradução sem fonte acentuada e com todos os diálogos e menu de opções traduzidos, mas com alguns erros de pontuação (visivelmente, um ponto final bem na introdução).ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Streets of Rage 3 (U) [!].gen" (código MK-1539), com CRC32 D5BB15D9.

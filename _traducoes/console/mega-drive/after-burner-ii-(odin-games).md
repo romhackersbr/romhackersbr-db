@@ -16,5 +16,6 @@ patch_release: "17 de fevereiro de 2005"
 patch_type: "Patch IPS e IPSEXE dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Odin%20Games%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Odin%20Games%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Odin%20Games%20-%203.png"]
+patch_file: "[SMD] After Burner II (UE) [!] [I-BR T-Eduardo Knuckles G-Odin Games V-0.2 A-2005].zip"
 ---
 Tradução simples, com fonte devidamente acentuada, quase tudo traduzido exceto pelo título da música que tem o mesmo nome do jogo (a tradução da música "Final Take Off" também ficou muito esquisita como "Captura Final").ATENÇÃO:Esta tradução deve ser aplicada na ROM original "After Burner II (UE) [!].gen" (código MK-1104), com CRC32 CCAFE00E.

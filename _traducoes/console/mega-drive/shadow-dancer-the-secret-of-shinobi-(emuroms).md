@@ -16,5 +16,6 @@ patch_release: "10 de junho de 1999 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Shadow%20Dancer%20-%20The%20Secret%20of%20Shinobi%20-%20Emuroms%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Shadow%20Dancer%20-%20The%20Secret%20of%20Shinobi%20-%20Emuroms%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Shadow%20Dancer%20-%20The%20Secret%20of%20Shinobi%20-%20Emuroms%20-%203.png"]
+patch_file: "[SMD] Shadow Dancer - The Secret of Shinobi (W) [c][!] [I-BR T-Skewer G-Emuroms A-1999].zip"
 ---
 Tradução sem fonte acentuada e com praticamente todo o texto do jogo traduzido (apenas os gráficos, como "POWER UP", de fora), mas com algumas traduções literais na introdução ("Shinobi lutou").ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Shadow Dancer - The Secret of Shinobi (W) [c][!].gen" (código interno 00001114, japonês G-4043), com CRC32 EBE9AD10.
