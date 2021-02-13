@@ -11,7 +11,7 @@ As traduções são as seguintes:
 
 **Mega Drive (3 traduções)**:
 
--   [Chip 'n Dale - Rescue Ranger (Tugahack)](//romhackers.org/traducoes/console/mega-drive/chip-'n-dale-rescue-ranger-tugahack/)
+-   [Chip 'n Dale - Rescue Ranger (Tugahack)](//romhackers.org/traducoes/console/mega-drive/chip-n-dale-rescue-ranger-tugahack/)
 -   [Rolling Thunder 2 (Tedenfe e Anime_World)](//romhackers.org/traducoes/console/mega-drive/rolling-thunder-2-tedenfe-e-anime_world/)
 -   [Turma da Mônica na Terra dos Monstros (Anime_World)](//romhackers.org/traducoes/console/mega-drive/turma-da-monica-na-terra-dos-monstros-anime_world/)
 
@@ -20,8 +20,8 @@ As traduções são as seguintes:
 
 -   [1942 (Andyriddler)](//romhackers.org/traducoes/console/nes/1942-(andyriddler)/)
 -   [1943 - The Battle of Midway (Andyriddler)](//romhackers.org/traducoes/console/nes/1943-the-battle-of-midway-andyriddler/)
--   [8 Eye's (Andyriddler)](//romhackers.org/traducoes/console/nes/8-eye's-(andyriddler)/)
--   [Crash 'n' the Boys - Street Challenge (Andyriddler e Natália)](//romhackers.org/traducoes/console/nes/crash-'n'-the-boys-street-challenge-andyriddler-e-natalia/)
+-   [8 Eye's (Andyriddler)](//romhackers.org/traducoes/console/nes/8-eyes-(andyriddler)/)
+-   [Crash 'n' the Boys - Street Challenge (Andyriddler e Natália)](//romhackers.org/traducoes/console/nes/crash-n-the-boys-street-challenge-andyriddler-e-natalia/)
 -   [The 3-D Battles of World Runner (Andyriddler)](//romhackers.org/traducoes/console/nes/the-3-d-battles-of-world-runner-andyriddler/)
 -   [The Adventures of Bayou Billy (Andyriddler e Natália)](//romhackers.org/traducoes/console/nes/the-adventures-of-bayou-billy-andyriddler-e-natalia/)
 -   [The Blues Brothers (Andyriddler e Natália)](//romhackers.org/traducoes/console/nes/the-blues-brothers-andyriddler-e-natalia/)
