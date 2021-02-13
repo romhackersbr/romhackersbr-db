@@ -10,8 +10,8 @@
     <a href="https://romhackers.org/colaborando">Colaborar</a> | 
     <a href="https://github.com/romhackersbr/romhackersbr-db/issues">Reportar Erros</a>
     <br />
-    <img src="https://img.shields.io/github/last-commit/romhackersbr/romhackersbr-db?label=%C3%BAltima%20modifica%C3%A7%C3%A3o" />
-    <img src="https://img.shields.io/discord/89646072086929408?label=discord" />
+    <a href="#"><img src="https://img.shields.io/github/last-commit/romhackersbr/romhackersbr-db?label=%C3%BAltima%20modifica%C3%A7%C3%A3o" /></a>
+    <a href="https://discord.com/invite/keJkKWk"<img src="https://img.shields.io/discord/89646072086929408?label=discord" /></a>
 </p>
 <p align="center">
 Este é o repositório do banco de dados do Portal Brasileiro de ROMHacking e Emulação.
