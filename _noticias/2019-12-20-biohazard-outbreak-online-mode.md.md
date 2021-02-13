@@ -26,7 +26,7 @@ Abaixo algumas imagens do jogo traduzido.
 
 Aproveitem e baixem a tradução. Estou à disposição, para críticas e sugestões de melhoria da tradução. Até a próxima...
 
-[Biohazard Outbreak - Online mode - download do patch](//romhackers.org/traducoes/console/playstation-2/biohazard-outbreak-online-mode-(po.b.r.e.)/)
+[Biohazard Outbreak - Online mode - download do patch](//romhackers.org/traducoes/console/playstation-2/biohazard-outbreak-online-mode-po.b.r.e./)
 
 Nova versão 0.93 beta, corrigido bug que impedia de continuar no jogo.\
 ![](//web.archive.org/web/20200928103531im_/http://romhackers.org/uploads/smil47047241216ea.gif)
