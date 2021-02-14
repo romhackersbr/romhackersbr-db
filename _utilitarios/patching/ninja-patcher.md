@@ -1,5 +1,5 @@
 ---
-title: "Ninja Patcher"
+title: "Ninja Patcher (PHP)"
 program_name: "Ninja Patcher"
 author: "Derrick Sobodash"
 group: "CinnamonPirate"
