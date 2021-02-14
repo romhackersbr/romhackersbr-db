@@ -1,6 +1,6 @@
 ---
 title: "Universal IPS (Código-fonte)"
-program_name: "Universal IPS"
+program_name: "Universal IPS (aka UIPS)"
 author: "Neill Corlett"
 group: ""
 category: "Criação e aplicação de patches"
