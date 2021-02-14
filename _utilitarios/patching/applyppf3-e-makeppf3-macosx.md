@@ -11,6 +11,6 @@ release_date: "15/11/2001"
 version: "3.0"
 site: "http://www.paradogs.com/ (fora do ar)"
 ---
-ApplyPPF e MakePPF são, respectivamente, um aplicador e criador de patches em formato PPF e funcionam através de linha de comando.
+ApplyPPF e MakePPF são, respectivamente, um aplicador e um criador de patches em formato PPF e funcionam através de linha de comando.
 
 OBS: Esta versão do programa deve ser usada em sistemas Mac OS X.
