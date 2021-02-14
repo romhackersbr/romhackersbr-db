@@ -1,9 +1,9 @@
 ---
 title: "Movie Tools"
 program_name: "Movie Tools"
-author: "Desconhecido"
+author: ""
 group: "Sony Computer Entertainment"
-category: "Edição de vídeos"
+category: "Vídeos"
 platform: "Windows"
 system: "Playstation"
 language: "Inglês"
