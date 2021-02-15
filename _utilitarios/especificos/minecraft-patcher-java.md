@@ -1,5 +1,5 @@
 ---
-title: "Minecraft Patcher"
+title: "Minecraft Patcher (Java)"
 program_name: "Minecraft Patcher"
 author: "Kahr"
 group: ""
