@@ -1,5 +1,5 @@
 ---
-title: "FFATEXT"
+title: "FFATEXT (Código-fonte)"
 program_name: "FFATEXT"
 author: "tvtoon"
 group: "Portal Brasileiro de Romhacking e Emulação"
