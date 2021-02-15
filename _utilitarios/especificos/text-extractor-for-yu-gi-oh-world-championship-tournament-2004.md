@@ -1,5 +1,5 @@
 ---
-title: "Text Extractor for Yu-Gi-Oh! World Championship Tournament 2004"
+title: "Text Extractor for Yu-Gi-Oh! World Championship Tournament 2004 (Código-fonte)"
 program_name: "Text Extractor for Yu-Gi-Oh! World Championship Tournament 2004"
 author: "Odin"
 group: "Trans-Center"
