@@ -15,4 +15,4 @@ Esta é a versão para sistemas Mac OS X do programa <b>Toad's Tool 64</b>, uma 
 
 <b>ATENÇÃO</b>:
 
-A ferramenta só é capaz de editar as fases da ROM original <b>Super Mario 64 (U) [!].z64</b>, com CRC32 </b>3CE60709 e sem byteswap que foi previamente expandida e descomprimida pela ferramenta <a href="https://romhackers.org/utilitarios/jogos-especificos/super-mario-64-rom-extender-mac-os-x/">Super Mario 64 ROM Extender</a>.
+A ferramenta só é capaz de editar as fases da ROM original <b>Super Mario 64 (U) [!].z64</b>, com CRC32 <b>3CE60709</b> e sem byteswap que foi previamente expandida e descomprimida pela ferramenta <a href="https://romhackers.org/utilitarios/jogos-especificos/super-mario-64-rom-extender-mac-os-x/">Super Mario 64 ROM Extender</a>.
