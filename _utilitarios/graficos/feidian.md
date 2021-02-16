@@ -13,8 +13,8 @@ site: "http://feidian.sourceforge.net/ (fora do ar)"
 ---
 <b>FEIDIAN</b> é um programa que lhe permite extrair os gráficos dos jogos feitos para diversos sistemas. Sua flexibilidade lhe permite extrair os <i>tiles</i> que estejam em qualquer tamanho.
 
-OBS: Para tirar o melhor proveito deste programa, aconselhamos a todos que peguem também as <a href="">definições de tiles</a>.
+OBS: Para tirar o melhor proveito deste programa, aconselhamos a todos que peguem também as <a href="https://romhackers.org/utilitarios/graficos/feidian-definicoes-de-tiles/">definições de tiles</a>.
 
-<a>ATENÇÃO</a>:
+<b>ATENÇÃO</b>:
 
 Este programa foi codificado na linguagem PHP. Portanto, será preciso ter um interpretador PHP instalado em seu computador para que o programa funcione.
