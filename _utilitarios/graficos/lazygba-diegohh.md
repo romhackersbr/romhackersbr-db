@@ -21,7 +21,7 @@ OBS: Para obter as instruções de utilização, leiam o arquivo "LEIA-ME!.txt" 
 - Criada uma interface gráfica simples;
 - Correção da rotina de compressão.
 
-OBS: Uma nova versão desta ferramenta, que conta com várias novidades, pode ser obtida através <a href="https://romhackers.org/utilitarios/graficos/lazygba-monkeys-traducoes/">deste link</a>.
+OBS: Uma nova versão desta ferramenta, que conta com várias novidades, pode ser obtida através <a href="https://romhackers.org/utilitarios/graficos/lazynds/">deste link</a>.
 
 <b>ATENÇÃO</b>:
 
