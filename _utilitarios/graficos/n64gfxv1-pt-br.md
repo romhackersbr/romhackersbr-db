@@ -13,4 +13,4 @@ site: "http://zelda64br.tsx.org (fora do ar)"
 ---
 Programado por <b>Ear_Clock</b> e <b>cesarB</b>, e contando com a contribuição de <b>Hyllian</b> (com o frontend), todos da cena brasileira de romhacking, <b>N64GFX</b> é um programa que permite extrair e reinserir os gráficos nas ROMs do sistema Nintendo 64.
 
-OBS: Esta é uma versão 1.0 do programa no idioma português brasileiro.
+OBS: Esta é a versão 1.0 do programa no idioma português brasileiro.
