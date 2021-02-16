@@ -13,9 +13,9 @@ site: "http://www.monkeystraducoes.com/ (fora do ar)"
 ---
 <b>LaZyNDS</b> é uma ferramenta desenvolvida por <b>DiegoHH</b>, membro do grupo <b>Monkey's Traduções</b>, e que é voltada para romhacking com o objetivo de buscar, extrair e inserir arquivos comprimidos através das rotinas da bios dos sistemas Game Boy Advance e Nintendo Dual Screen.
 
-A ferramenta foi escrita em <b>Python</b>, usando como toolkit gráfico GTK+, o que o torna possível de ser rodado em várias plataformas, incluindo Windows e Linux.
+A ferramenta foi escrita em <b>Python</b>, usando como toolkit gráfico GTK+, o que o torna possível de ser executado em várias plataformas, incluindo Windows e Linux.
 
-Para um perfeito entendimento da instalção e do uso da ferramenta leia o arquivo "LEIA-ME!.txt" que acompanha a ferramenta.
+Para um perfeito entendimento da instalação e do uso da ferramenta leia o arquivo "LEIA-ME!.txt" que acompanha a ferramenta.
 
 Versão 2.0.4: (Lançado em 21/02/2011):
 
