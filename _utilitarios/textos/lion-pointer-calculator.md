@@ -1,7 +1,7 @@
 ---
 title: "Lion Pointer Calculator"
 program_name: "Lion Pointer Calculator"
-author: " Anime_World"
+author: "Anime_World"
 group: "Trans-Center"
 category: "Textos"
 platform: "Windows"
