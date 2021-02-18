@@ -1,5 +1,5 @@
 ---
-title: "WordSoup"
+title: "WordSoup (Monkey's Traduções)"
 program_name: "WordSoup"
 author: "Dandy-BR"
 group: "Monkey's Traduções"
