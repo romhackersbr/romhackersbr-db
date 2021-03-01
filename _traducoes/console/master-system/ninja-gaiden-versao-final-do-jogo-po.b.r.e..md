@@ -17,6 +17,7 @@ patch_type: "IPS e IPS-EXE"
 patch_progress: "Textos: 100% / Acentos: 100% / Gráficos: 100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Ninja%20Gaiden%20-%20POBRE%20-%204.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Ninja%20Gaiden%20-%20POBRE%20-%205.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Ninja%20Gaiden%20-%20POBRE%20-%206.png"]
 patch_file: "[SMS] Ninja Gaiden (EB) [!] [T-BR] [T-Mr.Fox G-POBRE] [V-1.2 P-100% A-2021].zip"
+modified_date:"2021/03/01"
 ---
 Todos os textos do jogo estão traduzidos e acentuados, e todas as mensagens em forma de gráfico foram editadas.
 
