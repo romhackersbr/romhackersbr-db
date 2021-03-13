@@ -17,6 +17,7 @@ patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPCE%5D%20Timeball%20-%20Altieres%20-%201.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Timeball%20-%20Altieres%20-%202.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Timeball%20-%20Altieres%20-%203.png"]
 patch_file: "[PCE] Timeball (U) [T-BR] [T-Altieres G-Nenhum] [A-2005].zip"
+modified_date: "2008/04/05"
 ---
 Todos os textos do jogo estão traduzidos, mas não estão acentuados. Além disso, nota-se alguns erros de ortografia, mas nada que atrapalhe o entendimento dos textos.
 
