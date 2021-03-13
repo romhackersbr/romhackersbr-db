@@ -17,6 +17,7 @@ patch_type: "IPS"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BPCE%5D%20Die%20Hard%20-%20Patryck%20-%201.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Die%20Hard%20-%20Patryck%20-%202.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Die%20Hard%20-%20Patryck%20-%203.png"]
 patch_file: "[PCE] Die Hard (J) [T-BR] [T-Patryck G-Nenhum] [V-1.0 P-95% A-2018].zip"
+modified_date: "2020/07/04"
 ---
 Segundo o autor da tradução, praticamente todos os textos do jogo estão traduzidos e acentuados (apenas os textos "PUSH START BUTTON" e os créditos finais não foram traduzidos), e todas as mensagens em forma de gráfico também foram editadas.
 
