@@ -17,6 +17,7 @@ patch_type: "IPS"
 patch_progress: "99%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPCE%5D%20Neutopia%20-%20Falsa%20CBT%20-%201.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Neutopia%20-%20Falsa%20CBT%20-%202.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Neutopia%20-%20Falsa%20CBT%20-%203.png"]
 patch_file: "[PCE] Neutopia (U) [T-BR] [T-Raptor_Z G-CBT] [V-1.0 beta P-99% A-2004].zip"
+modified_date: "2008/04/05"
 ---
 Os textos do jogo estão traduzidos e acentuados, mas infelizmente os gráficos não foram editados. Nota-se erros mínimos de acentuação e pontuação, mas nada que atrapalhe o entendimento dos textos.
 
