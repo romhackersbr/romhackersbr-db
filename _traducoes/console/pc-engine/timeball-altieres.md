@@ -16,5 +16,10 @@ patch_release: "17/05/2005"
 patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPCE%5D%20Timeball%20-%20Altieres%20-%201.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Timeball%20-%20Altieres%20-%202.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Timeball%20-%20Altieres%20-%203.png"]
+patch_file: "[PCE] Timeball (U) [T-BR] [T-Altieres G-Nenhum] [A-2005].zip"
 ---
-Esta tradução está razoável. Todos os textos estão traduzidos, mas não estão acentuados. Nota-se alguns erros de ortografia, mas nada que atrapalhe a diversão.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Timeball (U).pce, com CRC32 5D395019 e sem cabeçalho.
+Todos os textos do jogo estão traduzidos, mas não estão acentuados. Além disso, nota-se alguns erros de ortografia, mas nada que atrapalhe o entendimento dos textos.
+
+<b>ATENÇÃO</b>:
+
+Esta tradução deve ser aplicada na ROM original <b>Timeball (U).pce</b>, com CRC32 <b>5D395019</b> e <b>sem</b> cabeçalho.
