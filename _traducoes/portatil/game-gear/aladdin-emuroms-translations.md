@@ -16,5 +16,11 @@ patch_release: "02/09/1999 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BGG%5D%20Aladdin%20-%20Emuroms%20-%201.png","//img.romhackers.org/traducoes/%5BGG%5D%20Aladdin%20-%20Emuroms%20-%202.png","//img.romhackers.org/traducoes/%5BGG%5D%20Aladdin%20-%20Emuroms%20-%203.png"]
+patch_file: "[GG] Aladdin (U) [!] [T-BR] [T-Darth Vader G-Emuroms Translations] [A-1999].zip"
+modified_date: "2008/04/10"
 ---
-Esta tradução está razoável. Os textos estão traduzidos, mas não estão acentuados. Há algumas coisas não traduzidas, como a tela de continue. Nota-se, também, erros de separação silábica (separação feita sem o hífen), algumas palavras coladas umas nas outras e outros pequenos erros. Porém, nada que atrapalhe o entendimento dos textos.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Aladdin (U) [!].gg, com CRC32 7A41C1DC.
+Os textos do jogo estão traduzidos, mas não estão acentuados. Há alguns elementos não traduzidos, como a tela de continue. Nota-se, também, erros de separação silábica (separação feita sem o hífen), algumas palavras sem espaçamento e outros pequenos problemas.
+
+<b>ATENÇÃO</b>:
+
+Esta tradução deve ser aplicada na ROM original <b>Aladdin (U) [!].gg</b>, com CRC32 <b>7A41C1DC</b>.
