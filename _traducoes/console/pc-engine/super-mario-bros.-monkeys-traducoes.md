@@ -17,6 +17,7 @@ patch_type: "IPS, IPS-EXE, RUP e UPS"
 patch_progress: "98%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPCE%5D%20Super%20Mario%20Bros.%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Super%20Mario%20Bros.%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Super%20Mario%20Bros.%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
 patch_file: "[PCE] Super Mario Bros (J) [p1] [T-BR] [T-Wolfwood G-Monkey's Traduções] [V-1.0 P-98% A-2009].rar"
+modified_date: "2009/06/07"
 ---
 Esta é uma tradução para a versão pirata do jogo <b>Super Mario Bros.</b> convertido para o console PC Engine. Os textos do jogo estão traduzidos e acentuados, assim como as mensagens em forma de gráfico.
 
