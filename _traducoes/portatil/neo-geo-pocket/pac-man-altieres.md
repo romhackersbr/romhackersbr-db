@@ -16,5 +16,11 @@ patch_release: "17/05/2005"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNGP%5D%20Pac-Man%20-%20Altieres%20-%201.png","//img.romhackers.org/traducoes/%5BNGP%5D%20Pac-Man%20-%20Altieres%20-%202.png","//img.romhackers.org/traducoes/%5BNGP%5D%20Pac-Man%20-%20Altieres%20-%203.png"]
+patch_file: "[NGP] Pac-Man (JUE) [!] [T-BR] [T-Altieres G-Nenhum] [A-2005].zip"
+modified_date: "2008/04/05"
 ---
-O pouco que havia para ser traduzido neste jogo está disponível em nossa língua.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Pac-Man (JUE) [!].ngc com CRC32 21E8CC15.
+Os poucos textos do jogo estão traduzidos em português.
+
+<b>ATENÇÃO</b>:
+
+Esta tradução deve ser aplicada na ROM original <b>Pac-Man (JUE) [!].ngc</b>, com CRC32 <b>21E8CC15</b>.
