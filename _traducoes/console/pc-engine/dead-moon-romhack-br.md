@@ -17,6 +17,7 @@ patch_type: "IPS e IPS-EXE"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPCE%5D%20Dead%20Moon%20-%20Romhack%20BR%20-%201.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Dead%20Moon%20-%20Romhack%20BR%20-%202.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Dead%20Moon%20-%20Romhack%20BR%20-%203.png"]
 patch_file: "[PCE] Dead Moon - Tsuki Sekai no Akumu (J) [T-BR] [T-Lhotian G-Romhack BR] [P-100% A-2001].zip"
+modified_date: "2008/04/05"
 ---
 Os textos do jogo estão traduzidos, mas infelizmente não estão acentuados. Também é possível notar erros mínimos de português, mas nada que atrapalhe a diversão.
 
