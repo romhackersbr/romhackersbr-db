@@ -17,6 +17,7 @@ patch_type: "IPS e IPS-EXE"
 patch_progress: "95%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPCE%5D%20Lode%20Runner%20-%20Ushina%20Wareta%20Meikyuu%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//romhackers.org/uploads/smil470475b7a95a6.gif","//img.romhackers.org/traducoes/%5BPCE%5D%20Lode%20Runner%20-%20Ushina%20Wareta%20Meikyuu%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BPCE%5D%20Lode%20Runner%20-%20Ushina%20Wareta%20Meikyuu%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
 patch_file: "[PCE] Lode Runner - Ushina Wareta Meikyuu (J) [T-BR] [T-Wolfwood G-Monkey's Traduções] [V-We Can P-95% A-2009].7z"
+modified_date: "2009/02/24"
 ---
 Praticamente todos os textos do jogo estão traduzidos e acentuados, e as mensagens em forma de gráfico também foram editadas.
 
