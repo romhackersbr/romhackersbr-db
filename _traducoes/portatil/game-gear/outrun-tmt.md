@@ -16,5 +16,11 @@ patch_release: "18/08/1999"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGG%5D%20OutRun%20-%20TMT%20-%201.png","//img.romhackers.org/traducoes/%5BGG%5D%20OutRun%20-%20TMT%20-%202.png","//img.romhackers.org/traducoes/%5BGG%5D%20OutRun%20-%20TMT%20-%203.png"]
+patch_file: "[GG] OutRun (JU) [T-BR] [T-Ti-B0ne G-TMT] [P-100% A-1999].zip"
+modified_date: "2008/04/10"
 ---
-A tradução está razoável. Embora o autor tenha informado que tudo está traduzido, ainda percebe-se algumas mínimas coisas sem tradução, e os textos também não estão acentuados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original OutRun (JU).gg, com CRC32 D58CB27C.
+Embora o autor da tradução tenha informado que tudo foi traduzido, ainda é possível perceber alguns elementos sem tradução, e os textos traduzidos do jogo também não estão acentuados.
+
+<b>ATENÇÃO</b>:
+
+Esta tradução deve ser aplicada na ROM original <b>OutRun (JU).gg</b>, com CRC32 <b>D58CB27C</b>.
