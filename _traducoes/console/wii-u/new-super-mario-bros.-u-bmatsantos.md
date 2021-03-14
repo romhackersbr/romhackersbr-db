@@ -23,7 +23,7 @@ Segundo o autor da tradução, todos os textos do jogo (exceto os créditos) est
 
 OBS: Segundo consta, esta é a primeira tradução, feita por meio de romhacking, para um jogo do sistema Nintendo Wii U.
 
-<b>AVISO: Esta tradução não foi testada por nossa equipe. Portanto, nós não garantimos o seu funcionamento.</b>
+<p style="color:red"><b>AVISO: Esta tradução não foi testada por nossa equipe. Portanto, nós não garantimos o seu funcionamento.</b></p>
 
 <b>NOVIDADES DA VERSÃO 1.3</b>:
 
