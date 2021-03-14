@@ -12,7 +12,8 @@ patch_author: "BMatSantos"
 patch_group: "Nenhum"
 patch_site: ""
 patch_version: "1.3"
-patch_release: "undefined"
+patch_release: "02/10/2017"
+release_log: "Versão 1.0: 10/09/2017 / Versão 1.1: ??/??/2017 / Versão 1.2: ??/??/2017 / Versão 1.3: 02/10/2017"
 patch_type: "Arquivos traduzidos"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BWIIU%5D%20New%20Super%20Mario%20Bros.%20U%20-%20BMatSantos%20-%201.jpg","//img.romhackers.org/traducoes/%5BWIIU%5D%20New%20Super%20Mario%20Bros.%20U%20-%20BMatSantos%20-%202.jpg","//img.romhackers.org/traducoes/%5BWIIU%5D%20New%20Super%20Mario%20Bros.%20U%20-%20BMatSantos%20-%203.jpg"]
@@ -22,7 +23,7 @@ Segundo o autor da tradução, todos os textos do jogo (exceto os créditos) est
 
 OBS: Segundo consta, esta é a primeira tradução, feita por meio de romhacking, para um jogo do sistema Nintendo Wii U.
 
-<p style="color:red"><b>AVISO: Esta tradução não foi testada por nossa equipe. Portanto, nós não garantimos o seu funcionamento.</b></p>
+<b>AVISO: Esta tradução não foi testada por nossa equipe. Portanto, nós não garantimos o seu funcionamento.</b>
 
 <b>NOVIDADES DA VERSÃO 1.3</b>:
 
