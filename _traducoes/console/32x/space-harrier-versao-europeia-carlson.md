@@ -1,5 +1,5 @@
 ---
-title: " Space Harrier (versão européia) (Carlson)"
+title: " Space Harrier (versão europeia) (Carlson)"
 system: "32X"
 platform: "Console"
 game_title: "Space Harrier"
