@@ -18,7 +18,7 @@ patch_progress: ["Textos: 100%","Acentos: 80%","Gráficos: 100%"]
 patch_images: ["//img.romhackers.org/traducoes/%5BGC%5D%20Hulk%20-%20PSTraduz%20e%20HNNEWGAMES%20-%201.jpg","//img.romhackers.org/traducoes/%5BGC%5D%20Hulk%20-%20PSTraduz%20e%20HNNEWGAMES%20-%202.jpg","//img.romhackers.org/traducoes/%5BGC%5D%20Hulk%20-%20PSTraduz%20e%20HNNEWGAMES%20-%203.jpg"]
 modified_date: "2020/07/05"
 ---
-Segundo os autores da tradução, todos os textos do jogo estão traduzidos e parcialmente acentuados (a tradução não possui os caracteres acentuados "Ã" e "Õ"), assim como as mensagens em forma de gráfico.
+Segundo <b>Jean Carlos</b> e <b>Marcos Henrique</b> (aka hnnewgames), todos os textos do jogo estão traduzidos e parcialmente acentuados (a tradução não possui os caracteres acentuados "Ã" e "Õ"), assim como as mensagens em forma de gráfico.
 
 <b>ATENÇÃO</b>:
 
