@@ -13,7 +13,7 @@ patch_group: ""
 patch_site: "//neo-zjogos.blogspot.com/"
 patch_version: "1.2"
 patch_release: "21/06/2010"
-release_log: ["Versão 1.0: 01/12/2009","Versão 1.1: ??/??/????"."Versão 1.2: 21/06/2010"]
+release_log: ["Versão 1.0: 01/12/2009","Versão 1.1: ??/??/????","Versão 1.2: 21/06/2010"]
 patch_type: "IPS, IPS-EXE e UPS"
 patch_progress: "Texto: 100% / Gráficos: 0%"
 patch_images: ["//img.romhackers.org/traducoes/%5B32X%5D%20Kolibri%20-%20Carlson%20-%201.png","//img.romhackers.org/traducoes/%5B32X%5D%20Kolibri%20-%20Carlson%20-%202.jpg","//img.romhackers.org/traducoes/%5B32X%5D%20Kolibri%20-%20Carlson%20-%203.png"]
