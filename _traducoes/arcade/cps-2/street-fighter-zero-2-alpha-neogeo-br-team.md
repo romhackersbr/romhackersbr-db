@@ -17,12 +17,13 @@ patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BCPS2%5D%20Street%20Fighter%20Zero%202%20Alpha%20-%20NGBRT%20-%20Logo.png","//img.romhackers.org/traducoes/%5BCPS2%5D%20Street%20Fighter%20Zero%202%20Alpha%20-%20NGBRT%20-%201.png","//img.romhackers.org/traducoes/%5BCPS2%5D%20Street%20Fighter%20Zero%202%20Alpha%20-%20NGBRT%20-%202.png"]
 patch_file: "[CPS2] Street Fighter Zero 2 Alpha (ASIA 960826) [T-BR] [T-BisonSAS G-NeoGeo BR Team] [V-1.0 P-100% A-2006].zip"
+modified_date: "2007/09/27"
 ---
 Esta é uma correção da tradução oficial da Capcom que, por sua vez, continha muitos erros de português.
 
 <b>ATENÇÃO</b>:
 
-Você precisará das ROMs originais SFZ2AA.zip (Street Fighter Zero 2 Alpha ASIA 960826) e SFA2.zip (Street Fighter Alpha 2 US 960306). O pacote de tradução vem com 7 <i>patches</i> IPS. Cada IPS deve ser aplicado em um arquivo distinto da sua ROM, conforme a lista abaixo:
+Você precisará das ROMs originais <b>SFZ2AA.zip</b> (Street Fighter Zero 2 Alpha ASIA 960826) e <b>SFA2.zip</b> (Street Fighter Alpha 2 US 960306). O pacote de tradução contém 7 patches em formato IPS. Cada IPS deve ser aplicado em um arquivo distinto da sua ROM, conforme a lista abaixo:
 
 - szabr.03.ips -> szaa.03 (CRC32: 88e7023e);
 - szabr.04.ips -> szaa.04 (CRC32: ae8ec36e);
@@ -32,4 +33,4 @@ Você precisará das ROMs originais SFZ2AA.zip (Street Fighter Zero 2 Alpha ASIA
 - sz2br.17m.ips -> sz2.17m (CRC32: e01b4588);
 - sz2br.19m.ips -> sz2.19m (CRC32: 0feeda64)
 
-E nós aconselhamos a todos que leiam a documentação que acompanha a tradução. Ela explica detalhadamente como aplicar os <i>patches</i> nas ROMs e como fazer o jogo traduzido funcionar em diversos emuladores.
+E nós aconselhamos a todos que leiam a documentação que acompanha a tradução, pois ela explica detalhadamente como aplicar os patches nas ROMs e como fazer o jogo traduzido funcionar em diversos emuladores.
