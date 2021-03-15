@@ -21,7 +21,7 @@ modified_date: "2010/11/03"
 ---
 Os textos do jogo estão traduzidos, mas não estão acentuados, e nenhuma mensagem em forma de gráfico foi editada. Além disso, nota-se pequenos erros de digitação em raros momentos, textos transbordando das caixas de mensagem e alguns poucos elementos em inglês, mas nada que atrapalhe ou que incomode muito o jogador.
 
-OBS: Infelizmente não foi possível identificar o autor desta tradução, pois não existe nenhuma referência a ele dentro do jogo traduzido nem em algum arquivo que acompanha a tradução. Contudo, existe uma suspeita de que o autor seja o tradutor <b>Rangel Oblivion</b> devido à forma como a tradução foi distribuída (em um pacote com um patch em formato UPS e outro em formato xdelta3).
+OBS: Infelizmente não foi possível identificar o autor desta tradução, pois não existe nenhuma referência a ele dentro do jogo traduzido nem em algum arquivo que acompanha a tradução.
 
 <b>ATENÇÃO</b>:
 
