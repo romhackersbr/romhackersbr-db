@@ -16,7 +16,7 @@ patch_release: "17/11/2016"
 release_log: ["Versão 1.0: 10/04/2012","Versão 1.1: Nunca lançada","Versão 1.2: 17/11/2016"]
 patch_type: "HDI traduzido"
 patch_progress: "99,5%"
-patch_images: ["//ap.imagensbrasil.org/images/2016/11/17/Marble_Capa.jpg","//ap.imagensbrasil.org/images/2016/11/17/marble_demo.gif"]
+patch_images: ["//img.romhackers.org/traducoes/Marble_Capa.jpg","//img.romhackers.org/traducoes/marble_demo.gif"]
 patch_file: "[PC-98] Marble Cooking (J) [T-BR] [T-Tiozinho da Telesena G-POBRE] [V-1.2 A-2016].rar"
 modified_date: "2016/11/17"
 ---
