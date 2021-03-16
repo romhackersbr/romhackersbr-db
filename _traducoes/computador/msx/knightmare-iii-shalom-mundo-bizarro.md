@@ -15,7 +15,7 @@ patch_version: "beta 12"
 patch_release: "27/05/2004"
 patch_type: "IPS"
 patch_progress: "99%"
-patch_images: ["//img.romhackers.org/traducoes/%5BMSX1%5D%20Knightmare%20III%20-%20Shalom%20-%20Mundo%20Bizarro%20-%201.png","//romhackers.org/uploads/smil47047241216ea.gif","//img.romhackers.org/traducoes/%5BMSX1%5D%20Knightmare%20III%20-%20Shalom%20-%20Mundo%20Bizarro%20-%202.png","//img.romhackers.org/traducoes/%5BMSX1%5D%20Knightmare%20III%20-%20Shalom%20-%20Mundo%20Bizarro%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BMSX1%5D%20Knightmare%20III%20-%20Shalom%20-%20Mundo%20Bizarro%20-%201.png","//img.romhackers.org/traducoes/%5BMSX1%5D%20Knightmare%20III%20-%20Shalom%20-%20Mundo%20Bizarro%20-%202.png","//img.romhackers.org/traducoes/%5BMSX1%5D%20Knightmare%20III%20-%20Shalom%20-%20Mundo%20Bizarro%20-%203.png"]
 patch_file: "[MSX1] Shalom (1987) (Konami) (J) [T-BR] [T-Ricardo Bittencourt e grande elenco G-Mundo Bizarro] [V-BETA12 P-99% A-2004].zip"
 modified_date: "2009/06/16"
 ---
