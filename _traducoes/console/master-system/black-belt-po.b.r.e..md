@@ -17,5 +17,10 @@ patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Black%20Belt%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Black%20Belt%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Black%20Belt%20-%20POBRE%20-%203.png"]
 patch_file: "[SMS] Black Belt (UE) [!] [T-EmuBoarding G-POBRE] [A-2015].zip"
+modified_date: "2015/08/23"
 ---
-Os textos do jogo foram traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Black Belt (UE) [!].sms, com CRC32 DA3A2F57 e sem cabeçalho.
+Os textos do jogo foram traduzidos e acentuados, assim como as mensagens em forma de gráfico.
+
+<b>ATENÇÃO</b>:
+
+Esta tradução deve ser aplicada na ROM original <b>Black Belt (UE) [!].sms</b>, com CRC32 <b>DA3A2F57</b> e <b>sem</b> cabeçalho.
