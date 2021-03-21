@@ -1,5 +1,5 @@
 ---
-title: " [CPS1] Willow (Antígeno)"
+title: " Willow (Antígeno)"
 system: "CPS-1"
 platform: "Arcade"
 game_title: "Willow"
