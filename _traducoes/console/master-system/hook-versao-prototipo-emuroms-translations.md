@@ -15,7 +15,7 @@ patch_version: "???"
 patch_release: "18/04/1999 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Hook%20%2528Prototype%2529%20-%20Emuroms%20Translations%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Hook%20%2528Prototype%2529%20-%20Emuroms%20Translations%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Hook%20%2528Prototype%2529%20-%20Emuroms%20Translations%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Hook%20%28Prototype%29%20-%20Emuroms%20Translations%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Hook%20%28Prototype%29%20-%20Emuroms%20Translations%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Hook%20%28Prototype%29%20-%20Emuroms%20Translations%20-%203.png"]
 patch_file: "[SMS] Hook (Prototype) [!] [T-BR] [T-Alvs G-Emuroms Translations] [A-1999].zip"
 modified_date: "2009/03/08"
 ---
