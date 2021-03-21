@@ -23,4 +23,4 @@ Segundo o autor da tradução, praticamente todos os textos do jogo estão tradu
 
 <b>ATENÇÃO</b>:
 
-Esta tradução deve ser aplicada na ROM <b>Action Fighter (UE) [!].sms<b>, com CRC32 <b>3658F3E0</b>.
+Esta tradução deve ser aplicada na ROM <b>Action Fighter (UE) [!].sms</b>, com CRC32 <b>3658F3E0</b>.
