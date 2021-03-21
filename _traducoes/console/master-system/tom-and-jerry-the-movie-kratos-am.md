@@ -5,7 +5,7 @@ platform: "Console"
 game_title: "Tom and Jerry - The Movie"
 game_category: "Ação / Plataforma"
 game_players: "1"
-game_developer: "Sega"
+game_developer: "Sanritsu"
 game_publisher: "Sega"
 game_release_date: "??/??/1992"
 patch_author: "Kratos-AM"
@@ -17,5 +17,10 @@ patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Tom%20and%20Jerry%20-%20The%20Movie%20-%20Kratos-AM%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Tom%20and%20Jerry%20-%20The%20Movie%20-%20Kratos-AM%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Tom%20and%20Jerry%20-%20The%20Movie%20-%20Kratos-AM%20-%203.png"]
 patch_file: "[SMS] Tom and Jerry - The Movie (E) [T-BR] [T-Kratos-AM G-Nenhum] [V-0.8 A-2011].zip"
+modified_date: "2011/03/10"
 ---
-Uma tradução razoável. Os poucos textos do jogo estão traduzidos e parcialmente acentuados, e alguns gráficos foram editados. Nota-se pequenos erros de pontuação e alguns elementos abreviados devido à falta de edição de ponteiros, mas nada que atrapalhe o jogador ou que não possa ser resolvido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM orignal Tom and Jerry - The Movie (E).sms, com CRC32 BF7B7285.
+Os poucos textos do jogo estão traduzidos e parcialmente acentuados, e algumas mensagens em forma de gráfico foram editadas. Além disso, nota-se pequenos erros de pontuação e alguns elementos abreviados devido à provável falta de edição de ponteiros, mas nada que atrapalhe o jogador ou que não possa ser resolvido em futuras versões da tradução.
+
+<b>ATENÇÃO</b>:
+
+Esta tradução deve ser aplicada na ROM orignal <b>Tom and Jerry - The Movie (E).sms</b>, com CRC32 <b>BF7B7285</b>.
