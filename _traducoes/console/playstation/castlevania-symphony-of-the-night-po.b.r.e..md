@@ -16,5 +16,6 @@ patch_release: "26/12/2008"
 patch_type: "PPF 2.0"
 patch_progress: "94%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Castlevania%20-%20Symphony%20of%20the%20Night%20-%20POBRE%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Castlevania%20-%20Symphony%20of%20the%20Night%20-%20POBRE%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Castlevania%20-%20Symphony%20of%20the%20Night%20-%20POBRE%20-%203.jpg"]
+patch_file: "%5BPS1%5D%20Castlevania%20-%20Symphony%20of%20the%20Night%20(SLUS-00067)%20%5BT-BR%5D%20%5BT-NEODAN%20G-POBRE%5D%20%5BV-1.0%20BETA%20P-94%25%20A-2008%5D.zip"
 ---
 Este é o primeiro patch público da tão esperada tradução do tradutor NEODAN. Apesar da tradução ainda estar em fase beta, todos os textos do jogo estão traduzidos e parcialmente acentuados (ler documentação da tradução para mais detalhes), e quase todos os gráficos estão editados.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SLUS-00067) do jogo Castlevania - Symphony of the Night.
