@@ -16,5 +16,13 @@ patch_release: "01/01/2010"
 patch_type: "IPS, IPS-EXE, RUP e UPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSG-1000%5D%20Space%20Invaders%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSG-1000%5D%20Space%20Invaders%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSG-1000%5D%20Space%20Invaders%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[SG-1000] Space Invaders (SG-1000) [T-BR] [T-Wolfwood G-Monkey's Traduções] [V-666 P-100% A-2010].rar"
+modified_date: "2010/01/10"
 ---
-Uma boa tradução. Os poucos textos do jogo estão traduzidos e acentuados, incluindo os textos em forma de gráfico.OBS: Ao que tudo indica, esta é a primeira tradução brasileira para um jogo do sistema SG-1000.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Space Invaders (SG-1000).sg, com CRC32 6AD5CB3D.
+Os poucos textos do jogo estão traduzidos e acentuados, incluindo as mensagens em forma de gráfico.
+
+OBS: Ao que tudo indica, esta é a primeira tradução brasileira, feita por meio de romhacking, para um jogo do sistema SG-1000.
+
+<b>ATENÇÃO</b>:
+
+Esta tradução deve ser aplicada na ROM original <b>Space Invaders (SG-1000).sg</b>, com CRC32 <b>6AD5CB3D</b>.

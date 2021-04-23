@@ -16,5 +16,10 @@ patch_release: "02/01/2012"
 patch_type: "Arquivo traduzido"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BXBOX%5D%20Burnout%20Revenge%20-%20Monkeys%20Tradu%C3%A7%C3%B5es%20-%201.jpg","//img.romhackers.org/traducoes/%5BXBOX%5D%20Burnout%20Revenge%20-%20Monkeys%20Tradu%C3%A7%C3%B5es%20-%202.jpg","//img.romhackers.org/traducoes/%5BXBOX%5D%20Burnout%20Revenge%20-%20Monkeys%20Tradu%C3%A7%C3%B5es%20-%203.jpg"]
+patch_file: "[XBOX] Burnout Revenge [T-BR] [T-ØX-Carnage G-Monkey's Traduções] [V-1.0 P-100% A-2012].zip"
 ---
-Segundo o autor da tradução, todos os textos do jogo estão traduzidos e acentuados, e todas as mensagens em forma de gráfico foram editadas.ATENÇÃO:Para aplicar a tradução, extraia os arquivos da versão americana do jogo Burnout Revenge e substitua o arquivo MainUS.bin, que fica na pasta Language -> Strings, pelo equivalente traduzido em português.
+Segundo o autor da tradução, todos os textos do jogo estão traduzidos e acentuados, e todas as mensagens em forma de gráfico foram editadas.
+
+<b>ATENÇÃO</b>:
+
+Para aplicar a tradução, extraia os arquivos da versão americana do jogo <b>Burnout Revenge</b> e substitua o arquivo <b>MainUS.bin</b>, que fica na pasta <b>Language</b> -> <b>Strings</b>, pelo equivalente traduzido em português.

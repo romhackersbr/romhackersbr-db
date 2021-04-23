@@ -10,11 +10,17 @@ game_publisher: "Sega"
 game_release_date: "1994"
 patch_author: "Wolfwood"
 patch_group: "Monkey's Traduções"
-patch_site: "//www.monkeystraducoes.com/"
+patch_site: "//www.monkeystraducoes.com/ (fora do ar)"
 patch_version: "1.0"
 patch_release: "14/02/2009"
 patch_type: "IPS e IPS-EXE"
 patch_progress: "99%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGG%5D%20Yu%20Yu%20Hakusho%20II%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BGG%5D%20Yu%20Yu%20Hakusho%20II%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BGG%5D%20Yu%20Yu%20Hakusho%20II%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[GG] Yuu Yuu Hakusho II (J) [T-BR] [T-Wolfwood G-Monkey's Traduções] [V-1.0 P-99% A-2009].rar"
+modified_date: "2019/03/15"
 ---
-Esta tradução está boa. Os textos estão traduzidos e acentuados, e praticamente todos os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Yuu Yuu Hakusho II (J).gg, com CRC32 46AE9159.
+Os textos do jogo estão traduzidos e acentuados, e praticamente todas as mensagens em forma de gráfico foram editadas.
+
+<b>ATENÇÃO</b>:
+
+Esta tradução deve ser aplicada na ROM original <b>Yuu Yuu Hakusho II (J).gg</b>, com CRC32 <b>46AE9159</b>.

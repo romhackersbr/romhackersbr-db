@@ -17,5 +17,10 @@ patch_type: "IPS-EXE"
 patch_progress: "99%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Aladdin%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Aladdin%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Aladdin%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
 patch_file: "[SMS] Aladdin (E) [!] [T-BR] [T-Unknown Master G-Monkey's Traduções] [V-1.0 P-99% A-2010].rar"
+modified_date: "2010/01/10"
 ---
-Uma ótima tradução. Praticamente todos os textos do jogo estão traduzidos e acentuados (apenas as palavras READY e PAUSE não estão), e os textos / palavras em forma de gráfico foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Aladdin (E) [!].sms, com CRC32 C8718D40 e sem cabeçalho.
+Praticamente todos os textos do jogo estão traduzidos e acentuados (apenas as palavras "READY" e "PAUSE" não estão traduzidas), e as mensagens em forma de gráfico foram editadas.
+
+<b>ATENÇÃO</b>:
+
+Esta tradução deve ser aplicada na ROM original <b>Aladdin (E) [!].sms</b>, com CRC32 <b>C8718D40</b> e <b>sem</b> cabeçalho.

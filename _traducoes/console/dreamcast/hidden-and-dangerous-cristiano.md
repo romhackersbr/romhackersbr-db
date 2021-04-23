@@ -16,5 +16,6 @@ patch_release: "26/12/2001"
 patch_type: "CDI traduzido"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BDC%5D%20Hidden%20&%20Dangerous%20-%20Cristiano%20-%201.jpg","//img.romhackers.org/traducoes/%5BDC%5D%20Hidden%20&%20Dangerous%20-%20Cristiano%20-%202.jpg","//img.romhackers.org/traducoes/%5BDC%5D%20Hidden%20&%20Dangerous%20-%20Cristiano%20-%203.jpg"]
+modified_date: "2017/09/17"
 ---
 Os textos do jogo estão traduzidos e acentuados, e as mensagens em forma de gráfico foram editadas.

@@ -7,14 +7,19 @@ game_category: "Eroge / Visual Novel / Puzzle"
 game_players: "1"
 game_developer: "Negative"
 game_publisher: "Negative"
-game_release_date: "1994"
+game_release_date: "??/??/1994"
 patch_author: "Tiozinho da Telesena"
 patch_group: "PO.B.R.E."
 patch_site: "//romhackers.org/"
 patch_version: "1.2"
-patch_release: "undefined"
+patch_release: "17/11/2016"
+release_log: ["Versão 1.0: 10/04/2012","Versão 1.1: Nunca lançada","Versão 1.2: 17/11/2016"]
 patch_type: "HDI traduzido"
 patch_progress: "99,5%"
-patch_images: ["//ap.imagensbrasil.org/images/2016/11/17/Marble_Capa.jpg","//ap.imagensbrasil.org/images/2016/11/17/marble_demo.gif"]
+patch_images: ["//img.romhackers.org/traducoes/Marble_Capa.jpg","//img.romhackers.org/traducoes/marble_demo.gif"]
+patch_file: "[PC-98] Marble Cooking (J) [T-BR] [T-Tiozinho da Telesena G-POBRE] [V-1.2 A-2016].rar"
+modified_date: "2016/11/17"
 ---
-Um jogo legal, o único feito pela Negative, de nível médio à difícil, dependendo de quem joga e com imagens bem feitas... Minha tradução foi feita com base na versão em inglês do Ryo-Cokey. Não foi traduzido a versão em DOS devido a compressão OMX dos arquivos de texto.
+<b>Palavras do autor</b>:
+
+<i>"Um jogo legal, o único feito pela Negative, de nível médio a difícil, dependendo de quem joga e com imagens bem feitas... Minha tradução foi feita com base na versão em inglês do <b>Ryo-Cokey</b>. Não foi traduzida a versão em DOS devido à compressão OMX dos arquivos de texto"</i>.
