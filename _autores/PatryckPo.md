@@ -1,6 +1,6 @@
 ---
 title: "patryckpo"
-aka: ["Patryck Po"]
+aka: ["Patryck", "Patryck Padilha de Oliveira"]
 group: ""
 site: "//patryckpo.com"
 email: "contato@patryckpo.com"
