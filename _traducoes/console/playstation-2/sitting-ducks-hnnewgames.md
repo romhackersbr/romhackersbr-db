@@ -16,5 +16,6 @@ patch_release: "12/01/2018"
 patch_type: "xdelta3"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS2%5D%20Sitting%20Ducks%20-%20hnnewgames%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS2%5D%20Sitting%20Ducks%20-%20hnnewgames%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS2%5D%20Sitting%20Ducks%20-%20hnnewgames%20-%203.jpg"]
+patch_file: "[PS2] Sitting Ducks (SLES-52116) [T-BR] [T-Marcos Henrique G-HNNEWGAMES] [A-2018].rar"
 ---
 Segundo o autor da tradução, todos os textos do jogo estão traduzidos e parcialmente acentuados (vale destacar que as letras acentuadas com o acento til foram substituídas pelas equivalentes acentuadas com o trema).ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de DVD em formato ISO da versão europeia (SLPM-66750) do jogo Sitting Ducks.

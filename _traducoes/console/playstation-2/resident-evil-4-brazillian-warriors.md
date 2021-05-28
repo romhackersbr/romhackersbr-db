@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "ISO traduzida"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS2%5D%20Resident%20Evil%204%20-%20Brazillian%20Warriors%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS2%5D%20Resident%20Evil%204%20-%20Brazillian%20Warriors%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS2%5D%20Resident%20Evil%204%20-%20Brazillian%20Warriors%20-%203.jpg"]
+patch_file: "[PS2] Resident Evil 4 (SLUS-21134) [T-BR] [T-Gledson999 G-Brazilian Warriors] [A-2015].rar"
 ---
 Todos os textos do jogo estão traduzidos e acentuados, assim como a maioria das mensagens em forma gráfico.NOVIDADES DA VERSÃO V2:* Foi corrigido o bug que travava o jogo no cenário da igreja com a personagem Ada.

@@ -16,5 +16,6 @@ patch_release: "31/03/2017 (provavelmente)"
 patch_type: "PPF 3.0"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS2%5D%20Need%20For%20Speed%20Carbon%20-%20Rayn%C3%AA%20Games%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS2%5D%20Need%20For%20Speed%20Carbon%20-%20Rayn%C3%AA%20Games%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS2%5D%20Need%20For%20Speed%20Carbon%20-%20Rayn%C3%AA%20Games%20-%203.jpg"]
+patch_file: "[PS2] Need For Speed Carbon (SLUS-21493) [T-BR] [T-Raynê Games G-Nenhum] [A-2017].7z"
 ---
 Segundo o autor desta tradução, todos os textos do jogo estão traduzidos e acentuados, e as mensgens em forma de gráfico foram editadas.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de DVD em formato ISO da versão americana (SLUS-21493) jogo Need For Speed Carbon do sistema Playstation 2.
