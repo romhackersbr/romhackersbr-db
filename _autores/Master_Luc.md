@@ -2,7 +2,7 @@
 title: "Master_Luc"
 aka: ["Luke", "Master_luke"]
 group: ["Trans-center"]
-site: "https://www.romhacking.net.br"
+site: "//www.romhacking.net.br"
 email: "Thiago.rabatini@gmail.com"
 facebook: ""
 twitter: ""
