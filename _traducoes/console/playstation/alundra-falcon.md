@@ -16,5 +16,6 @@ patch_release: "??/02/2003"
 patch_type: "PPF 2.0 e Xdelta 3.0"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Alundra%20-%20FALCON%20-%201.png","//img.romhackers.org/traducoes/%5BPS1%5D%20Alundra%20-%20FALCON%20-%202.png","//img.romhackers.org/traducoes/%5BPS1%5D%20Alundra%20-%20FALCON%20-%203.png"]
+patch_file: "[PS1] Alundra (SLUS-00553) [T-BR] [T-FALCON G-Nenhum] [A-2003].zip"
 ---
 Fonte acentuada, boa parte dos textos está traduzida, exceto os menus iniciais e alguns textos em forma de gráfico.ATENÇÃO:O arquivo "AlundraBr.ppf" deve ser aplicado em uma imagem de CD da versão americana (SLUS-00553) do jogo. Já o arquivo "AlundraBr.xdelta3" deve ser aplicado em uma imagem de CD da versão americana (SLUS-00553), seguindo o padrão da versão "1.1" do Redump.org.

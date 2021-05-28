@@ -16,5 +16,6 @@ patch_release: "17/01/2003 (provavelmente)"
 patch_type: "PPF 1.0"
 patch_progress: "70%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Wild%20Arms%20-%20Made%20in%20Brasil%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Wild%20Arms%20-%20Made%20in%20Brasil%20-%202.png","//img.romhackers.org/traducoes/%5BPS1%5D%20Wild%20Arms%20-%20Made%20in%20Brasil%20-%203.png"]
+patch_file: "[PS1] Wild Arms (SCUS-94608) [T-BR] [T-Master G-Made in Brasil] [P-70% A-2003].zip"
 ---
 Os diálogos foram traduzidos, mas os itens, menus e suas descrições não foram.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SCUS-94608) do jogo Wild Arms.

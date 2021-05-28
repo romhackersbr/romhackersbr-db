@@ -16,5 +16,6 @@ patch_release: "03/02/2003 (provavelmente)"
 patch_type: "PPF 1.0"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20The%20King%20of%20Fighters%20'98%20-%20Made%20in%20Brasil%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20The%20King%20of%20Fighters%20'98%20-%20Made%20in%20Brasil%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20The%20King%20of%20Fighters%20'98%20-%20Made%20in%20Brasil%20-%203.jpg"]
+patch_file: "[PS1] The King of Fighters '98 (SLPM-86201) [T-BR] [T-GokuW11 G-Made in Brasil] [A-2002].zip"
 ---
 Uma tradução razoável. Apenas os menus foram traduzidos, mas não foram acentuados, e nenhum gráfico foi editado. Os diálogos do jogo continuam em japonês.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão japonesa (SLPM-86201) do jogo The King of Fighters '98, também podendo ser utilizada nas versões especiais (SNK Best Collection e PSOne Books).

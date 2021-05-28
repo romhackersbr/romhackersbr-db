@@ -16,5 +16,6 @@ patch_release: "08/03/2005 (provavelmente)"
 patch_type: "PPF 1.0"
 patch_progress: "95%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Woody%20Woodpecker%20Racing%20-%20TransFac%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Woody%20Woodpecker%20Racing%20-%20TransFac%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Woody%20Woodpecker%20Racing%20-%20TransFac%20-%203.jpg"]
+patch_file: "[PS1] Woody Woodpecker Racing (SLUS-01188) [T-BR] [T-Odenilton G-TransFac] [P-95% A-2005].zip"
 ---
 Boa parte dos menus foram traduzidos, mas sem acentuação e com poucas abreviações.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SLUS-01188) do jogo Woody Woodpecker Racing.

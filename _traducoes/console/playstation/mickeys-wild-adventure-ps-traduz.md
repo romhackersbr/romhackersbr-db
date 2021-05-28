@@ -16,5 +16,6 @@ patch_release: "03/05/2014"
 patch_type: "Arquivo traduzido"
 patch_progress: "Textos - 100% / Acentos - 0%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Mickey's%20Wild%20Adventure%20-%20PS%20Traduz%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Mickey's%20Wild%20Adventure%20-%20PS%20Traduz%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Mickey's%20Wild%20Adventure%20-%20PS%20Traduz%20-%203.jpg"]
+patch_file: "[PS1] Mickey's Wild Adventure (SCES-00163) [T-BR] [T-Jean Carlos G-PS Traduz] [A-2014].rar"
 ---
 Todos os textos do jogo estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado.ATENÇÃO:Para fazer uso da tradução, será preciso substituir o arquivo SCES_001.63 original do jogo pelo equivalente traduzido.

@@ -16,5 +16,6 @@ patch_release: "25/11/2004 (provavelmente)"
 patch_type: "PPF 2.0 e Xdelta 3.0"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Gran%20Turismo%20-%20ROMS%20BR%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Gran%20Turismo%20-%20ROMS%20BR%20-%202.png","//img.romhackers.org/traducoes/%5BPS1%5D%20Gran%20Turismo%20-%20ROMS%20BR%20-%203.png"]
+patch_file: "[PS1] Gran Turismo (SCUS-94194) [T-BR] [T-Heero Yui G-ROMS BR] [V-1.0 A-2004].zip"
 ---
 A fonte está acentuada, a maioria do que está traduzido no jogo são menus e textos durante e após a corrida, assim como alguns gráficos associados. Segundo o autor, as descrições das licenças não foram traduzidas pois geravam problemas no jogo.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da primeira versão americana lançada (SCUS-94194) do jogo. Para obter o patch da tradução no formato do Xdelta para a versão Greatest Hits, que tem o mesmo serial, basta acessar este link.

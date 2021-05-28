@@ -16,5 +16,6 @@ patch_release: "13/10/2002 (provavelmente)"
 patch_type: "PPF 1.0"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Metal%20Gear%20Solid%20VR%20Missions%20-%20Made%20in%20Brasil%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Metal%20Gear%20Solid%20VR%20Missions%20-%20Made%20in%20Brasil%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Metal%20Gear%20Solid%20VR%20Missions%20-%20Made%20in%20Brasil%20-%203.png"]
+patch_file: "[PS1] Metal Gear Solid VR Missions (SLUS-00957) [T-BR] [T-Viper G-Made in Brasil] [A-2002].zip"
 ---
 Apenas as descrições foram traduzidas, a maior parte do texto do jogo.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SLUS-00957) do jogo Metal Gear Solid VR Missions.

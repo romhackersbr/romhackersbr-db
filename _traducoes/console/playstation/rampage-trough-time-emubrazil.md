@@ -16,5 +16,6 @@ patch_release: "12/12/2002 (provavelmente)"
 patch_type: "PPF 1.0"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Rampage%20-%20Trough%20Time%20-%20EmuBrazil%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Rampage%20-%20Trough%20Time%20-%20EmuBrazil%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Rampage%20-%20Trough%20Time%20-%20EmuBrazil%20-%203.jpg"]
+patch_file: "[PS1] Rampage - Trough Time (SLUS-01065) [T-BR] [T-Guto G-EmuBrazil] [V-1.0 A-2002].zip"
 ---
 Nesta versão da tradução, apenas os menus foram traduzidos, mas não foram acentuados. O autor prometeu lançar uma versão completa posteriormente, mas, infelizmente, isso nunca aconteceu.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SLUS-01065) do jogo Rampage - Trough Time.

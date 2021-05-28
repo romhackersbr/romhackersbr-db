@@ -16,5 +16,6 @@ patch_release: "24/11/2004"
 patch_type: "PPF 3.0"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Courier%20Crisis%20-%20PirateAlx%20Tradu%C3%A7%C3%B5es%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Courier%20Crisis%20-%20PirateAlx%20Tradu%C3%A7%C3%B5es%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Courier%20Crisis%20-%20PirateAlx%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[PS1] Courier Crisis (SLUS-00442) [T-BR] [T-PirateAlx G-PirateAlx Traduções] [V-0.90 A-2004].zip"
 ---
 Sem acentuação, descrições traduzidas, gráficos, muitos menus e nomes de ruas sem tradução.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SLUS-00442) do jogo Courier Crisis.

@@ -16,5 +16,6 @@ patch_release: "26/01/2002"
 patch_type: "PPF 2.0 "
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Driver%20-%20BR%20Translations%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Driver%20-%20BR%20Translations%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Driver%20-%20BR%20Translations%20-%203.jpg"]
+patch_file: "[PS1] Driver (SLES-01816) [T-BR] [T-LoRtRaDe G-BR Translations] [A-2002].zip"
 ---
 A fonte do jogo já veio acentuada, grande parte dos menus e descrições estão traduzidos, gráficos como o do papel no primeiro treino não estão traduzidos. Grande uso de abreviações, até pelo pouco espaço na tela, e alguns erros de português.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão européia (SLES-01816) do jogo Driver.

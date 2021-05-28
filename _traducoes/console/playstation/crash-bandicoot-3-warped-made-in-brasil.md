@@ -16,5 +16,6 @@ patch_release: "17/12/2002 (provavelmente)"
 patch_type: "PPF 1.0"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Crash%20Bandicoot%203%20-%20Warped%20-%20Made%20in%20Brasil%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Crash%20Bandicoot%203%20-%20Warped%20-%20Made%20in%20Brasil%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Crash%20Bandicoot%203%20-%20Warped%20-%20Made%20in%20Brasil%20-%203.jpg"]
+patch_file: "[PS1] Crash Bandicoot 3 - Warped (SCUS-94244) [T-BR] [T-GokuW11 G-Made in Brasil] [A-2002].zip"
 ---
 ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana SCUS-94244) do jogo Crash Bandicoot 3 - Warped.

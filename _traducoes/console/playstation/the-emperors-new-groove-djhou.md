@@ -16,5 +16,6 @@ patch_release: "25/07/2003 (provavelmente)"
 patch_type: "PPF 1.0"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20The%20Emperor's%20New%20Groove%20-%20Djhou%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20The%20Emperor's%20New%20Groove%20-%20Djhou%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20The%20Emperor's%20New%20Groove%20-%20Djhou%20-%203.jpg"]
+patch_file: "[PS1] The Emperor's New Groove (SCUS-94571) [T-BR] [T-Djhou G-Nenhum] [V-BETA A-2003].zip"
 ---
 A fonte foi totalmente acentuada, os diálogos estão traduzidos, mas os menus e similares, não. A tradução ainda se encontrava em fases de testes quando foi lançada: 6 ou 7 fases traduzidas, segundo o autor.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SCUS-94571) do jogo The Emperor's New Groove.

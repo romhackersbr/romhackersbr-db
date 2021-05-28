@@ -16,5 +16,6 @@ patch_release: "12/03/2002 (provavelmente)"
 patch_type: "PPF 2.0"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Adventures%20of%20Lomax%20-%20PirateAlx%20Tradu%C3%A7%C3%B5es%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Adventures%20of%20Lomax%20-%20PirateAlx%20Tradu%C3%A7%C3%B5es%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Adventures%20of%20Lomax%20-%20PirateAlx%20Tradu%C3%A7%C3%B5es%20-%203.jpg"]
+patch_file: "[PS1] The Adventures of Lomax (SCUS-94906) [T-BR] [T-PirateAlx G-PirateAlx Traduções] [V-1.03 FINAL P-100% A-2002].zip"
 ---
 A fonte não foi acentuada, todo o pouco texto do jogo está traduzido, exceto pelos textos em forma de gráficos, como o "PAUSE".ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SCUS-94906) do jogo Adventures of Lomax.
