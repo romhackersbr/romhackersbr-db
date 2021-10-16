@@ -16,5 +16,6 @@ patch_release: "31/07/2019"
 patch_type: "IPS"
 patch_progress: "99%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Aladdin%20-%20FTR%20Gamer%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Aladdin%20-%20FTR%20Gamer%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Aladdin%20-%20FTR%20Gamer%20-%203.png"]
+patch_file: "[SNES] Aladdin (U) [!] [T-BR] [T-FTR Gamer G-FTR Gamer and Tutors] [V-Final P-99% A-2019].zip"
 ---
 Segundo o autor da tradução, os textos do jogo estão traduzidos, mas não estão acentuados, e nenhuma mensagem em forma de gráfico foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM Aladdin (U) [!].smc, com CRC32 124D8E4D e sem cabeçalho.

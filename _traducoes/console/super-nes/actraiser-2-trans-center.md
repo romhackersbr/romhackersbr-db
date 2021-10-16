@@ -16,5 +16,6 @@ patch_release: "21 de fevereiro de 2007"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20ActRaiser%202%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20ActRaiser%202%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20ActRaiser%202%20-%20Trans-Center%20-%203.png"]
+patch_file: "[SNES] ActRaiser 2 (E) [I-BR T-Kmikz G-Trans-Center V-1.0 P-100% A-2007].zip"
 ---
 Tradução boa, com fonte acentuada e praticamente todo o texto do jogo traduzido (exceto alguns gráficos na tela de "Password"), sobrando apenas alguns erros de pontuação e de português, além de um ajuste nos ponteiros necessário para a seleção do estágio.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "ActRaiser 2 (E).smc" (código A8), com CRC32 630E16A1.

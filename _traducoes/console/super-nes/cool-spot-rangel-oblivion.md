@@ -16,5 +16,6 @@ patch_release: "19 de abril de 2010"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Cool%20Spot%20-%20Rangel%20Oblivion%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Cool%20Spot%20-%20Rangel%20Oblivion%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Cool%20Spot%20-%20Rangel%20Oblivion%20-%203.png"]
+patch_file: "[SNES] Cool Spot (U) [!] [I-BR T-Rangel Oblivion A-2010].zip"
 ---
 Tradução simples, sem acentos, com apenas os créditos e os menus iniciais traduzidos, porém sem edições de ponteiros e com um erro de português ("OPICOES").ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Cool Spot (U) [!].smc", com CRC32 44E60E58.

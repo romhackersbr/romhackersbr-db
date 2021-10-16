@@ -16,5 +16,6 @@ patch_release: "20 de novembro de 1999"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Captain%20Commando%20-%20CBT%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Captain%20Commando%20-%20CBT%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Captain%20Commando%20-%20CBT%20-%203.png"]
+patch_file: "[SNES] Captain Commando (J) [I-BR T-Dark_Spy G-CBT V-1.0 A-1999].zip"
 ---
 Tradução simples, com fonte acentuada e toda a parte textual do jogo traduzida (textos em gráficos sem tradução), mas com abreviações e alguns caracteres inválidos (final da primeira fase com o ninja).ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Captain Commando (J).smc" (código QM), com CRC32 E5423EB6.
