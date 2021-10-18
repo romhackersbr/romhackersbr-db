@@ -16,5 +16,6 @@ patch_release: "01/03/2009"
 patch_type: "IPS"
 patch_progress: "95%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Snoopy%20Concert%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Snoopy%20Concert%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Snoopy%20Concert%20-%20POBRE%20-%203.png"]
+patch_file: "[SNES] Snoopy Concert (J) [T-BR] [T-Tiozinho da Telesena G-POBRE] [V-1.0 P-95% A-2009].rar"
 ---
 A tradução está muito boa. Todos os textos do jogo estão devidamente traduzidos e acentuados, porém muitos gráficos ainda estão sem edição devido à compressão. No entanto, o tradutor Tiozinho da Telesena pretende resolver este problema em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Snoopy Concert (J).smc, com CRC32 3836A202 e sem cabeçalho.

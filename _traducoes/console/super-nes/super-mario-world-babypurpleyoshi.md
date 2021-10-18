@@ -16,5 +16,6 @@ patch_release: "16/06/2017"
 patch_type: "BPS "
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20BabyPurpleYoshi%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20BabyPurpleYoshi%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20BabyPurpleYoshi%20-%203.png"]
+patch_file: "[SNES] Super Mario World (U) [!] [T-BR] [T-BabyPurpleYoshi G-Nenhum] [V-1.0 A-2017].rar"
 ---
 Os textos do jogo estão traduzidos, mas não estão acentuados, e praticamente nenhuma mensagem em forma de gráfico foi editada. Além disso, nota-se alguns textos e elementos do jogo ainda sem tradução, como os textos que aparecem logo após você derrotar um dos filhos de Bowser; os textos da tela de escolha das partidas salvas; os textos de escolha do número de jogadores (1 PLAYER GAME / 2 PLAYERS GAME); CONTINUE AND SAVE; CONTINUE WITHOUT SAVE; MARIO START; COURSE CLEAR; etc. ATENÇÃO:Esta tradução deve ser aplicada na ROM original Super Mario World (U) [!], com CRC32 B19ED489 e sem cabeçalho.OBS: Para aplicar este patch na ROM original, será preciso usar o programa Beat.

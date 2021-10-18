@@ -16,5 +16,6 @@ patch_release: "19 de novembro de 1999 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Goof%20Troop%20-%20Emuroms%20e%20Tradu-Roms%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Goof%20Troop%20-%20Emuroms%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Goof%20Troop%20-%20Emuroms%20-%203.png"]
+patch_file: "[SNES] Goof Troop (U) [!] [I-BR T-Mac_RJ G-Emuroms Translations V-1.0 A-1999].zip"
 ---
 Tradução sem fonte acentuada (arranjos de acentos em algumas partes) e com boa parte do texto traduzido (textos em gráficos sem tradução), mas com erros de pontuação e boa parte da história "comida" pela falta de ajuste nos ponteiros.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Goof Troop (U) [!].smc", com CRC32 4AAFA462.

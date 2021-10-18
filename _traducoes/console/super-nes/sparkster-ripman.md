@@ -16,5 +16,6 @@ patch_release: "18/03/2018"
 patch_type: "IPS"
 patch_progress: "Textos 100% / Acentos"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Sparkster%20-%20ripman%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Sparkster%20-%20ripman%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Sparkster%20-%20ripman%20-%203.png"]
+patch_file: "[SNES] Sparkster (U) [T-BR] [T-ripman G-Nenhum] [V-Beta1 A-2018].7z"
 ---
 Segundo o autor da tradução, todos os textos do jogo estão traduzidos (exceto as mensagens em forma de gráfico), mas não estão acentuados.ATENÇÃO:Esta tradução deve ser aplicada na ROM Sparkster (U).smc (set Cowering) ou Sparkster (USA).sfc (set No-intro), ambas com CRC32 40D11C94 e sem cabeçalho.

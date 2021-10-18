@@ -16,5 +16,6 @@ patch_release: "10/08/2009"
 patch_type: "IPS"
 patch_progress: "85%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20Samus%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20Samus%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20Samus%20-%203.png"]
+patch_file: "[SNES] Super Mario World (U) [!] [T-Samus G-Nenhum] [V-1.0 P-85% A-2009].zip"
 ---
 Uma boa tradução do tradutor freelancer Samus. Os textos do jogo estão traduzidos e acentuados, e a grande maioria dos gráficos foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Super Mario World (U) [!].smc, com CRC32 B9B52E0F e com cabeçalho.

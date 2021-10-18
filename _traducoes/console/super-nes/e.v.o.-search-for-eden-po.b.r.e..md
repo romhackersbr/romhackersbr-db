@@ -16,5 +16,6 @@ patch_release: "28/02/2011"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20E.V.O.%20Search%20for%20Eden%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20E.V.O.%20Search%20for%20Eden%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20E.V.O.%20Search%20for%20Eden%20-%20POBRE%20-%203.png"]
+patch_file: "[SNES] E.V.O. Search for Eden (U) [T-BR] [T-Tiozinho da Telesena G-POBRE] [V-1.0 P-100% A-2011].zip"
 ---
 Uma ótima tradução feita por Tiozinho da Telesena e que contou com a colaboração dos tradutores devilfox, tvtoon, denim e RodolfoRG. Todos os textos do jogo estão devidamente traduzidos e acentuados, e os gráficos foram editados. Além disso, várias melhorias foram feitas tomando-se como base a versão japonesa do jogo, como os dinossauros, que agora contam com seus nomes científicos verdadeiros, e a correção de muitos diálogos, que, na versão americana, eram confusos e incoerentes.ATENÇÃO:Esta tradução deve ser aplicada na ROM original E.V.O. Search for Eden (U).smc, com CRC32 DD49911E e sem cabeçalho.

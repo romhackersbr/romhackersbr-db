@@ -16,5 +16,6 @@ patch_release: "09/03/2010"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20BR%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20BR%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20BR%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[SNES] Super Mario World (U) [!] [T-BR] [T-Killer Skull G-BR Traduções] [V-1.2 P-100% A-2010].rar"
 ---
 Uma ótima tradução. Todos os textos estão traduzidos e acentuados, e os gráficos foram editados. Nesta nova versão, os textos MARIO START, LUIGI START, Course Clear, TIME UP, BONUS GAME e GAME OVER finalmente foram traduzidos.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Super Mario World (U) [!].smc, com CRC32 B19ED489 e sem cabeçalho.

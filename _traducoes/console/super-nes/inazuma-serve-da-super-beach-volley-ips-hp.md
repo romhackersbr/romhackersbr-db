@@ -16,5 +16,6 @@ patch_release: "5 de julho de 2003 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Inazuma%20Serve%20da!!%20Super%20Beach%20Volley%20-%20IPS-HP%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Inazuma%20Serve%20da!!%20Super%20Beach%20Volley%20-%20IPS-HP%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Inazuma%20Serve%20da!!%20Super%20Beach%20Volley%20-%20IPS-HP%20-%203.png"]
+patch_file: "[SNES] Inazuma Serve da!! Super Beach Volley (J) [I-BR T-Leitao G-IPS-HP A-2003].zip"
 ---
 Tradução simples, sem fonte acentuada e com boa parte do texto traduzido (título das opções sem traduzir, por exemplo), apesar de ter feito o nome dos times desaparecer (o que parece ser problema com ponteiros).ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Inazuma Serve da!! Super Beach Volley (J).smc" (código AV7J), com CRC32 879EDEE8.

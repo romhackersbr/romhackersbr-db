@@ -16,5 +16,6 @@ patch_release: "02/07/2010"
 patch_type: "undefined"
 patch_progress: "Textos - 100% / Gráficos - 3% / Acentuação - 0%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20NBA%20Hang%20Time%20-%20Nintendo%20BR%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20NBA%20Hang%20Time%20-%20Nintendo%20BR%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20NBA%20Hang%20Time%20-%20Nintendo%20BR%20-%203.png"]
+patch_file: "[SNES] NBA Hang Time (U) [T-BR] [T-Joelson Kamppello G-Nintendo BR] [V-1.0 A-2010].rar"
 ---
 Uma tradução razoável. Os textos do jogo estão traduzidos, mas não estão acentuados, e poucos gráficos foram editados. Nota-se algumas abreviações e bugs em alguns textos das dicas em raros momentos. ATENÇÃO:Esta tradução deve ser aplicada na ROM original NBA Hang Time (U).smc, com CRC32 262CE76B.

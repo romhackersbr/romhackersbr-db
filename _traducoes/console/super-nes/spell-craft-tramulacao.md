@@ -16,5 +16,6 @@ patch_release: "17 de junho de 2002"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Spell%20Craft%20-%20Tramulacao%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Spell%20Craft%20-%20Tramulacao%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Spell%20Craft%20-%20Tramulacao%20-%203.png"]
+patch_file: "[SNES] Spell Craft (U) [I-BR T-Ryu G-Tramulacao P-100% A-2002].zip"
 ---
 Tradução boa, com fonte acentuada e quase todo o texto do jogo traduzido (alguns detalhes na tela de "password" e "level" sem tradução), mas com alguns erros de digitação (palavras comidas), de português e de pontuação, traduções literais e esquisitas ("e digo Sou ciúmenta.") e incoerências ("Circula de Pedra" e "Circunferência de Pedra").ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Spell Craft (U).smc", com CRC32 3DAEA8A1.

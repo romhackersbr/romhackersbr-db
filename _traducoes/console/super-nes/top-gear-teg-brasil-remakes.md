@@ -16,5 +16,6 @@ patch_release: "26/05/2009"
 patch_type: "IPS"
 patch_progress: "90%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Top%20Gear%20-%20TEG%20Brasil%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Top%20Gear%20-%20TEG%20Brasil%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Top%20Gear%20-%20TEG%20Brasil%20-%203.png"]
+patch_file: "[SNES] Top Gear (E) [!] [T-BR] [T-Rubem Alessandro G-TEG Brasil Remakes] [P-90% A-2009].zip"
 ---
 Uma boa tradução. Os textos do jogo estão traduzidos, mas não estão acentuados, e alguns gráficos foram editados. Nota-se alguns errinhos de ortografia em raros momentos e algumas abreviações também, mas nada que atrapalhe o jogador ou que não possa ser resolvido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Top Gear (E) [!].smc, com CRC32 B0150052.

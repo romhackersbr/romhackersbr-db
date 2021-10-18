@@ -16,5 +16,6 @@ patch_release: "1999"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Castlevania%20IV%20-%20Emunow%20e%20GTP%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Castlevania%20IV%20-%20Emunow%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Castlevania%20IV%20-%20Emunow%20-%203.png"]
+patch_file: "[SNES] Super Castlevania IV (U) [!] [I-BR T-Emuboarding G-Emunow A-1999].zip"
 ---
 Tradução simples, sem fonte acentuada e com boa parte do texto traduzido, mas com abreviações e adaptações para evitar ponteiros ("Simon").ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Super Castlevania IV (U) [!].smc", com CRC32 B64FFB12.
