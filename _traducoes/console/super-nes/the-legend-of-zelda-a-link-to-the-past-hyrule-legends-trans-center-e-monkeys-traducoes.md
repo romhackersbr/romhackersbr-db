@@ -15,7 +15,7 @@ patch_version: "1.0 BETA"
 patch_release: "30/12/2014"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Acentos - 100% / Gráficos - 100% / Revisão - 100%"
-patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Legend%20of%20Zelda,%20The%20-%20A%20Link%20to%20the%20Past%20-%20Hyrule%20Legends,%20Trans-Center%20e%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Legend%20of%20Zelda,%20The%20-%20A%20Link%20to%20the%20Past%20-%20Hyrule%20Legends,%20Trans-Center%20e%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Legend%20of%20Zelda,%20The%20-%20A%20Link%20to%20the%20Past%20-%20Hyrule%20Legends,%20Trans-Center%20e%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"
+patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Legend%20of%20Zelda,%20The%20-%20A%20Link%20to%20the%20Past%20-%20Hyrule%20Legends,%20Trans-Center%20e%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Legend%20of%20Zelda,%20The%20-%20A%20Link%20to%20the%20Past%20-%20Hyrule%20Legends,%20Trans-Center%20e%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Legend%20of%20Zelda,%20The%20-%20A%20Link%20to%20the%20Past%20-%20Hyrule%20Legends,%20Trans-Center%20e%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
 patch_file: "[SNES] Legend of Zelda, The - A Link to the Past (U) [T-BR] [T-spyblack, denim e grande elenco G-Hyrule Legends, Trans-Center e Monkey'\''s Traduções] [V-1.0 BETA P-100% A-2014].rar"
 ---
 
