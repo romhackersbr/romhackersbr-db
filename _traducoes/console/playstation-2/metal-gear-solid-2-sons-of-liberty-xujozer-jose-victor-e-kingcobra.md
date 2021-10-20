@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Konami Computers"
 game_publisher: "Konami"
 game_release_date: "30/05/2002"
-patch_author: ["Xujozer", "José Victor" e "Kingcobra"]
+patch_author: ["Xujozer", "José Victor", "Kingcobra"]
 patch_group: "Nenhum"
 patch_site: "Comunidade Metal Gear Solid 2 em português"
 patch_version: "BETA"
