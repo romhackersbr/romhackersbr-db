@@ -16,6 +16,6 @@ patch_release: "16/01/2015"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Gráficos - 100% / Revisão - 100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Mega%20Man%20VII%20-%20Trans-Center%20e%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Mega%20Man%20VII%20-%20Trans-Center%20e%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Mega%20Man%20VII%20-%20Trans-Center%20e%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
-patch_file: "[SNES] Mega Man VII (U) [T-BR] [T-spyblack e denim G-Trans-Center e Monkey'\''s Traduções] [V-1.0 P-100% A-2015].zip"
+patch_file: "[SNES] Mega Man VII (U) [T-BR] [T-spyblack e denim G-Trans-Center e Monkey's Traduções] [V-1.0 P-100% A-2015].zip"
 ---
 Os textos estão traduzidos e acentuados, e a maioria dos gráficos foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Mega Man VII (U).smc, com CRC32 2D947536 e sem cabeçalho.

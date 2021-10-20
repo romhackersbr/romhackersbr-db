@@ -16,6 +16,6 @@ patch_release: "18 de agosto de 1999"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Rock%20N'%20Roll%20Racing%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Rock%20N'%20Roll%20Racing%20-%20TMT%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Rock%20N'%20Roll%20Racing%20-%20TMT%20-%203.png"]
-patch_file: "[SNES] Rock N'\'' Roll Racing (Beta) [I-BR T-Ti-BOne G-TMT P-100% A-1999].zip"
+patch_file: "[SNES] Rock N' Roll Racing (Beta) [I-BR T-Ti-BOne G-TMT P-100% A-1999].zip"
 ---
 Tradução simples porém regular, sem fonte acentuada e com boa parte do texto traduzido (termos como "on" e "off" sem tradução), mas com erros de português e de pontuação, problemas com ponteiros (logo ao selecionar jogadores e nas descrições dos planetas), abreviações e traduções esquisitas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Rock N' Roll Racing (Beta).smc", com CRC32 2E47F7D7.
