@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Square"
 game_publisher: "Square"
 game_release_date: "25/10/1996"
-patch_author: ["Denim", "Legends", "Huskie", 'Sliter', 'Yusukke']
+patch_author: ["Denim", "Legends", "Huskie", "Sliter", "Yusukke"]
 patch_group: "Nenhum"
 patch_site: "//www.romhacking.net.br/index.php?topic=505.0"
 patch_version: "1.00"
