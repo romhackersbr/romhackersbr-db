@@ -16,5 +16,6 @@ patch_release: "01/02/2018"
 patch_type: "IPS"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Sim%20City%20-%20Brazilian%20Warriors%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Sim%20City%20-%20Brazilian%20Warriors%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Sim%20City%20-%20Brazilian%20Warriors%20-%203.png"]
+patch_file: "[SNES] Sim City (U) [!] [T-BR] [T-Angel333119 G-Brazilian Warriors] [V-0.2 A-2018].rar"
 ---
 Segundo o autor da tradução, todos os textos do jogo estão traduzidos e acentuados, assim como algumas mensagens em forma de gráfico.ATENÇÃO:Esta tradução deve ser aplicada na ROM Sim City (U) [!].smc, com CRC32 8AEDD3A1 e sem cabeçalho.

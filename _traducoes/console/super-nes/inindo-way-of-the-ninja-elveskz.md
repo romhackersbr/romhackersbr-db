@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "BPS"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Inindo%20-%20Elveskz%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Inindo%20-%20Elveskz%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Inindo%20-%20Elveskz%20-%203.png"]
+patch_file: "[SNES] Inindo - Way of the Ninja (U) [T-BR] [T-Elveskz G-Nenhum] [V-3.7 A-2018].rar"
 ---
 Segundo o autor da tradução, todos os textos do jogo estão traduzidos e parcialmente acentuados, e todas as mensagens em forma de gráfico foram editadas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Inindo - Way of the Ninja (U).smc, com CRC32 543F3327 e sem cabeçalho.OBS: O patch de tradução está no formato BPS. Sendo assim, será preciso usar o programa Beat para aplicá-lo na ROM original.

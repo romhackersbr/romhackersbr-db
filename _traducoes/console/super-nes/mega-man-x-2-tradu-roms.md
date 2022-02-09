@@ -16,5 +16,6 @@ patch_release: "8 de dezembro de 2001"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Mega%20Man%20X%202%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Mega%20Man%20X%202%20-%20Tradu-Roms%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Mega%20Man%20X%202%20-%20Tradu-Roms%20-%203.png"]
+patch_file: "[SNES] Mega Man X 2 (U) [!] [I-BR T-R_Lopes G-Tradu-Roms P-100% A-2001].zip"
 ---
 Tradução boa, com fonte acentuada (vale mencionar a melhoria da fonte) e quase todo o texto do jogo traduzido (nomes de chefes sem tradução), mas com erros de digitação ("achavan"), de português ("ressussitá-lo") e de pontuação, e uma tradução esquisita ("Todos que o subestimaram, são nada mais que sucata.", primeira fala de Violen).ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Mega Man X 2 (U) [!].smc" (código ARXE), com CRC32 947B0355.

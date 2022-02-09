@@ -16,5 +16,6 @@ patch_release: "20 de agosto de 1999 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20Emuroms%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20World%20-%20Emuroms%20-%203.png"]
+patch_file: "[SNES] Super Mario World (E V1.0 - U) [I-BR T-Mac_RJ G-Emuroms V-1.01 A-1999].zip"
 ---
 Tradução bem parcial, sem fonte acentuada e com apenas as mensagens informativas traduzidas, mas com erros de pontuação e alguns de português, palavras comidas nos diálogos e problemas com ponteiros (uma dica passando pela outra).ATENÇÃO:O patch original foi feito sobre uma ROM com cabeçalho, por conta disso, foi tirado um outro patch nomeado como "Super Mario World (E V1.0 - U) [I-BR T-Mac_RJ G-Emuroms V-1.01 A-1999].ips", que já serve para uma ROM considerada "good dump" (sem modificações).Este patch mencionado pode ser aplicado na ROM original "Super Mario World (E) (V1.0).smc", com CRC32 3C41070F, ou na ROM original "Super Mario World (U) [!].smc", com CRC32 B19ED489. Para usar o patch original, é necessário por um cabeçalho de 512 bytes nessas ROMs.

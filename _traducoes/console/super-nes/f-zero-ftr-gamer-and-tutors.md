@@ -16,5 +16,6 @@ patch_release: "29/06/2018"
 patch_type: "IPS"
 patch_progress: "60%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20F-ZERO%20-%20FTR%20Gamer%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20F-ZERO%20-%20FTR%20Gamer%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20F-ZERO%20-%20FTR%20Gamer%20-%203.png"]
+patch_file: "[SNES] F-ZERO (E) [T-BR] [T-FTR Gamer G-FTR Gamer and Tutors] [P-60% A-2018].zip"
 ---
 Segundo o autor da tradução, cerca de 60% dos textos do jogo estão traduzidos e acentuados, e algumas mensagens em forma de gráfico foram editadas.ATENÇÃO:Esta tradução deve ser aplicada na ROM F-ZERO (E).smc (europeia), com CRC32 F1D8F5DA e sem cabeçalho.

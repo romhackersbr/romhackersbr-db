@@ -16,5 +16,6 @@ patch_release: "26/05/2017"
 patch_type: "IPS"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20ActRaiser%20-%20BlackThorne%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20ActRaiser%20-%20BlackThorne%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20ActRaiser%20-%20BlackThorne%20-%203.png"]
+patch_file: "[SNES] ActRaiser (U) [!] [T-BR] [T-BlackThorne G-Nenhum] [A-2017].zip"
 ---
 Os textos estão traduzidos e parcialmente acentuados, e alguns gráficos foram editados. Embora o autor da tradução informe que todos os textos do jogo estão traduzidos, ainda é possível perceber textos em inglês, como os do menu e algumas informações que aparecem dentro dos cenários de batalha.ATENÇÃO:Esta tradução deve ser aplicada na ROM original ActRaiser (U) [!].smc, com CRC32 EAC3358D e sem cabeçalho.

@@ -16,5 +16,6 @@ patch_release: "29/05/2019"
 patch_type: "IPS"
 patch_progress: "70%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20Kart%20-%20FTR%20Gamer%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20Kart%20-%20FTR%20Gamer%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Mario%20Kart%20-%20FTR%20Gamer%20-%203.png"]
+patch_file: "[SNES] Super Mario Kart (U) [!] [T-BR] [T-FTR Gamer G-FTR Gamer and Tutors] [P-70% A-2019].zip"
 ---
 Segundo o autor da tradução, cerca de 70% dos textos do jogo estão traduzidos, mas não estão acentuados, e nenhuma mensagem em forma de gráfico foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM Super Mario Kart (U) [!].smc, com CRC32 CD80DB86 e sem cabeçalho.

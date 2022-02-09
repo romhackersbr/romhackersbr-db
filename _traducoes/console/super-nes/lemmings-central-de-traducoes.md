@@ -16,5 +16,6 @@ patch_release: "1 de setembro de 2005 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Lemmings%20-%20Central%20de%20Traducoes%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Lemmings%20-%20Central%20de%20Traducoes%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Lemmings%20-%20Central%20de%20Traducoes%20-%203.png"]
+patch_file: "[SNES] Lemmings (E) [I-BR T-Maluco G-Central de Traduções V-0.9 A-2005].rar"
 ---
 Tradução simples, sem fonte acentuada (algumas arranjos de acentuação) e com quase todo o texto do jogo traduzido (tela inicial e alguns termos como "password" e "level" sem tradução), apenas um erro de digitação notável ("molesa").ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Lemmings (E).smc", com CRC32 AEBADCEF.

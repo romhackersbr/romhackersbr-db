@@ -16,5 +16,6 @@ patch_release: "novembro de 2002"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Captain%20America%20and%20The%20Avengers%20-%20Tradu%20Games%20BR%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Captain%20America%20and%20The%20Avengers%20-%20Tradu%20Games%20BR%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Captain%20America%20and%20The%20Avengers%20-%20Tradu%20Games%20BR%20-%203.png"]
+patch_file: "[SNES] Captain America and The Avengers (U) [I-BR T-Satan G-Tradu Games BR A-2002].zip"
 ---
 Tradução regular, sem fonte acentuada e com boa parte dos textos traduzidos (textos do placar sem tradução), mas com muitas traduções esquisitas, que provavelmente são originadas de problemas com ponteiros, erros de pontuação e de português e algumas traduções literais.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Captain America and The Avengers (U).smc", com CRC32 456AB5C8.

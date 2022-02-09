@@ -16,5 +16,6 @@ patch_release: "2 de outubro de 2003 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Final%20Fight%20-%20IPS-HP%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Final%20Fight%20-%20IPS-HP%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Final%20Fight%20-%20IPS-HP%20-%203.png"]
+patch_file: "[SNES] Final Fight (U) [I-BR T-Mr.Magoo G-IPS-HP A-2003].zip"
 ---
 Tradução com fonte acentuada e diálogos (uma frase sem tradução na introdução), nomes de itens e alguns nomes de inimigos traduzidos (menu de opções sem tradução), mas com erros de pontuação e de português e problemas com ponteiros (texto do final das fases, além dele estar diferente nos dois quadros da animação).ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Final Fight (U).smc", com CRC32 4CAB21DB.

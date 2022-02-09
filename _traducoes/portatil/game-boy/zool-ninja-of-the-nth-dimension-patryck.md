@@ -2,7 +2,7 @@
 title: " Zool - Ninja of the Nth Dimension (Patryck)"
 system: "Game Boy"
 platform: "Portátil"
-game_title: "Zool - Ninja of the "Nth" Dimension"
+game_title: "Zool - Ninja of the Nth Dimension"
 game_category: "Ação / Plataforma"
 game_players: "1"
 game_developer: "Gremlin Graphics"

@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Argonaut Games"
 game_publisher: "Sony"
 game_release_date: "01/12/2000"
-patch_author: "Rangel "Oblivion" Teixeira"
+patch_author: "Rangel Oblivion"
 patch_group: "Nenhum"
 patch_site: ""
 patch_version: "???"
@@ -18,4 +18,5 @@ patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Aladdin%20-%20La%20Venganza%20de%20Nasira%20-%20Rangel%20Oblivion%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Aladdin%20-%20La%20Venganza%20de%20Nasira%20-%20Rangel%20Oblivion%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Aladdin%20-%20La%20Venganza%20de%20Nasira%20-%20Rangel%20Oblivion%20-%203.jpg"]
 patch_file: "[PS1] Aladdin - La Venganza de Nasira (SCES-03008) [T-BR] [T-Rangel Oblivion G-Nenhum] [A-2013].zip"
 ---
+
 Os textos do jogo estão traduzidos e parcialmente acentuados, e nenhum gráfico foi editado (todos estão no idioma espanhol).ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD em formato BIN+CUE ou CCD+IMG+SUB (de tamanho 615.059.760 bytes e CRC32 8107F0A1) da versão europeia (SCES-03008) do jogo Disney's Aladdin in Nasira's Revenge (lançado como Aladdin - La Venganza de Nasira em países de língua espanhola).

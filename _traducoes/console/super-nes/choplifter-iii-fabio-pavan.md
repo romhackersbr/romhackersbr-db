@@ -16,5 +16,6 @@ patch_release: "31/08/2014"
 patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Choplifter%20III%20-%20F%C3%A1bio%20Pavan%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Choplifter%20III%20-%20F%C3%A1bio%20Pavan%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Choplifter%20III%20-%20F%C3%A1bio%20Pavan%20-%203.png"]
+patch_file: "[SNES] Choplifter III (E) [T-BR] [T-Fábio Pavan G-Nenhum] [A-2014].zip"
 ---
 A maioria dos textos está traduzida, mas não está acentuada, e nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Choplifter III (E).smc, com CRC32 788E42C9 e sem cabeçalho.

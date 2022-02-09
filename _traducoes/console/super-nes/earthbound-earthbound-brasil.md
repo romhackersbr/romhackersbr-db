@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Earthbound%20-%20Earthbound%20Brasil%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Earthbound%20-%20Earthbound%20Brasil%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Earthbound%20-%20Earthbound%20Brasil%20-%203.png"]
+patch_file: "[SNES] Earthbound (U) [!] [T-BR] [T-Alex Foffano, TragicManner e grande elenco G-Earthbound Brasil] [V-1.0 A-2015].zip"
 ---
 Após 7 anos longos trabalhando neste projeto, a equipe Earthbound Brasil finalmente concluiu este grande projeto. Segundo os autores da tradução, todos os textos do jogo estão traduzidos e acentuados, e praticamente todas as mensagens em forma de gráfico foram editadas.ATENÇÃO:O pacote de tradução possui dois patches: um patch de nome ebbr[!].ips, que deve ser aplicado na ROM original Earthbound (U) [!].smc, com CRC32 DC9BB451 e com tamanho 3.145.728 bytes (não possui cabeçalho), e outro patch de nome ebbr.ips, que deve ser aplicada na ROM original Earthbound (U) [!].smc, com CRC32 AF607132 e com tamanho 3.146.240 bytes (contém cabeçalho de 512 bytes). Para adicionar um cabeçalho à ROM, basta usar o programa SnesTool.

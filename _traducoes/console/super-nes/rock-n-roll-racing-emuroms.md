@@ -16,5 +16,6 @@ patch_release: "19 de agosto de 1999 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Rock%20N'%20Roll%20Racing%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Rock%20N'%20Roll%20Racing%20-%20Emuroms%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Rock%20N'%20Roll%20Racing%20-%20Emuroms%20-%203.png"]
+patch_file: "[SNES] Rock N' Roll Racing (Beta) [I-BR T-Mac_RJ G-Emuroms V-1.00 A-1999].zip"
 ---
 Tradução simples, sem fonte acentuada e com boa parte do texto traduzido (termos como "bay2" sem tradução), mas com abreviações e uma frase sem sentido completo ("Traga sua gas mask para para a corrida nesse mundo lotado.").ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Rock N' Roll Racing (Beta).smc", com CRC32 2E47F7D7.

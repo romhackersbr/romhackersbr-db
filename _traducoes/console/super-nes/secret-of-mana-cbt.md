@@ -16,5 +16,6 @@ patch_release: "19 de agosto de 1999"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Secret%20of%20Mana%20-%20CBT%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Secret%20of%20Mana%20-%20CBT%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Secret%20of%20Mana%20-%20CBT%20-%203.png"]
+patch_file: "[SNES] Secret of Mana (U) [!] [I-BR T-Samurai_Pizza G-CBT V-1.4 P-100% A-1999].zip"
 ---
 Tradução boa, com fonte acentuada e quase todo o texto do jogo traduzido (a introdução permanece em inglês), mas com erros de português (principalmente acentuação) e de pontuação, adaptações (clássico "Barra Limpa") e abreviações (necessárias nos menus mas algumas ruins, como o nome dos inimigos em mensagens informativas). A substituição da fonte também não foi muito feliz, os caracteres eram usados para informar os botões do controle.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Secret of Mana (U) [!].smc", com CRC32 D0176B24.

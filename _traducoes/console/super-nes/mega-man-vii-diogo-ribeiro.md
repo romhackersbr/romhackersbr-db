@@ -16,5 +16,6 @@ patch_release: "31/05/2019"
 patch_type: "IPS"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Mega%20Man%20VII%20-%20Diogo%20Ribeiro%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Mega%20Man%20VII%20-%20Diogo%20Ribeiro%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Mega%20Man%20VII%20-%20Diogo%20Ribeiro%20-%203.png"]
+patch_file: "[SNES] Mega Man VII (U) [T-BR] [T-Diogo Ribeiro G-Nenhum] [V-1.0 P-100% A-2019].zip"
 ---
 Todos os textos do jogo estão traduzidos e devidamente acentuados, e as mensagens em forma de gráfico também foram editadas.OBS: Esta é uma tradução do jogo Mega Man VII para o idioma português de Portugal e que incorpora o restoration hack criado por SCD e rainponcho. O referido hack restaura varios elementos do jogo que existem originalmente na versão japonesa do jogo, mas que foram cortados na versão americana.ATENÇÃO:Esta tradução deve ser aplicada na ROM Mega Man VII (U).smc (Cowering) ou Mega Man 7 (USA).sfc (No-Intro), com CRC32 2D947536 e sem cabeçalho.

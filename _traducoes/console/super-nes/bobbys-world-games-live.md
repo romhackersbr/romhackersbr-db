@@ -16,5 +16,6 @@ patch_release: "02/01/2013"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Menus - 100% / Acentos - 0% / Gráficos - 0%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Bobby's%20World%20-%20Games%20Live%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Bobby's%20World%20-%20Games%20Live%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Bobby's%20World%20-%20Games%20Live%20-%203.png"]
+patch_file: "[SNES] Bobby's World (U) [T-BR] [T-Zyre G-Games Live] [A-2013].zip"
 ---
 Uma tradução razoável. Todos os textos do jogo estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Bobby's World (U).smc, com CRC32 18BBEE33 e sem cabeçalho.

@@ -16,5 +16,6 @@ patch_release: "25/06/2011"
 patch_type: "IPS"
 patch_progress: "Textos - 90% / Graficos - 90%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20AAAHH!!!%20Real%20Monsters%20-%20Tecno%20Tradu%20BR%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20AAAHH!!!%20Real%20Monsters%20-%20Tecno%20Tradu%20BR%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20AAAHH!!!%20Real%20Monsters%20-%20Tecno%20Tradu%20BR%20-%203.png"]
+patch_file: "[SNES] AAAHH!!! Real Monsters (E) [!] [T-BR] [T-Ruhan7 G-Tecno Tradu BR] [P-90% A-2011].zip"
 ---
 Este é o primeiro patch parcial da tradução ainda em andamento para o jogo AAAHH!!! Real Monsters lançado pelo tradutor Ruhan7. Segundo ele, a maioria dos poucos textos do jogo está traduzida, mas não está acentuada, e a maioria dos gráficos foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM original AAAHH!!! Real Monsters (E) [!].smc, com CRC32 946313FB.

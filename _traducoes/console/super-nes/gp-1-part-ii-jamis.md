@@ -16,5 +16,6 @@ patch_release: "26/08/2009"
 patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20GP-1%20Part%20II%20-%20Jamis%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20GP-1%20Part%20II%20-%20Jamis%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20GP-1%20Part%20II%20-%20Jamis%20-%203.png"]
+patch_file: "[SNES] GP-1 Part II (U) [T-BR] [T-Jamis G-Nenhum] [A-2009].zip"
 ---
 Esta é a primeira tradução do tradutor freelancer Jamis Casusa da Silva. Os poucos textos do jogo estão traduzidos, mas não acentuados, e nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original GP-1 Part II (U).smc, com CRC32 A9014E12 e sem cabeçalho.

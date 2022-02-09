@@ -16,5 +16,6 @@ patch_release: "30 de agosto de 2001 (provavelmente)"
 patch_type: "Patch IPS e IPSEXE dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Metal%20Warriors%20-%20Romhack%20BR%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Metal%20Warriors%20-%20Romhack%20BR%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Metal%20Warriors%20-%20Romhack%20BR%20-%203.png"]
+patch_file: "[SNES] Metal Warriors (U) [I-BR T-Sanozuke, Majin Alucard e Lhotian G-Romhack BR V-1.1 P-100% A-2001].zip"
 ---
 Tradução com fonte acentuada e boa parte do texto do jogo traduzido (textos como o menu inicial, informativos e títulos das missões, sem tradução), mas com pontuação inexistente onde é necessário (vírgulas) e traduções literais (alguns nomes de armas nas opções) e uma esquisita, por conta das abreviações e da falta de tradução de alguns termos ("pago com sangue os 3 anos de guerra vs a Terra").ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Metal Warriors (U).smc" (código AWME), com CRC32 F2AB92D4.
