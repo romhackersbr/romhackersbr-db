@@ -1,50 +1,50 @@
-name: Incluir Tradução
-description: Formulário para inclusão de Traduções no banco de dados do PO.BR.E
+name: "Incluir Tradução"
+description: "Formulário para inclusão de Traduções no banco de dados do PO.BR.E"
 title: "[Incluir Tradução]: Nome do Jogo"
-labels: ['incluir', 'traducao']
+labels: ["incluir", "traducao"]
 body:
   - type: input
     id: title
     attributes:
-      label: Titulo do Tradução
+      label: "Título do Tradução"
       placeholder: "Street Fighter II' - Champion Edition (NeoGeo BR Team)"
       validations:
         required: true
   - type: dropdown
     id: system
     attributes:
-      label: Sistema
+      label: "Sistema"
       options:
-        - CPS-1
-        - CPS-2
-        - JAMMA PCB
-        - Neo Geo
-        - Commodore CDTV
-        - MSX
-        - PC-98
-        - X68000
-        - 3D0
-        - 32X
-        - Colecovision
-        - Dreamcast
-        - Famicom Disk System
-        - Game Cube
-        - Master System
-        - Mega Drive
-        - NES
-        - Nintendo 64
-        - PC Engine
-        - Playstation
-        - Playstation 2
-        - Playstation 3
-        - Saturn
-        - Sega CD
-        - SG-1000
-        - Super NES
-        - Wii
-        - Wii U
-        - Xbox
-        - Xbox 360
+        - "CPS-1"
+        - "CPS-2"
+        - "JAMMA PCB"
+        - "Neo Geo"
+        - "Commodore CDTV"
+        - "MSX"
+        - "PC-98"
+        - "X68000"
+        - "3D0"
+        - "32X"
+        - "Colecovision"
+        - "Dreamcast"
+        - "Famicom Disk System"
+        - "Game Cube"
+        - "Master System"
+        - "Mega Drive"
+        - "NES"
+        - "Nintendo 64"
+        - "PC Engine"
+        - "Playstation"
+        - "Playstation 2"
+        - "Playstation 3"
+        - "Saturn"
+        - "Sega CD"
+        - "SG-1000"
+        - "Super NES"
+        - "Wii"
+        - "Wii U"
+        - "Xbox"
+        - "Xbox 360'
       validations:
         required: true
   - type: dropdown
@@ -52,10 +52,10 @@ body:
     attributes:
       label: Plataforma
       options:
-        - Arcade
-        - Computador
-        - Console
-        - Portátil
+        - "Arcade"
+        - "Computador"
+        - "Console"
+        - "Portátil"
       validations:
         required: true
   - type: input
@@ -65,10 +65,11 @@ body:
       placeholder: "Street Fighter II' - Champion Edition"
       validations:
         required: true
-  - type: checkboxes
+  - type: dropdown
     id: game_category
     attributes:
-      label: Plataforma
+      label: Categoria do Jogo
+      multiple: trie
       options:
         - Ação
         - Adulto
@@ -90,36 +91,36 @@ body:
   - type: input
     id: game_players
     attributes:
-      label: Numero de Jogadores
+      label: "Numero de Jogadores"
       placeholder: "2"
       validations:
         required: true
   - type: input
     id: game_developer
     attributes:
-      label: Desenvolvedora do Jogo
+      label: "Desenvolvedora do Jogo"
       placeholder: "Capcom"
       validations:
         required: true
   - type: input
     id: game_publisher
     attributes:
-      label: Distribuidora do Jogo
+      label: "Distribuidora do Jogo"
       placeholder: "Capcom"
       validations:
         required: true
   - type: input
     id: game_release_date
     attributes:
-      label: Data de Lançamento do Jogo
+      label: "Data de Lançamento do Jogo"
       placeholder: "06/01/1991"
       validations:
         required: true
   - type: input
     id: patch_author
     attributes:
-      label: Autor(es) da Tradução
-      description: Em caso de mais de um autor, inserir nomes separados por vírgula
+      label: "Autor(es) da Tradução"
+      description: "Em caso de mais de um autor, inserir nomes separados por vírgula"
       placeholder: "BisonSAS, Alan Yagami"
       validations:
         required: true
@@ -134,7 +135,7 @@ body:
   - type: input
     id: patch_site
     attributes:
-      label: Site da Tradução
+      label: "Site da Tradução"
       description: "Inserir sem http: ou https:"
       placeholder: "//neogeobrteam.uni.cc/"
       validations:
@@ -142,21 +143,21 @@ body:
   - type: input
     id: patch_version
     attributes:
-      label: Versão da Tradução
+      label: "Versão da Tradução"
       placeholder: "1.0"
       validations:
         required: true
   - type: input
     id: patch_release
     attributes:
-      label: Data de Lançamento da Tradução
+      label: "Data de Lançamento da Tradução"
       placeholder: "06/01/1991"
       validations:
         required: true
   - type: dropdown
     id: patch_type
     attributes:
-      label: Tipo de Patch
+      label: "Tipo de Patch"
       options:
         - APS
         - BPS
@@ -169,18 +170,18 @@ body:
   - type: input
     id: patch_progress
     attributes:
-      label: Progresso da Tradução
+      label: "Progresso da Tradução"
       placeholder: "100"
       validations:
         required: true
   - type: markdown
     id: patch_images
     attributes:
-      value: Cole aqui as screenshots da tradução (no minimo 3)
+      value: "Cole aqui as screenshots da tradução (no mínimo 3)"
   - type: input
     id: patch_file
     attributes:
-      label: Link para o patch da tradução
+      label: "Link para o patch da tradução"
       description: "Inserir sem http: ou https:"
       placeholder: "//meusite.com/patch-da-traducao.zip"
       validations:
