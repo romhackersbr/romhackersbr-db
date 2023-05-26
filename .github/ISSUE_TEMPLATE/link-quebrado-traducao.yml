@@ -1,0 +1,75 @@
+name: "Link Quebrado na Tradução"
+description: "Formulário para correções de links quebrados em Traduções no banco de dados do PO.BR.E"
+title: "[Link Quebrado na Tradução]: Nome do Jogo"
+labels: ["link-quebrado", "traducao"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: "Título do Tradução"
+      placeholder: "Street Fighter II' - Champion Edition (NeoGeo BR Team)"
+    validations:
+      required: true
+  - type: dropdown
+    id: system
+    attributes:
+      label: "Sistema"
+      description: Selecione um Sistema
+      options:
+        - "32X"
+        - "3D0"
+        - "Android"
+        - "Celular"
+        - "Colecovision"
+        - "Commodore CDTV"
+        - "CPS-1"
+        - "CPS-2"
+        - "Dingoo"
+        - "Dreamcast"
+        - "Famicom Disk System"
+        - "Game Boy Advance"
+        - "Game Boy Color"
+        - "Game Boy"
+        - "Game Cube"
+        - "Game Gear"
+        - "JAMMA PCB"
+        - "Master System"
+        - "Mega Drive"
+        - "MSX"
+        - "Neo Geo Pocket"
+        - "Neo Geo"
+        - "NES"
+        - "Nintendo 3DS"
+        - "Nintendo 64"
+        - "Nintendo DS"
+        - "PC Engine"
+        - "PC-98"
+        - "Playstation 2"
+        - "Playstation 3"
+        - "Playstation"
+        - "PSP"
+        - "Saturn"
+        - "Sega CD"
+        - "SG-1000"
+        - "Super NES"
+        - "Watara Supervision"
+        - "Wii U"
+        - "Wii"
+        - "Wonder Swan Color"     
+        - "X68000"
+        - "Xbox 360"
+        - "Xbox"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Plataforma
+      description: Selecione uma Plataforma
+      options:
+        - "Arcade"
+        - "Computador"
+        - "Console"
+        - "Portátil"
+    validations:
+      required: true
