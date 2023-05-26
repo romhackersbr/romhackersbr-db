@@ -93,15 +93,15 @@ body:
     attributes:
       label: "Numero de Jogadores"
       placeholder: "2"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: game_developer
     attributes:
       label: "Desenvolvedora do Jogo"
       placeholder: "Capcom"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: game_publisher
     attributes:
@@ -114,8 +114,8 @@ body:
     attributes:
       label: "Data de Lançamento do Jogo"
       placeholder: "06/01/1991"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: patch_author
     attributes:
