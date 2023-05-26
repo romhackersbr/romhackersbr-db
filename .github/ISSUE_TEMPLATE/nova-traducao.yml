@@ -8,8 +8,8 @@ body:
     attributes:
       label: "Título do Tradução"
       placeholder: "Street Fighter II' - Champion Edition (NeoGeo BR Team)"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: system
     attributes:
@@ -45,8 +45,8 @@ body:
         - "Wii U"
         - "Xbox"
         - "Xbox 360"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: platform
     attributes:
@@ -56,8 +56,8 @@ body:
         - "Computador"
         - "Console"
         - "Portátil"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: game_title
     attributes:
@@ -86,8 +86,8 @@ body:
         - Tiro
         - Tiro em Primeira Pessoa
         - Visual Novel      
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: game_players
     attributes:
@@ -107,8 +107,8 @@ body:
     attributes:
       label: "Distribuidora do Jogo"
       placeholder: "Capcom"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: game_release_date
     attributes:
@@ -122,8 +122,8 @@ body:
       label: "Autor(es) da Tradução"
       description: "Em caso de mais de um autor, inserir nomes separados por vírgula"
       placeholder: "BisonSAS, Alan Yagami"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: patch_group
     attributes:
@@ -138,22 +138,22 @@ body:
       label: "Site da Tradução"
       description: "Inserir sem http: ou https:"
       placeholder: "//neogeobrteam.uni.cc/"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: patch_version
     attributes:
       label: "Versão da Tradução"
       placeholder: "1.0"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: patch_release
     attributes:
       label: "Data de Lançamento da Tradução"
       placeholder: "06/01/1991"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: patch_type
     attributes:
@@ -165,15 +165,15 @@ body:
         - RUP
         - PPF
         - XDELTA
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: patch_progress
     attributes:
       label: "Progresso da Tradução"
       placeholder: "100"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: markdown
     id: patch_images
     attributes:
@@ -184,8 +184,8 @@ body:
       label: "Link para o patch da tradução"
       description: "Inserir sem http: ou https:"
       placeholder: "//meusite.com/patch-da-traducao.zip"
-      validations:
-        required: true
+    validations:
+      required: true
 
 
   
