@@ -1,0 +1,217 @@
+name: "Corrigir Tradução"
+description: "Formulário para correção de Traduções no banco de dados do PO.BR.E"
+title: "[Corrigir Tradução]: Nome do Jogo"
+labels: ["incluir", "traducao"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: "Título do Tradução"
+      placeholder: "Street Fighter II' - Champion Edition (NeoGeo BR Team)"
+    validations:
+      required: true
+  - type: dropdown
+    id: system
+    attributes:
+      label: "Sistema"
+      description: Selecione um Sistema
+      options:
+        - "32X"
+        - "3D0"
+        - "Android"
+        - "Celular"
+        - "Colecovision"
+        - "Commodore CDTV"
+        - "CPS-1"
+        - "CPS-2"
+        - "Dingoo"
+        - "Dreamcast"
+        - "Famicom Disk System"
+        - "Game Boy Advance"
+        - "Game Boy Color"
+        - "Game Boy"
+        - "Game Cube"
+        - "Game Gear"
+        - "JAMMA PCB"
+        - "Master System"
+        - "Mega Drive"
+        - "MSX"
+        - "Neo Geo Pocket"
+        - "Neo Geo"
+        - "NES"
+        - "Nintendo 3DS"
+        - "Nintendo 64"
+        - "Nintendo DS"
+        - "PC Engine"
+        - "PC-98"
+        - "Playstation 2"
+        - "Playstation 3"
+        - "Playstation"
+        - "PSP"
+        - "Saturn"
+        - "Sega CD"
+        - "SG-1000"
+        - "Super NES"
+        - "Watara Supervision"
+        - "Wii U"
+        - "Wii"
+        - "Wonder Swan Color"     
+        - "X68000"
+        - "Xbox 360"
+        - "Xbox"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Plataforma
+      description: Selecione uma Plataforma
+      options:
+        - "Arcade"
+        - "Computador"
+        - "Console"
+        - "Portátil"
+    validations:
+      required: true
+  - type: input
+    id: game_title
+    attributes:
+      label: Titulo do Jogo
+      placeholder: "Street Fighter II' - Champion Edition"
+    validations:
+      required: true
+  - type: dropdown
+    id: game_category
+    attributes:
+      label: Categoria do Jogo
+      description: Selecione uma ou mais Categorias
+      multiple: true
+      options:
+        - Ação
+        - Adulto
+        - Corrida
+        - Estratégia
+        - Esportes
+        - Futebol
+        - Luta
+        - Nave
+        - Plataforma
+        - Pancadaria
+        - Quebra Cabeças
+        - RPG
+        - Tiro
+        - Tiro em Primeira Pessoa
+        - Visual Novel      
+    validations:
+      required: true
+  - type: input
+    id: game_players
+    attributes:
+      label: "Numero de Jogadores"
+      placeholder: "2"
+    validations:
+      required: true
+  - type: input
+    id: game_developer
+    attributes:
+      label: "Desenvolvedora do Jogo"
+      placeholder: "Capcom"
+    validations:
+      required: true
+  - type: input
+    id: game_publisher
+    attributes:
+      label: "Distribuidora do Jogo"
+      placeholder: "Capcom"
+    validations:
+      required: true
+  - type: input
+    id: game_release_date
+    attributes:
+      label: "Data de Lançamento do Jogo"
+      placeholder: "06/01/1991"
+    validations:
+      required: true
+  - type: input
+    id: patch_author
+    attributes:
+      label: "Autor(es) da Tradução"
+      description: "Em caso de mais de um autor, inserir nomes separados por vírgula"
+      placeholder: "BisonSAS, Alan Yagami"
+    validations:
+      required: true
+  - type: input
+    id: patch_group
+    attributes:
+      label: Grupo(s) da Tradução
+      description: Em caso de mais de um grupo, inserir nomes separados por vírgula
+      placeholder: "NeoGeo BR Team"
+    validations:
+      required: true
+  - type: input
+    id: patch_site
+    attributes:
+      label: "Site da Tradução"
+      description: "Inserir sem http: ou https:"
+      placeholder: "//neogeobrteam.uni.cc/"
+    validations:
+      required: true
+  - type: input
+    id: patch_version
+    attributes:
+      label: "Versão da Tradução"
+      placeholder: "1.0"
+    validations:
+      required: true
+  - type: input
+    id: patch_release
+    attributes:
+      label: "Data de Lançamento da Tradução"
+      placeholder: "06/01/1991"
+    validations:
+      required: true
+  - type: dropdown
+    id: patch_type
+    attributes:
+      label: "Tipo de Patch"
+      description: Selecione um tipo de Patch
+      options:
+        - APS
+        - BPS
+        - IPS
+        - RUP
+        - PPF
+        - XDELTA
+    validations:
+      required: true
+  - type: input
+    id: patch_progress
+    attributes:
+      label: "Progresso da Tradução"
+      placeholder: "100"
+    validations:
+      required: true
+  - type: textarea
+    id: patch_images
+    attributes:
+      label: "Imagens da Tradução"
+      placeholder: "Insira aqui a o link das screenshots da tradução (no minimo 3), você pode usar o imgpaste.net para enviar as imagens."
+      render: markdown
+    validations:
+      required: true
+  - type: input
+    id: patch_file
+    attributes:
+      label: "Link para o patch da tradução"
+      description: "Inserir sem http: ou https:"
+      placeholder: "//meusite.com/patch-da-traducao.zip"
+    validations:
+      required: true
+  - type: textarea
+    id: patch_description
+    attributes:
+      label: "Descrição da Tradução"
+      placeholder: "Insira aqui a descrição e informações extras sobre a tradução"
+      render: markdown
+    validations:
+      required: true
