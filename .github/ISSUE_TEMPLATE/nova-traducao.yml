@@ -15,8 +15,8 @@ body:
     attributes:
       label: "Sistema"
       options:
-        - CPS-1
-        - CPS-2
+        - "CPS-1"
+        - "CPS-2"
         - "JAMMA PCB"
         - "Neo Geo"
         - "Commodore CDTV"
@@ -44,7 +44,7 @@ body:
         - "Wii"
         - "Wii U"
         - "Xbox"
-        - "Xbox 360'
+        - "Xbox 360"
       validations:
         required: true
   - type: dropdown
