@@ -31,5 +31,7 @@ Este é o repositório do banco de dados do Portal Brasileiro de ROMHacking e Em
 - Adicionar desenvolvedoras
 
 # Colaboradores
+- [https://github.com/hansbonini](Anime_World)
+- [https://github.com/devilfox](DevilFox)
 
 # Patrocinadores
