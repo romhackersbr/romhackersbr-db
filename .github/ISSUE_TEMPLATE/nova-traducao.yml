@@ -179,7 +179,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: patch_description
+    id: patch_images
     attributes:
       label: "Imagens da Tradução"
       placeholder: "Insira aqui a o link das screenshots da tradução (no minimo 3), você pode usar o imgpaste.net para enviar as imagens."
