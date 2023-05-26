@@ -178,10 +178,14 @@ body:
       placeholder: "100"
     validations:
       required: true
-  - type: markdown
-    id: patch_images
+  - type: textarea
+    id: patch_description
     attributes:
-      value: "Cole aqui as screenshots da tradução (no mínimo 3)"
+      label: "Imagens da Tradução"
+      placeholder: "Insira aqui a o link das screenshots da tradução (no minimo 3), você pode usar o imgpaste.net para enviar as imagens."
+      render: markdown
+    validations:
+      required: true
   - type: input
     id: patch_file
     attributes:
@@ -193,8 +197,8 @@ body:
   - type: textarea
     id: patch_description
     attributes:
-      label: Descrição da Tradução
-      placeholder: Insira aqui a descrição e informações extras sobre a tradução
+      label: "Descrição da Tradução"
+      placeholder: "Insira aqui a descrição e informações extras sobre a tradução"
       render: markdown
     validations:
       required: true
