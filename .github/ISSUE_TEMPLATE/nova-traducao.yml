@@ -130,8 +130,8 @@ body:
       label: Grupo(s) da Tradução
       description: Em caso de mais de um grupo, inserir nomes separados por vírgula
       placeholder: "NeoGeo BR Team"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: patch_site
     attributes:
