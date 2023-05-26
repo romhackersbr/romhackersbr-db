@@ -1,7 +1,7 @@
 name: "Corrigir Tradução"
 description: "Formulário para correção de Traduções no banco de dados do PO.BR.E"
 title: "[Corrigir Tradução]: Nome do Jogo"
-labels: ["incluir", "traducao"]
+labels: ["corrigir", "traducao"]
 body:
   - type: input
     id: title
