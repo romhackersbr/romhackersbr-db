@@ -63,8 +63,8 @@ body:
     attributes:
       label: Titulo do Jogo
       placeholder: "Street Fighter II' - Champion Edition"
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: game_category
     attributes:
