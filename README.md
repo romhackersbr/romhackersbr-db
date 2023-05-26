@@ -19,6 +19,9 @@ Este é o repositório do banco de dados do Portal Brasileiro de ROMHacking e Em
 </p>
 
 # Como colaborar
+- Se você deseja incluir uma tradução, basta preencher o formulário de [Inclusão de Tradução](https://github.com/romhackersbr/romhackersbr-db/issues/new?assignees=&labels=incluir%2Ctraducao&projects=&template=nova-traducao.yml&title=%5BIncluir+Tradu%C3%A7%C3%A3o%5D%3A+Nome+do+Jogo)
+- Se você deseja corrigir uma tradução, basta preencher o formulário de [Correção de Tradução](https://github.com/romhackersbr/romhackersbr-db/issues/new?assignees=&labels=corrigir%2Ctraducao&projects=&template=corrigir-traducao.yml&title=%5BCorrigir+Tradu%C3%A7%C3%A3o%5D%3A+Nome+do+Jogo)
+- Se você deseja informar algum link quebrado, basta preencher o formulário de [Link Quebrado em Tradução](https://github.com/romhackersbr/romhackersbr-db/issues/new?assignees=&labels=corrigir%2Ctraducao&projects=&template=corrigir-traducao.yml&title=%5BCorrigir+Tradu%C3%A7%C3%A3o%5D%3A+Nome+do+Jogo)
 
 # TODO
 - Adicionar links de download
