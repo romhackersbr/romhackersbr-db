@@ -16,5 +16,6 @@ patch_release: "11 de janeiro de 2003 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Lord%20of%20The%20Rings%20-%20The%20Fellowship%20of%20The%20Ring%20-%20Evil%20Darkness%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Lord%20of%20The%20Rings%20-%20The%20Fellowship%20of%20The%20Ring%20-%20Evil%20Darkness%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Lord%20of%20The%20Rings%20-%20The%20Fellowship%20of%20The%20Ring%20-%20Evil%20Darkness%20-%203.png"]
+patch_file: "[GBA] The Lord of The Rings - The Fellowship of The Ring (U) [I-BR T-Dark Blade e Wrath G-Evil Darkness V-1.1b P-100% A-2003].zip"
 ---
 Tradução regular, com a fonte dos diálogos acentuada e menus e diálogos traduzidos, mas boa parte dos itens sem tradução, muitas frases sem sentido e com erros de português, além de alguns posicionamentos irregulares na fonte grande do menu.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Lord of the Rings, The - The Fellowship of the Ring (U).gba", com CRC32 EE0C58BC, ou na ROM "Lord of the Rings, The - The Fellowship of the Ring (U) [h1C].gba", com CRC32 02552BC4 (ambas com código ALOE).
