@@ -9,7 +9,7 @@ system: "Super Nintendo"
 language: "Português"
 release_date: "01/05/2013"
 version: "1.0"
-site: "http:https://web.archive.org/web/20110202120839/http://monkeystraducoes.com/ (fora do ar)"
+site: "http://web.archive.org/web/20110202120839/http://monkeystraducoes.com/ (fora do ar)"
 ---
 Esta ferramenta tem como objetivo visualizar rapidamente e facilmente os gráficos extraídos das ROMs do sistema Super Nintendo.
 

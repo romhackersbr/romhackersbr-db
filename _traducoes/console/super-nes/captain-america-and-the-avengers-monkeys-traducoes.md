@@ -10,7 +10,7 @@ game_publisher: "Mindscape"
 game_release_date: "??/09/1993"
 patch_author: ["ØX-Carnage","denim"]
 patch_group: "Monkey's Traduções"
-patch_site: "https://web.archive.org/web/20110202120839/http://monkeystraducoes.com/"
+patch_site: "//web.archive.org/web/20110202120839/http://monkeystraducoes.com/"
 patch_version: "3.0"
 patch_release: "undefined"
 patch_type: "IPS"
