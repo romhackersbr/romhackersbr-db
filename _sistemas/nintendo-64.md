@@ -1,4 +1,3 @@
-
 ---
 title: "Nintendo 64"
 featured: "/assets/svg/sistema/nintendo-64.svg"
