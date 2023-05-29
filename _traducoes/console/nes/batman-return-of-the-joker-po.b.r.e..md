@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "undefined"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Batman%20-%20Return%20of%20the%20Joker%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Batman%20-%20Return%20of%20the%20Joker%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Batman%20-%20Return%20of%20the%20Joker%20-%20POBRE%20-%203.png"]
+patch_file: "[NES] Batman - Return of the Joker (U) [!] [T-BR] [T-Mr.Fox G-POBRE] [V-1.1 P-100% A-2019].7z"
 ---
 Todos os textos do jogo estão traduzidos e acentuados, e as mensagens em forma de gráfico foram editadas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Batman - Return of the Joker (U) [!].nes, com CRC32 E14A7971.

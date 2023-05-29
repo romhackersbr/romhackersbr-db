@@ -16,5 +16,6 @@ patch_release: "17/12/2011"
 patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Mario%20Kart%20Rider%20-%20Tecno%20Tradu%20BR%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Mario%20Kart%20Rider%20-%20Tecno%20Tradu%20BR%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Mario%20Kart%20Rider%20-%20Tecno%20Tradu%20BR%20-%203.png"]
+patch_file: "[NES] Super Mario Kart Raider (Unl) [!] [T-BR] [T-lobozero G-Tecno Tradu BR] [V-1.0 A-2011].rar"
 ---
 Uma tradução razoável. Os poucos textos do jogo estão traduzidos (não todos), mas não estão acentuados, e alguns gráficos foram editados. Nota-se elementos não traduzidos, como alguns textos e gráficos.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Super Mario Kart Raider (Unl) [!].nes, com CRC32 828575B8.

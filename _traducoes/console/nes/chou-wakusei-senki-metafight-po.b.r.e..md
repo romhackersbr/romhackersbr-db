@@ -16,5 +16,6 @@ patch_release: "06/03/2019"
 patch_type: "undefined"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Chou-Wakusei%20Senki%20-%20MetaFight%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Chou-Wakusei%20Senki%20-%20MetaFight%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Chou-Wakusei%20Senki%20-%20MetaFight%20-%20POBRE%20-%203.png"]
+patch_file: "[NES] Chou-Wakusei Senki - MetaFight (J) [T-BR] [T-Mr.Fox G-POBRE] [V-1.0 P-100% A-2019].7z"
 ---
 Todos os textos estão traduzidos e acentuados, e as mensagens em forma de gráfico também foram editadas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Chou-Wakusei Senki - MetaFight (J).nes, com CRC32 6E286BB2.

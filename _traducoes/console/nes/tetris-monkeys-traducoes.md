@@ -16,5 +16,6 @@ patch_release: "24/12/2010"
 patch_type: "undefined"
 patch_progress: "Textos - 98% / Acentos - 100% / Gráficos - 100% / Geral - 99%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Tetris%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Tetris%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Tetris%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[NES] Tetris (U) [!] [T-BR] [T-Wolfwood G-Monkey's Traduções] [V-1.0 P-99% A-2010].rar"
 ---
 Uma ótima tradução. Praticamente todos os textos do jogo estão traduzidos (só faltou o PAUSE) e acentuados, e todos os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Tetris (U) [!].nes, com CRC32 6D72C53A.

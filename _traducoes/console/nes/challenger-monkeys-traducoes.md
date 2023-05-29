@@ -16,5 +16,6 @@ patch_release: "13/11/2011"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Challenger%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Challenger%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Challenger%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[NES] Challenger (J) [!] [T-BR] [T-Jorge Manoel G-Monkey's Traduções] [V-1.0 P-100% A-2011].zip"
 ---
 Uma boa tradução. Os poucos textos do jogo estão traduzidos e acentuados, e o único gráfico a ser traduzido, HELP, foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Challenger (J) [!].nes, com CRC32 94339DFF.

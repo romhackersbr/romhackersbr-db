@@ -16,5 +16,6 @@ patch_release: "20/05/2010"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Toki%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Toki%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Toki%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[NES] Toki (U) [!] [T-BR] [T-ØX-Carnage G-Monkey's Traduções] [V-2.0 P-100% A-2010].zip"
 ---
 Uma ótima tradução. Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Toki (U) [!].nes, com CRC32 5BD50BE6.

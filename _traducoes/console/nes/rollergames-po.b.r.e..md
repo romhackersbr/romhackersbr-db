@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "undefined"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Rollergames%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Rollergames%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Rollergames%20-%20POBRE%20-%203.png"]
+patch_file: "[NES] Rollergames (U) [!] [T-BR] [T-devilfox G-POBRE] [V-1.0 P-100% A-2008].zip"
 ---
 Todos os textos do jogo estão traduzidos e acentuados, e todas as mensagens em forma de gráfico foram editadas.NOVIDADES DA VERSÃO 1.1:- Várias melhorias foram implementadas nos textos traduzidos, tais como a eliminação da hifenização, tradução mais fiel e com mais qualidade devido ao aumento do número de linhas e de caracteres por linha nas caixas de diálogo, isso sem falar que agora a tradução está de acordo com as normas da reforma ortográfica da língua portuguesa;- A aparência da fonte foi melhorada;- O gráfico "VÁ" (GO) foi modificado para "SIGA";- O gráfico "NO" (na parede da fase 1) foi modificado para "NÃO";- Assinei a tradução com o meu novo nickname: Mr.Fox.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Rollergames (U) [!].nes, com CRC32 80DA9F53.

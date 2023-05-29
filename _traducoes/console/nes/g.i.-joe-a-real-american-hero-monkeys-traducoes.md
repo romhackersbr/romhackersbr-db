@@ -16,5 +16,6 @@ patch_release: "05/07/2009"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20G.I.%20Joe%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20G.I.%20Joe%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20G.I.%20Joe%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[NES] G.I. Joe (U) [!] [T-BR] [T-ØX-Carnage G-Monkey's Traduções] [V-1.1 P-100% A-2009].zip"
 ---
 Uma boa tradução. Os textos estão traduzidos e acentuados, e os gráficos foram editados. Nota-se pequenos erros de português, mas nada que atrapalhe o jogador ou que não possa ser resolvido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original G.I. Joe (U) [!].nes, com CRC32 394FD25A.

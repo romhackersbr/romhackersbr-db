@@ -16,5 +16,6 @@ patch_release: "02/05/2009"
 patch_type: "IPS"
 patch_progress: "99%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Astyanax%20-%20Tradu-GameX%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Astyanax%20-%20Tradu-GameX%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Astyanax%20-%20Tradu-GameX%20-%203.png"]
+patch_file: "[NES] Astyanax (U) [!] [T-BR] [T-Master P. G-Tradu-GameX] [V-1.0 P-99% A-2009].rar"
 ---
 Uma boa tradução. Todos os textos estão traduzidos e acentuados, e os gráficos foram editados. Nota-se pequenos erros ortográficos em alguns momentos, mas nada que o autor não possa resolver em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Astyanax (U) [!].nes, com CRC32 2FDFBC79.

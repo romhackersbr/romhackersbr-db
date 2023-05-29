@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "undefined"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Terminator%202%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Terminator%202%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Terminator%202%20-%20POBRE%20-%203.png"]
+patch_file: "[NES] Terminator 2 - Judgment Day (U) [!] [T-BR] [T-Mr.Fox G-POBRE] [V-1.1 P-100% A-2018].zip"
 ---
 Todos os textos do jogo estão traduzidos e devidamente acentuados, assim como as mensagens em forma de gráfico.O pacote de tradução vem com um patch em formato IPS, outro em formato IPS-EXE (autoaplicável) e outro no novíssimo formato UPS. Qualquer um dos três traduzirá a ROM para o português. Portanto, fica a critério do usuário escolher qual deles usar.ATENÇÃO:A tradução deve ser aplicada na ROM original Terminator 2 - Judgment Day (U) [!].nes, com CRC32 C0B4BCE5.

@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "undefined"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Tokkyuu%20Shirei%20-%20Solbrain%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Tokkyuu%20Shirei%20-%20Solbrain%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Tokkyuu%20Shirei%20-%20Solbrain%20-%20POBRE%20-%203.png"]
+patch_file: "[NES] Tokkyuu Shirei - Solbrain (J) [T-BR] [T-Joapeer G-POBRE] [V-1.1 P-100% A-2009].zip"
 ---
 Esta é a mais nova versão desta ótima tradução para o jogo Tokkyuu Shirei - Solbrain lançada anteriormente em 2005, quando o tradutor Joapeer ainda era membro do grupo BR Games. Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados. A novidade desta versão 1.1 é que os gráficos COMPLETE e SPECIAL finalmente puderam ser editados, o que fecha o percentual desta tradução em 100%.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Tokkyuu Shirei - Solbrain (J).nes, com CRC32 9D922166.

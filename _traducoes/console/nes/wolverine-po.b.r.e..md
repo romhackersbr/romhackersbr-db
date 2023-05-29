@@ -16,5 +16,6 @@ patch_release: "29/02/2020"
 patch_type: "undefined"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Wolverine%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Wolverine%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Wolverine%20-%20POBRE%20-%203.png"]
+patch_file: "[NES] Wolverine (U) [!] [T-BR] [T-Mr.Fox G-POBRE] [V-1.0 P-100% A-2020].7z"
 ---
 Todos os textos do jogo estão traduzidos e devidamente acentuados, e todas as mensagens em forma de gráfico também foram editadas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Wolverine (U) [!].nes, com CRC32 1FD46615.

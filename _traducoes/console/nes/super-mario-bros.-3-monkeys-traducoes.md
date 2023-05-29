@@ -16,5 +16,6 @@ patch_release: "07/05/2009"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Mario%20Bros.%203%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Mario%20Bros.%203%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Mario%20Bros.%203%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[NES] Super Mario Bros. 3 (PC10) [T-BR] [T-Balboa G-Monkey's Traduções] [V-1.0 P-100% A-2009].7z"
 ---
 Uma boa tradução. Os textos estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Super Mario Bros. 3 (PC10).nes, com CRC32 23E3EA65.

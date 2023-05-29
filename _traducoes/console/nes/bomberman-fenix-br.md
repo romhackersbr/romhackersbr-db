@@ -16,5 +16,6 @@ patch_release: "06/05/2008"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Bomberman%20-%20Fenix%20BR%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Bomberman%20-%20Fenix%20BR%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Bomberman%20-%20Fenix%20BR%20-%203.png"]
+patch_file: "[NES] Bomberman (U) [!] [T-BR] [T-William Brasil G-Fenix BR] [V-1.0 P-100% A-2008].zip"
 ---
 Uma boa tradução. Os poucos textos do jogo foram traduzidos e parcialmente acentuados (apenas a palavra BÔNUS não foi acentuada), e só foi preciso fazer uma edição gráfica para colocar a palavra TEMPO no lugar da palavra TIME.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Bomberman (U) [!].nes, com CRC32 B9804046.

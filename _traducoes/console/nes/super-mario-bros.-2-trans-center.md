@@ -16,5 +16,6 @@ patch_release: "10/06/2009"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Mario%20Bros.%202%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Mario%20Bros.%202%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Mario%20Bros.%202%20-%20Trans-Center%20-%203.png"]
+patch_file: "[NES] Super Mario Bros. 2 (U) (PRG0) [!] [T-BR] [T-spyblack G-Trans-Center] [V-1.1 P-100% A-2009].rar"
 ---
 Uma boa tradução do tradutor spyblack. Os poucos textos do jogo estão traduzidos e acentuados, e os gráficos foram editados. Nota-se pequenos erros de pontuação em raros momentos, mas nada que atrapalhe o jogador ou que não possa ser resolvido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM orignal Super Mario Bros. 2 (U) (PRG0) [!].nes, com CRC32 7D3F6F3D.

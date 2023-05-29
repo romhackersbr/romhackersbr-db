@@ -16,5 +16,6 @@ patch_release: "11/04/2005 (provavelmente)"
 patch_type: "IPS e UPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Teenage%20Mutant%20Ninja%20Turtles%20-%20Macbee's%20NES%20ROM%20Hacks%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Teenage%20Mutant%20Ninja%20Turtles%20-%20Macbee's%20NES%20ROM%20Hacks%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Teenage%20Mutant%20Ninja%20Turtles%20-%20Macbee's%20NES%20ROM%20Hacks%20-%203.png"]
+patch_file: "[NES] Teenage Mutant Ninja Turtles (U) [!] [T-BR] [T-Macbee G-Macbee's NES ROM Hacks] [V-1.0 A-2005].zip"
 ---
 Uma ótima tradução. Os textos do jogo estão traduzidos e acentuados, e a maioria dos gráficos foi editada. Além disso, esta tradução conta com melhorias gráficas nos sprites dos personagens e dos cenários.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Teenage Mutant Ninja Turtles (U) [!].nes, com CRC32 83213CA0.

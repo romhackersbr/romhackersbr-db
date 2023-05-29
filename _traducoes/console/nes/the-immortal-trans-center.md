@@ -16,5 +16,6 @@ patch_release: "24/01/2009"
 patch_type: "UPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Immortal,%20The%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Immortal,%20The%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Immortal,%20The%20-%20Trans-Center%20-%203.png"]
+patch_file: "[NES] Immortal, The (U) [!] [T-BR] [T-Arara e Fallen_Soul G-Trans-Center] [V-BETA P-100% A-2009].7z"
 ---
 Esta é uma ótima tradução feita pelos membros da Trans-Center Arara e Fallen_Soul. Os textos estão devidamente traduzidos e acentuados, e os gráficos foram editados. Os autores avisam que a tradução ainda está em fase beta. Portanto, é possível que haja erros. Assim sendo, fiquem atentos ao lançamento da versão final desta tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Immortal, The (U) [!].nes, com CRC32 ACEB84C1.

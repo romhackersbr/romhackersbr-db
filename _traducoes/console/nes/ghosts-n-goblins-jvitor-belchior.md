@@ -16,5 +16,6 @@ patch_release: "14/04/2015"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Acentos - 0% / Gráficos - 0%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Ghosts%20'N%20Goblins%20-%20Jvitor%20Belchior%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Ghosts%20'N%20Goblins%20-%20Jvitor%20Belchior%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Ghosts%20'N%20Goblins%20-%20Jvitor%20Belchior%20-%203.png"]
+patch_file: "[NES] Ghosts 'N Goblins (U) [!] [T-BR] [T-Jvitor Belchior G-Nenhum] [A-2015].zip"
 ---
 Todos os textos do jogo estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Ghosts 'N Goblins (U) [!].nes, com CRC32 87ED54AA.

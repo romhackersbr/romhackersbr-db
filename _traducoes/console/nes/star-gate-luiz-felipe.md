@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Star%20Gate%20-%20Luiz%20Felipe%20-%2001.png","//img.romhackers.org/traducoes/%5BNES%5D%20Star%20Gate%20-%20Luiz%20Felipe%20-%2002.png","//img.romhackers.org/traducoes/%5BNES%5D%20Star%20Gate%20-%20Luiz%20Felipe%20-%2003.png"]
+patch_file: "[NES] Star Gate (J) [T-BR] [T-Luiz Felipe G-Nenhum] [P-100% A-2014].zip"
 ---
 Os textos do jogo estão traduzidos, mas não estão acentuados, e o gráfico TOP foi traduzido para MAX.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Star Gate (J).nes, com CRC32 2B265D30.
