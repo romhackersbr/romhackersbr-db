@@ -10,7 +10,7 @@ game_publisher: "Squaresoft"
 game_release_date: "2000"
 patch_author: ["Cloud", "Tyker", "GreenGoblin"]
 patch_group: "Hexagon (extinto)"
-patch_site: "//hexagon.romhack.net/ (fora do ar)"
+patch_site: "//web.archive.org/web/20070101160143/https://hexagon.romhack.net// (fora do ar)"
 patch_version: "BETA"
 patch_release: "21/06/2003"
 patch_type: "PPF 2.0"
