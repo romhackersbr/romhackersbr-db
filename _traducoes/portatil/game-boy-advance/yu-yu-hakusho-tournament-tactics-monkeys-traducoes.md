@@ -10,7 +10,7 @@ game_publisher: "Atari"
 game_release_date: "2004"
 patch_author: ["Wolfwood","Anime_World","Hatsu_Haru","eskhotline"]
 patch_group: "Monkey's Traduções"
-patch_site: "//www.monkeystraducoes.com/"
+patch_site: "https://web.archive.org/web/20110202120839/http://monkeystraducoes.com/"
 patch_version: "1.0b"
 patch_release: "31/12/2008"
 patch_type: "IPS e IPS-EXE"

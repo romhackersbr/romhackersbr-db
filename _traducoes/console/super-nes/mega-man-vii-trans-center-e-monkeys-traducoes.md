@@ -10,7 +10,7 @@ game_publisher: "Capcom"
 game_release_date: "??/09/1995"
 patch_author: ["spyblack", "denim"]
 patch_group: "undefined"
-patch_site: "//emulandogba.sites.uol.com.br/index2.html e //www.monkeystraducoes.com/ (ambos fora do ar)"
+patch_site: "//emulandogba.sites.uol.com.br/index2.html e https://web.archive.org/web/20110202120839/http://monkeystraducoes.com/ (ambos fora do ar)"
 patch_version: "1.0"
 patch_release: "16/01/2015"
 patch_type: "IPS"

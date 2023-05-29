@@ -10,7 +10,7 @@ game_publisher: "Sega"
 game_release_date: "25/05/1995"
 patch_author: ["Unknown Master", "Djinn", "Anime_World"]
 patch_group: "Monkey's Traduções"
-patch_site: "//www.monkeystraducoes.com/"
+patch_site: "https://web.archive.org/web/20110202120839/http://monkeystraducoes.com/"
 patch_version: "1.0"
 patch_release: "05/05/2010"
 patch_type: "IPS, IPS-EXE e RUP"

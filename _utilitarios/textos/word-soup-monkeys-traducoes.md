@@ -9,7 +9,7 @@ system: "Vários"
 language: "Português"
 release_date: "22/07/2009"
 version: "0.3b"
-site: "http://www.monkeystraducoes.com/ (fora do ar)"
+site: "http:https://web.archive.org/web/20110202120839/http://monkeystraducoes.com/ (fora do ar)"
 ---
 Esta é a mais nova versão do <b>WordSoup</b>, um programa codificado na linguagem Java e que serve para contar o número de caracteres de um determinado arquivo. Você pode abrir qualquer tipo de arquivo que esteja em seu computador e depois contar o número de caracteres que existem nele. Esta nova versão foi reescrita e contém um código mais enxuto.
 

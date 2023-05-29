@@ -9,7 +9,7 @@ system: "Super Nintendo"
 language: "Português"
 release_date: "06/08/2013"
 version: "1.0"
-site: "http://www.monkeystraducoes.com/ (fora do ar)"
+site: "http:https://web.archive.org/web/20110202120839/http://monkeystraducoes.com/ (fora do ar)"
 ---
 Este conjunto de ferramentas possui a finalidade de descomprimir e comprimir gráficos para o jogo <b>Megaman X 2</b> do sistema Super Nintendo.
 
