@@ -16,5 +16,6 @@ patch_release: "07/01/2018"
 patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Ice%20Climber%20-%20Luansilva12%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Ice%20Climber%20-%20Luansilva12%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Ice%20Climber%20-%20Luansilva12%20-%203.png"]
+patch_file: "[NES] Ice Climber (U) [!] [T-BR] [T-Luansilva12 G-Nenhum] [V-1.0 A-2018].zip"
 ---
 Os textos do jogo foram traduzidos e acentuados.ATENÇÃO:Esta tradução deve ser aplicada na ROM Ice Climber (U) [!].nes, com CRC32 70044A74.

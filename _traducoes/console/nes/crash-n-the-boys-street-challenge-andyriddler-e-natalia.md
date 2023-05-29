@@ -16,5 +16,6 @@ patch_release: "22/05/2018"
 patch_type: "IPS"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Crash%20%2527n%20the%20Boys%20-%20Street%20Challenge%20-%20Andyriddler%20e%20Nat%C3%A1lia%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Crash%20%2527n%20the%20Boys%20-%20Street%20Challenge%20-%20Andyriddler%20e%20Nat%C3%A1lia%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Crash%20%2527n%20the%20Boys%20-%20Street%20Challenge%20-%20Andyriddler%20e%20Nat%C3%A1lia%20-%203.png"]
+patch_file: "[NES] Crash 'n the Boys - Street Challenge (U) [!] [T-BR] [T-Andyriddler e Natália G-Nenhum] [V-1.0 P-100% A-2018].zip"
 ---
 Segundo os autores da tradução, todos os textos foram traduzidos e acentuados, assim como as mensagens em forma de gráfico.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Crash 'n the Boys - Street Challenge (U) [!].nes, com CRC32 ED63CCC5.

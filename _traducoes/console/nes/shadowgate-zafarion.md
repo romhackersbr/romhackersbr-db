@@ -16,5 +16,6 @@ patch_release: "15/02/2015"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Shadowgate%20-%20Zafarion%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Shadowgate%20-%20Zafarion%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Shadowgate%20-%20Zafarion%20-%203.png"]
+patch_file: "[NES] Shadowgate (U) [!] [T-BR] [T-Zafarion G-Nenhum] [A-2015].zip"
 ---
 Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados. Segundo o autor da tradução, apenas a letra acentuada "Â" não pôde ser inserida na tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Shadowgate (U) [!].nes, com CRC32 74CAEBE3.

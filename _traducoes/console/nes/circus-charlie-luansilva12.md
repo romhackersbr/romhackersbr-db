@@ -16,5 +16,6 @@ patch_release: "06/01/2018"
 patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Circus%20Charlie%20-%20Luansilva12%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Circus%20Charlie%20-%20Luansilva12%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Circus%20Charlie%20-%20Luansilva12%20-%203.png"]
+patch_file: "[NES] Circus Charlie (J) [!] [T-BR] [T-Luansilva12 G-Nenhum] [V-1.0 A-2018].zip"
 ---
 Os textos do jogo foram traduzidos e acentuados.ATENÇÃO:Esta tradução deve ser aplicada na ROM Circus Charlie (J) [!].nes, com CRC32 DA673C95.

@@ -16,5 +16,6 @@ patch_release: "18/04/2011"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Menus - 100% / Acentos - 100% / Gráficos - 0%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Abadox%20-%20The%20Deadly%20Inner%20War%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Abadox%20-%20The%20Deadly%20Inner%20War%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Abadox%20-%20The%20Deadly%20Inner%20War%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[NES] Abadox - The Deadly Inner War (U) [!] [T-BR] [T-ØX-Carnage G-Monkey's Traduções] [V-1.0 A-2011].zip"
 ---
 Uma tradução razoável. Os pouquíssimos textos do jogo estão traduzidos e parcialmente acentuados, mas nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Abadox - The Deadly Inner War (U) [!].nes, com CRC32 DC87F63D.

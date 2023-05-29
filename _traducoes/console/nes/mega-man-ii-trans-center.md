@@ -16,5 +16,6 @@ patch_release: "23/06/2009"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Mega%20man%20II%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Mega%20man%20II%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Mega%20man%20II%20-%20Trans-Center%20-%203.png"]
+patch_file: "[NES] Megaman II (U) [!] [T-BR] [T-spyblack G-Trans-Center] [V-1.0 P-100% A-2009].rar"
 ---
 Uma boa tradução. Os poucos textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Megaman II (U) [!].nes, com CRC32 5E268761.

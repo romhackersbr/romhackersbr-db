@@ -16,5 +16,6 @@ patch_release: "12/01/2009"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Metal%20Gear%20-%20Balboa%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Metal%20Gear%20-%20Balboa%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Metal%20Gear%20-%20Balboa%20-%203.png"]
+patch_file: "[NES] Metal Gear (U) [!] [T-BR] [T-Balboa G-Nenhum] [V-1.0 P-100% A-2009].zip"
 ---
 Esta é uma boa tradução do tradutor freelancer Balboa. Todos os textos do jogo estão traduzidos e parcialmente acentuados. Em alguns momentos, nota-se alguns erros de pontuação, mas nada que atrapalhe o entendimento dos textos ou que não possa ser resolvido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Metal Gear (U) [!].nes, com CRC32 B27DE2D8.

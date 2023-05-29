@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "IPS"
 patch_progress: "99% (provavelmente)"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Pitfall%20-%20nesrocks%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Pitfall%20-%20nesrocks%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Super%20Pitfall%20-%20nesrocks%20-%203.png"]
+patch_file: "[NES] Super Pitfall (U) [!] [T-BR] [T-nesrocks G-Nenhum] [V-1.1 A-2016].zip"
 ---
 Praticamente todo o texto do jogo está traduzido (apenas uma ou duas palavras não estão), mas não está acentuado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Super Pitfall (U) [!].nes (GoodNES) ou Super Pitfall (USA).nes (No-Intro), ambas com CRC32 A4958020.

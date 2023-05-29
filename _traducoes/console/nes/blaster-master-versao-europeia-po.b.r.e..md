@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "undefined"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Blaster%20Master%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Blaster%20Master%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Blaster%20Master%20-%20POBRE%20-%203.png"]
+patch_file: "[NES] Blaster Master (E) [!] [T-BR] [T-Mr.Fox G-POBRE] [V-1.2 P-100% A-2019].7z"
 ---
 Todos os textos estão traduzidos e acentuados, e as mensagens em forma de gráfico também foram editadas.O pacote de tradução vem com um patch em formato IPS e outro em formato IPS-EXE (autoaplicável). Qualquer um dos dois traduzirá a ROM para o português. Portanto, fica a critério do usuário escolher qual deles usar. Porém, vale lembrar que a tradução deve ser aplicada na ROM original Blaster Master (E).nes com CRC32 ECB5C7BA.ATENÇÃO:Não aplique este patch de tradução na ROM americana. Ele foi feito exclusivamente para a ROM europeia. Usar o patch na ROM errada vai gerar bugs e travamentos inesperados durante o jogo.Caso ainda reste alguma dúvida, nós aconselhamos a todos que leiam a documentação que acompanha a tradução. Ela explica detalhadamente como aplicar o patch na ROM.

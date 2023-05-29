@@ -16,5 +16,6 @@ patch_release: "02/08/2008 (atualizada em 03/08/2008)"
 patch_type: "IPS"
 patch_progress: "99%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Batman%20Returns%20-%20Tradu-GameX%20-%2001.png","//img.romhackers.org/traducoes/%5BNES%5D%20Batman%20Returns%20-%20Tradu-GameX%20-%2002.png","//img.romhackers.org/traducoes/%5BNES%5D%20Batman%20Returns%20-%20Tradu-GameX%20-%2003.png"]
+patch_file: "[NES] Batman Returns (U) [!] [T-BR] [T-Master P. G-Tradu-GameX] [V-1.1 P-99% A-2008].zip"
 ---
 Uma boa tradução feita pelo tradutor Master P. Os textos estão traduzidos e acentuados, e os gráficos foram editados, com exceção do SCORE e HI SCORE.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Batman Returns (U) [!].nes, com CRC32 E625E398.
