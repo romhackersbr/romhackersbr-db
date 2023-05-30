@@ -16,5 +16,6 @@ patch_release: "13/06/2015"
 patch_type: "IPS e IPS-EXE"
 patch_progress: "Diálogos - 90% / Menus - 90% / Acentuação - 100% / Gráficos - 95% / Revisão - 100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Donkey%20Kong%20Country%203%20-%20Nintendo%20BR%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Donkey%20Kong%20Country%203%20-%20Nintendo%20BR%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Donkey%20Kong%20Country%203%20-%20Nintendo%20BR%20-%203.png"]
+patch_file: "[GBA] Donkey Kong Country 3 (E)(Rising Sun) [T-BR] [T-Joelson Kamppello G-Nintendo BR] [V-1.0 P-90% A-2015].zip"
 ---
 A maioria dos textos foi traduzida e acentuada, e praticamente todos os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 2214 - Donkey Kong Country 3 (E)(Rising Sun).gba, com CRC32 708A6168.

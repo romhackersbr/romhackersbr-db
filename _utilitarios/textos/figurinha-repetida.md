@@ -9,7 +9,7 @@ system: "Vários"
 language: "Português"
 release_date: "20/04/2009"
 version: "1.0"
-site: "http://www.monkeystraducoes.com/ (fora do ar)"
+site: "http://web.archive.org/web/20110202120839/http://monkeystraducoes.com/ (fora do ar)"
 ---
 Esta ferramenta procura por frases repetidas em um texto e as separa em um arquivo à parte.
 

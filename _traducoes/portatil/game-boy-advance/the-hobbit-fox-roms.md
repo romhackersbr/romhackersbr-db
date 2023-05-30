@@ -16,5 +16,6 @@ patch_release: "entre 11 e 17 de agosto de 2004 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Hobbit%20-%20Central%20MIB%20e%20Fox-Roms%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Hobbit%20-%20Fox-Roms%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Hobbit%20-%20Fox-Roms%20-%203.png"]
+patch_file: "[GBA] The Hobbit (U) [I-BR T-Noko G-Fox-Roms A-2004].rar"
 ---
 Tradução com fonte acentuada, todos os menus, alguns itens e boa parte dos diálogos traduzidos, alguns erros de português e de pontuação. É possível ver diálogos e itens sem tradução logo no começo do jogo.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Hobbit, The (U).gba" (código AH9E), com CRC32 D3F654B3.

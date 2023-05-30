@@ -10,11 +10,12 @@ game_publisher: "Capcom"
 game_release_date: "2002"
 patch_author: "ØX-Carnage"
 patch_group: "Monkey's Traduções"
-patch_site: "//www.monkeystraducoes.com/"
+patch_site: "//web.archive.org/web/20110202120839/http://monkeystraducoes.com/"
 patch_version: "1.0"
 patch_release: "10/02/2009"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Super%20Ghouls%20'N%20Ghosts%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Super%20Ghouls%20'N%20Ghosts%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Super%20Ghouls%20'N%20Ghosts%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[GBA] Super Ghouls 'N Ghosts (U) [T-BR] [T-ØX-Carnage G-Monkey's Traduções] [V-1.0 P-100% A-2009].zip"
 ---
 Uma boa tradução que conta com todos os textos traduzidos e parcialmente acentuados e com alguns gráficos editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Super Ghouls 'N Ghosts (U).gba, com CRC32 1EF2ACF3.

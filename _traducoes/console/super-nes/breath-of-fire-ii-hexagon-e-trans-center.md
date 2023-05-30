@@ -10,7 +10,7 @@ game_publisher: "Capcom"
 game_release_date: "dezembro de 1995"
 patch_author: "undefined"
 patch_group: ["Hexagon", "Trans-Center"]
-patch_site: "//hexagon.romhack.net/ (fora do ar) e //emulandogba.sites.uol.com.br/index2.html"
+patch_site: "//web.archive.org/web/20070101160143/https://hexagon.romhack.net// (fora do ar) e //emulandogba.sites.uol.com.br/index2.html"
 patch_version: "BETA"
 patch_release: "28 de outubro de 2005 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"

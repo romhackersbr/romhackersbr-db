@@ -10,7 +10,7 @@ game_publisher: "SquareSoft"
 game_release_date: "30/09/1995"
 patch_author: ["GreenGoblin","Zafarion"]
 patch_group: "Hexagon (extinto)"
-patch_site: "//hexagon.romhack.net/"
+patch_site: "//web.archive.org/web/20070101160143/https://hexagon.romhack.net//"
 patch_version: "Beta5"
 patch_release: "undefined"
 patch_type: "IPS e IPS-EXE"

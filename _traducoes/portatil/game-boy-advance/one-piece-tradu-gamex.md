@@ -16,5 +16,6 @@ patch_release: "11 de março de 2006"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20One%20Piece%20-%20Tradu-GameX%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20One%20Piece%20-%20Tradu-GameX%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20One%20Piece%20-%20Tradu-GameX%20-%203.png"]
+patch_file: "[GBA] One Piece (U) [I-BR T-Seven G-Tradu-GameX V-1.0 A-2006].zip"
 ---
 Tradução sem fonte modificada e com diálogos e parte dos menus traduzidos.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Shonen Jump's - One Piece (U).gba" (código BONE), com CRC32 7D2CF2A1.

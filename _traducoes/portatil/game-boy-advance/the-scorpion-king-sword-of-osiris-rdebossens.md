@@ -16,5 +16,6 @@ patch_release: "25/12/2011"
 patch_type: "undefined"
 patch_progress: "Textos - 100% / Acentos - 100% / Gráficos - 100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Scorpion%20King%20-%20Sword%20of%20Osiris%20-%20RDebossens%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Scorpion%20King%20-%20Sword%20of%20Osiris%20-%20RDebossens%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Scorpion%20King%20-%20Sword%20of%20Osiris%20-%20RDebossens%20-%203.png"]
+patch_file: "[GBA] Scorpion King, The - Sword of Osiris (U) [T-BR] [T-RDebossens G-Nenhum] [V-1.0 P-100% A-2011].zip"
 ---
 Esta é a primeira tradução lançada pelo tradutor freelancer RDebossens, e o resultado dela está muito bom. Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Scorpion King, The - Sword of Osiris (U).gba, com CRC32 6E0A8585.

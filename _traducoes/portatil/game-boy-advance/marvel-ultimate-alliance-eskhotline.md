@@ -16,5 +16,6 @@ patch_release: "13 de dezembro de 2007"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "acentuação, gráficos e textos em 100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Marvel%20-%20Ultimate%20Alliance%20-%20eskhotline%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Marvel%20-%20Ultimate%20Alliance%20-%20eskhotline%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Marvel%20-%20Ultimate%20Alliance%20-%20eskhotline%20-%203.png"]
+patch_file: "[GBA] Marvel - Ultimate Alliance (U) [I-BR T-eskhotline V-1.0 A-2007].zip"
 ---
 Tradução com fonte acentuada, menu e diálogos traduzidos, poucos erros de português e alguns termos sem tradução (como "upgrade").ATENÇÃO:Esta tradução pode ser aplicada na ROM "Marvel Ultimate Alliance (U).gba", com CRC32 A74294DB, na ROM "Marvel Ultimate Alliance (U) [f_4].gba", com CRC32 96374575, ou na ROM "Marvel Ultimate Alliance (U) [f_5].gba", com CRC32 A3720014 (todas com código B4ME).

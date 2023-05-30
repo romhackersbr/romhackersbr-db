@@ -9,7 +9,7 @@ system: "Nintendo Dual Screen e Game Boy Advance"
 language: "Português"
 release_date: "21/02/2011"
 version: "2.0.4"
-site: "http://www.monkeystraducoes.com/ (fora do ar)"
+site: "http://web.archive.org/web/20110202120839/http://monkeystraducoes.com/ (fora do ar)"
 ---
 <b>LaZyNDS</b> é uma ferramenta desenvolvida por <b>DiegoHH</b>, membro do grupo <b>Monkey's Traduções</b>, e que é voltada para romhacking com o objetivo de buscar, extrair e inserir arquivos comprimidos através das rotinas da bios dos sistemas Game Boy Advance e Nintendo Dual Screen.
 

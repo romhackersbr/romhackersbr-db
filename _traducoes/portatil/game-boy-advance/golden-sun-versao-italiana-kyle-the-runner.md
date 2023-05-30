@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "99.90%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Golden%20Sun%20%2528I%2529%20-%20Kyle%20The%20Runner%20-%20Beta8%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Golden%20Sun%20%2528I%2529%20-%20Kyle%20The%20Runner%20-%20Beta8%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Golden%20Sun%20%2528I%2529%20-%20Kyle%20The%20Runner%20-%20Beta8%20-%203.png"]
+patch_file: "[GBA] Golden Sun (I) [T-BR] [T-Kyle The Runner G-Nenhum] [V-Beta9 A-2015].rar"
 ---
 Nessa nova versão, erros gramaticais e os problemas com as caixas de texto presentes nas versões anteriores foi consertado.Tradução com fonte acentuada, menus, diálogos, itens e alguns gráficos traduzidos. O autor pede para que, caso encontrem algum erro (de qualquer espécie, desde erros gramaticais, problemas com caixas de texto, etc), entrar em contato com o mesmo para que sejam consertados em versões futuras da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Golden Sun (I) [!].gba", com CRC32 F3128812 (com código AGSI).

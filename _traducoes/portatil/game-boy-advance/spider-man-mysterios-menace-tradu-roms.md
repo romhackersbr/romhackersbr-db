@@ -16,5 +16,6 @@ patch_release: "3 de março de 2002"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Spider-Man%20-%20Mysterio's%20Menace%20-%20Tradu-Roms%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Spider-Man%20-%20Mysterio's%20Menace%20-%20Tradu-Roms%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Spider-Man%20-%20Mysterio's%20Menace%20-%20Tradu-Roms%20-%203.png"]
+patch_file: "[GBA] Spider-Man - Mysterio's Menace (U) [I-BR T-S-NES G-Tradu-Roms P-100% A-2002].zip"
 ---
 Tradução sem fonte acentuada e com diálogos e parte dos gráficos traduzidos, usando algumas abreviações.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Spider-Man - Mysterio's Menace (U) [!].gba", com CRC32 6E135B4D, na ROM "Spider-Man - Mysterio's Menace (U) [hIR00].gba", com CRC32 AC4CBE18, na ROM "Spider-Man - Mysterio's Menace (U) [hIR].gba", com CRC32 927DAE99, na ROM "Spider-Man - Mysterio's Menace (U) [hI].gba", com CRC32 7DC15415, ou na ROM "Spider-Man - Mysterio's Menace (U) [t1].gba", com CRC32 79CF80FB (todas com código ASEE).

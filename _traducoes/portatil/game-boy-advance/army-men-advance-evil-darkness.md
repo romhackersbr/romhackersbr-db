@@ -16,5 +16,6 @@ patch_release: "18 de novembro de 2001 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "98%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Army%20Men%20Advance%20-%20Evil%20Darkness%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Army%20Men%20Advance%20-%20Evil%20Darkness%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Army%20Men%20Advance%20-%20Evil%20Darkness%20-%203.png"]
+patch_file: "[GBA] Army Men Advance (UE - M5) [I-BR T-Lohan G-Evil Darkness P-98% A-2001].zip"
 ---
 Para a tradução funcionar, é preciso escolher o idioma espanhol, que foi colocado como "Portug.".Tradução com pequena parte da fonte acentuada e muitos gráficos sem editar, incluindo o menu.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Army Men Advance (UE) (M5) [!].gba" (código ASAE), com CRC32 9A4A509F.

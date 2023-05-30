@@ -16,5 +16,6 @@ patch_release: "21/05/2009"
 patch_type: "UPS"
 patch_progress: "31%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Tony%20Hawk's%20American%20Sk8land%20-%20Disco%20Voador%20Romhacking%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Tony%20Hawk's%20American%20Sk8land%20-%20Disco%20Voador%20Romhacking%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Tony%20Hawk's%20American%20Sk8land%20-%20Disco%20Voador%20Romhacking%20-%203.png"]
+patch_file: "[GBA] Tony Hawk's American Sk8land (E) [T-BR] [T-Fa3LdT G-Disco Voador Romhacking] [V-1.2 P-31% A-2009].rar"
 ---
 Este é o patch da versão parcial da tradução feita pelo tradutor Fa3LdT para o jogo Tony Hawk's American Sk8land. Como a tradução ainda se encontra em andamento, apenas 31% dos textos foram traduzidos e parcialmente acentuados. Portanto, fiquem atentos ao lançamento da versão final desta tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 2425 - Tony Hawk's American Sk8land (E).gba, com CRC32 A824DF3F.

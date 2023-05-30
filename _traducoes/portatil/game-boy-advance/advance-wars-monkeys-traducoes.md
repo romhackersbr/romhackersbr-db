@@ -10,11 +10,12 @@ game_publisher: "Nintendo"
 game_release_date: "09/09/2001"
 patch_author: "DiegoHH"
 patch_group: "Monkey's Traduções"
-patch_site: "//www.monkeystraducoes.com/"
+patch_site: "//web.archive.org/web/20110202120839/http://monkeystraducoes.com/"
 patch_version: "Revisão 2"
 patch_release: "09/01/2010"
 patch_type: "IPS e IPS-EXE"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Advance%20Wars%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Advance%20Wars%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Advance%20Wars%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[GBA] Advance Wars (U) (V1.0) [T-BR] [T-DiegoHH G-Monkey's Traduções] [V-Revisão 2 P-100% A-2010].rar"
 ---
 Uma ótima tradução. Nesta nova versão, todos os textos estão traduzidos e acentuados, incluindo as palavras / textos em forma de gráfico. Segundo o autor, todas as pendências remanescentes da versão anterior foram resolvidas, e os textos foram revisados de acordo com a nova reforma ortográfica da língua portuguesa.Novidades da versão atual:- Nomes das missões da Sala de Guerra / Modo Vs. traduzidos;- Todas as imagens traduzidas;- Revisão completa dos textos;- Correção de um bug nas paletas em uma das missões;- Adição de acentos na fonte dos poderes de OC;- Expansão de vários menus / imagens;- Novos textos adicionados em algumas missões (eles já existiam, mas não eram chamados pelo jogo - isso foi corrigido no release 1.1 da ROM [0299]);- Expansão dos nomes das missões do Treinamento.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 0095 Advance Wars (U) (V1.0).gba, com CRC32 DBEF116C.

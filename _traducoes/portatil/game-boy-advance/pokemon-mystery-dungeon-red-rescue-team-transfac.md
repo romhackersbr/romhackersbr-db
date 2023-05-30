@@ -16,5 +16,6 @@ patch_release: "9 de maio de 2007"
 patch_type: "Patch IPS e UPS dentro de pacote ZIP"
 patch_progress: "acentuação, ponteiros, perguntas iniciais e tipos dos pokémons em 100%; e gráficos em 0,0001%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Pok%C3%A9mon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20-%20TransFac%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Pok%C3%A9mon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20-%20TransFac%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Pok%C3%A9mon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20-%20TransFac%20-%203.png"]
+patch_file: "[GBA] Pokémon Mystery Dungeon - Red Rescue Team (U) [I-BR T-Hyd~ G-TransFac V-Demo A-2007].zip"
 ---
 Tradução parcial porém boa, com fonte acentuada, parte dos menus, algumas descrições de itens, o tutorial do primeiro labirinto, parte dos textos das batalhas, todas as perguntas iniciais (exceto a verificação do resultado das mesmas) e diálogos traduzidos até entrar no primeiro labirinto.ATENÇÃO:O patch UPS desta distribuição foi criado para evitar problemas com aplicadores de IPS, já que a ROM tem mais de 16MB.Ambos os patches podem ser aplicados na ROM "Pokemon Mystery Dungeon - Red Rescue Team (U).gba", com CRC32 DD0AC86C, ou na ROM "Pokemon Mystery Dungeon - Red Rescue Team (U) [f1].gba", com CRC32 95594EFA (ambas com código B24E).

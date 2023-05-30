@@ -16,5 +16,6 @@ patch_release: "22/10/2017"
 patch_type: "IPS"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20F-Zero%20-%20Maximum%20Velocity%20-%20ripman%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20F-Zero%20-%20Maximum%20Velocity%20-%20ripman%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20F-Zero%20-%20Maximum%20Velocity%20-%20ripman%20-%203.png"]
+patch_file: "[GBA] F-Zero - Maximum Velocity (UE) [T-BR] [T-ripman G-Nenhum] [V-0.90 A-2017].7z"
 ---
 Segundo o autor da tradução, a maioria dos textos do jogo foi traduzida, mas não foi acentuada, e nenhuma mensagem em forma de gráfico foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM F-Zero - Maximum Velocity (USA, Europe).gba, com código AGB-AFZE-USA e CRC32 BD5E9798.

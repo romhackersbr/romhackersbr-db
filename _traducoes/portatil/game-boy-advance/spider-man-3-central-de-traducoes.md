@@ -16,5 +16,6 @@ patch_release: "26 de março de 2008"
 patch_type: "Patch IPS e IPSEXE dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Spider-Man%203%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Spider-Man%203%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Spider-Man%203%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[GBA] Spider-Man 3 (S) [I-BR T-OX-Carnage, Over12 e Eduardo Knucles G-Central de Traduções V-1.0 P-100% A-2008].zip"
 ---
 Tradução com fonte acentuada e praticamente tudo traduzido, mas com vários de português e pontuação.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Spider-Man 3 (S).gba", com CRC32 E6251FD3, na ROM "Spider-Man 3 (S) [f_4].gba", com CRC32 62B08B29, ou na ROM "Spider-Man 3 (S) [f_5].gba", com CRC32 380A6E52 (todas com código BI3S).

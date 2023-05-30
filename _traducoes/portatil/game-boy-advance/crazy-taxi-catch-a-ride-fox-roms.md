@@ -16,5 +16,6 @@ patch_release: "8 de julho de 2004 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Crazy%20Taxi%20-%20Catch%20a%20Ride%20-%20Fox-Roms%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Crazy%20Taxi%20-%20Catch%20a%20Ride%20-%20Fox-Roms%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Crazy%20Taxi%20-%20Catch%20a%20Ride%20-%20Fox-Roms%20-%203.png"]
+patch_file: "[GBA] Crazy Taxi - Catch a Ride (U) [I-BR T-TOM G-Fox-Roms V-1.0 A-2004].zip"
 ---
 Tradução com fonte acentuada e boa parte dos menus traduzidos, mas gráficos com efeitos, como os durante a corrida, sem tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Crazy Taxi - Catch a Ride (U).gba" (código A3CE), com CRC32 8EC709D6.

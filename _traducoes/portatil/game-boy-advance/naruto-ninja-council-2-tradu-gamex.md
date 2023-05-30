@@ -16,5 +16,6 @@ patch_release: "19 de novembro de 2006 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Naruto%20-%20Ninja%20Council%202%20-%20Tradu-GameX%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Naruto%20-%20Ninja%20Council%202%20-%20Tradu-GameX%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Naruto%20-%20Ninja%20Council%202%20-%20Tradu-GameX%20-%203.png"]
+patch_file: "[GBA] Naruto - Ninja Council 2 (U) [I-BR T-Seven G-Tradu-GameX V-1.1 A-2006].zip"
 ---
 Tradução com fonte acentuada, diálogos bem traduzidos com nomes e termos da série preservados, mas as instruções das missões e a maioria dos gráficos, bem como o menu inicial, sem tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Naruto - Ninja Council 2 (U).gba" (código BN2E), com CRC32 94699FCA.

@@ -10,7 +10,7 @@ game_publisher: "KOEI"
 game_release_date: "fevereiro de 1995"
 patch_author: ["Odin", "GreenGoblin"]
 patch_group: "Hexagon (extinto)"
-patch_site: "//hexagon.romhack.net/ (fora do ar)"
+patch_site: "//web.archive.org/web/20070101160143/https://hexagon.romhack.net// (fora do ar)"
 patch_version: "1.0"
 patch_release: "13 de agosto de 2002"
 patch_type: "Patch IPS e IPSEXE dentro de pacote ZIP"

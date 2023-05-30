@@ -9,7 +9,7 @@ system: "Game Boy Advance"
 language: "Português"
 release_date: "02/02/2009"
 version: "1.1b"
-site: "http://www.monkeystraducoes.com/ (fora do ar)"
+site: "http://web.archive.org/web/20110202120839/http://monkeystraducoes.com/ (fora do ar)"
 ---
 <b>LaZyGBA</b> é uma ferramenta feita pelo romhacker brasileiro <b>DiegoHH</b>, membro do grupo <b>Monkey's Traduções</b>, e que permite a compressão/descompressão de dados, baseada na rotina LZSS padrão da BIOS do sistema Game Boy Advance.
 

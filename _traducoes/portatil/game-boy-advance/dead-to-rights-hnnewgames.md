@@ -16,5 +16,6 @@ patch_release: "28/02/2018"
 patch_type: "xdelta3"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Dead%20to%20Rights%20-%20hnnewgames%20-%201.jpg","//img.romhackers.org/traducoes/%5BGBA%5D%20Dead%20to%20Rights%20-%20hnnewgames%20-%202.jpg","//img.romhackers.org/traducoes/%5BGBA%5D%20Dead%20to%20Rights%20-%20hnnewgames%20-%203.jpg"]
+patch_file: "[GBA] Dead to Rights (E) [T-BR] [T-hnnewgames G-HNNEWGAMES] [A-2018].rar"
 ---
 Segundo o autor da tradução, todos os textos do jogo estão traduzidos e acentuados, exceto as mensagens em forma de gráfico.OBS: Para ativar os textos em português, é preciso escolher o idioma ESPANHOL na tela inicial de seleção de idiomas!ATENÇÃO:Esta tradução deve ser aplicada na ROM 1822 - Dead to Rights (E)(Rising Sun).gba, com código AGB-BDEP-EUR, com CRC32 2994DE1D.

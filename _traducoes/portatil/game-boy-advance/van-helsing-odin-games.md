@@ -16,5 +16,6 @@ patch_release: "3 de outubro de 2005 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Van%20Helsing%20-%20Odin%20Games%20e%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Van%20Helsing%20-%20Odin%20Games%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Van%20Helsing%20-%20Odin%20Games%20-%203.png"]
+patch_file: "[GBA] Van Helsing (E - M5) [I-BR T-Lázaro Rocha G-Odin Games A-2005].rar"
 ---
 Para a tradução funcionar, é preciso escolher o idioma espanhol, que está como "Português".Tradução boa, com fonte acentuada, menus e diálogos traduzidos, apesar de alguns erros de português e pontuação.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Van Helsing (E) (M5).gba" (código BANP), com CRC32 9E8748C9.

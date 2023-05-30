@@ -9,6 +9,6 @@ system: "Game Boy Advance e Nintendo Dual Screen"
 language: "Inglês"
 release_date: "08/05/2009"
 version: "???"
-site: "http://www.monkeystraducoes.com/ (fora do ar)"
+site: "http://web.archive.org/web/20110202120839/http://monkeystraducoes.com/ (fora do ar)"
 ---
 Baseada no código-fonte do programa <b>GBA Graphics Editor</b> (feito por <b>Nintenlord</b>), <b>NDS Graphics Editor</b> é uma ferramenta que permite editar gráficos comprimidos em jogos dos sistemas Game Boy Advance e Nintendo Dual Screen.
