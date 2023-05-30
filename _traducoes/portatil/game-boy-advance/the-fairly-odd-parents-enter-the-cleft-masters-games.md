@@ -16,5 +16,6 @@ patch_release: "01/05/2009"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Fairly%20Odd%20Parents%20-%20Enter%20the%20Cleft%20-%20Masters%20Games%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Fairly%20Odd%20Parents%20-%20Enter%20the%20Cleft%20-%20Masters%20Games%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Fairly%20Odd%20Parents%20-%20Enter%20the%20Cleft%20-%20Masters%20Games%20-%203.png"]
+patch_file: "[GBA] Fairly Odd Parents - Enter the Cleft (U) [T-BR] [T-Zyre G-Masters Games] [P-100% A-2009].zip"
 ---
 Uma boa tradução. Os textos estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado. Nota-se pequenos erros ortográficos em alguns momentos, mas nada que o autor não possa resolver em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 0720 Fairly Odd Parents - Enter the Cleft (U).gba, com CRC32 B0533F41.

@@ -16,5 +16,6 @@ patch_release: "12 de abril de 2005 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Hobbit%20-%20Central%20MIB%20e%20Fox-Roms%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Hobbit%20-%20Central%20MIB%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Hobbit%20-%20Central%20MIB%20-%203.png"]
+patch_file: "[GBA] The Hobbit (U) [I-BR T-Welblade G-Central MIB V-1.4 P-100% A-2005].zip"
 ---
 Tradução com fonte acentuada, menus, itens e diálogos traduzidos, alguns erros de português e de pontuação.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Hobbit, The (U).gba" (código AH9E), com CRC32 D3F654B3.

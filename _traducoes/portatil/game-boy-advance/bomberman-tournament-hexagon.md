@@ -16,5 +16,6 @@ patch_release: "27 de novembro de 2001"
 patch_type: "Patch IPS e IPSEXE dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Bomberman%20Tournament%20-%20Hexagon%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Bomberman%20Tournament%20-%20Hexagon%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Bomberman%20Tournament%20-%20Hexagon%20-%203.png"]
+patch_file: "[GBA] Bomberman Tournament (U) [I-BR T-Odin e Shadow Jake G-Hexagon V-1.2 P-100% A-2001].zip"
 ---
 Tradução boa, com fonte acentuada, forma culta sendo usado em demasia, mas sem os gráficos e menus traduzidos.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Bomberman Tournament (U) [!].gba" (código ABSE), com CRC32 240282E6.

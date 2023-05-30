@@ -16,5 +16,6 @@ patch_release: "03/11/2014"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Acentos - 100% / Gráficos - 90%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Wario%20Land%204%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Wario%20Land%204%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Wario%20Land%204%20-%20Trans-Center%20-%203.png"]
+patch_file: "[GBA] Wario Land 4 (E)(Mode7) [T-BR] [T-Merlim G-Trans-Center] [V-1.0 A-2014].rar"
 ---
 Todos os textos do jogo estão traduzidos e acentuados, e a maioria dos gráficos foram editados. Segundo o autor da tradução, todos os gráficos descomprimidos foram editados, mas os 10% restantes estão comprimidos e não puderam ser editados. Dentre eles, estão o gráfico "push start" e os gráficos da introdução e do fim do jogo.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 0169 - Wario Land 4 (E)(Mode7).gba, com CRC32 89F7FBBD.

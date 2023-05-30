@@ -16,5 +16,6 @@ patch_release: "04/06/2013"
 patch_type: "UPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Mother%203%20-%20Earthbound%20Brasil%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Mother%203%20-%20Earthbound%20Brasil%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Mother%203%20-%20Earthbound%20Brasil%20-%203.png"]
+patch_file: "[GBA] Mother 3 (J) [T-BR] [T-Alex Foffano, Jared Morgan e grande elenco G-Earthbound Brasil] [V-1.0 A-2013].zip"
 ---
 Uma ótima tradução. Os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.OBS: Esta tradução para o idioma português usou como base a tradução para o idioma inglês feita por Jeffman e Tomato.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Mother 3 (J).gba, com CRC32 42AC9CB9.

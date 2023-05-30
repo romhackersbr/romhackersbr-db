@@ -16,5 +16,6 @@ patch_release: "17 de novembro de 2005 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "aproximadamente 95%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Megaman%20Zero%204%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Megaman%20Zero%204%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Megaman%20Zero%204%20-%20Trans-Center%20-%203.png"]
+patch_file: "[GBA] Megaman Zero 4 (U) [I-BR T-Solid_One G-Trans-Center V-1.0 P-~95% A-2005].zip"
 ---
 Tradução boa, com fonte acentuada, grande parte dos gráficos, diálogos e locais traduzidos e algumas traduções literais, como na classificação. Segundo o autor, apenas os textos em gráficos da introdução e partes do final ficaram de fora.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Megaman Zero 4 (U).gba" (código B4ZE), com CRC32 7EE24793.

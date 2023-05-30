@@ -16,5 +16,6 @@ patch_release: "26 de fevereiro de 2007"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Ghost%20Rider%20-%20Vyktor%20Gaiden%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Ghost%20Rider%20-%20Vyktor%20Gaiden%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Ghost%20Rider%20-%20Vyktor%20Gaiden%20-%203.png"]
+patch_file: "[GBA] Ghost Rider (U - M6) [I-BR T-Vyktor Gaiden A-2007].rar"
 ---
 Para a tradução funcionar, é preciso escolher o idioma espanhol, que está no formato próprio "español".Tradução com fonte acentuada, alguns gráficos, diálogos e boa parte dos créditos traduzidos, porém com várias traduções literais e erros notáveis de português.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Ghost Rider (U) (M6) [!].gba", com CRC32 CF190F2E, na ROM "Ghost Rider (U) (M6) [f_4].gba", com CRC32 ADE34089, ou na ROM "Ghost Rider (U) (M6) [f_5].gba", com CRC32 6EE22233 (todas com código BR8E).

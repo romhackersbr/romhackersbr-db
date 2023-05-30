@@ -16,5 +16,6 @@ patch_release: "27/02/2009"
 patch_type: "IPS"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Revenge%20of%20Shinobi%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Revenge%20of%20Shinobi%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20The%20Revenge%20of%20Shinobi%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_file: "[GBA] Revenge of Shinobi, The (E) (M5) [T-BR] [T-ØX-Carnage G-Monkey's Traduções] [V-1.0 P-100% A-2009].zip"
 ---
 Esta tradução está boa. Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados. Porém, nota-se pequenos erros de ortografia em raros momentos, mas nada que atrapalhe a compreensão dos textos ou que não possa ser corrigido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Revenge of Shinobi, The (E) (M5).gba, com CRC32 58A3F0E1

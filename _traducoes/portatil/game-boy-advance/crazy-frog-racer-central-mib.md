@@ -16,5 +16,6 @@ patch_release: "14 de janeiro de 2006"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Crazy%20Frog%20Racer%20-%20Central%20MIB%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Crazy%20Frog%20Racer%20-%20Central%20MIB%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Crazy%20Frog%20Racer%20-%20Central%20MIB%20-%203.png"]
+patch_file: "[GBA] Crazy Frog Racer (E - M4) [I-BR T-Dr. X G-Central MIB A-2006].zip"
 ---
 Para a tradução funcionar, é preciso escolher o idioma alemão (padrão).Tradução com fonte acentuada e boa parte do menu traduzido, mas sem gráficos ou créditos traduzidos.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Crazy Frog Racer (E) (M4).gba", com CRC32 2723236B, na ROM "Crazy Frog Racer (E) (M4) [f_4].gba", com CRC32 F0499F2E, ou na ROM "Crazy Frog Racer (E) (M4) [f_5].gba", com CRC32 586D5F38 (todas com código BCRP).

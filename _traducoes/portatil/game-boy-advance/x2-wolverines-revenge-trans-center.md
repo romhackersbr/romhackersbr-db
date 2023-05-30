@@ -16,5 +16,6 @@ patch_release: "11 de julho de 2003 (provavelmente)"
 patch_type: "Patch IPS dentro de arquivo ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20X2%20-%20Wolverine's%20Revenge%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20X2%20-%20Wolverine's%20Revenge%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20X2%20-%20Wolverine's%20Revenge%20-%20Trans-Center%20-%203.png"]
+patch_file: "[GBA] X2 - Wolverine's Revenge (U) [I-BR T-Ninho G-Trans-Center V-1.0 P-100% A-2003].zip"
 ---
 Tradução com fonte acentuada, diálogos, locais e parte dos menus traduzidos, além de alguns erros de pontuação e de português.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "X-Men 2 - Wolverine's Revenge (U).gba" (código AWVE), com CRC32 41A92220.

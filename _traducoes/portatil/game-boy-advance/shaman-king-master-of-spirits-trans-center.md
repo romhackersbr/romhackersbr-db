@@ -16,5 +16,6 @@ patch_release: "31 de janeiro de 2008"
 patch_type: "Patch IPS e IPSEXE dentro de pacote ZIP"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Shaman%20King%20-%20Master%20of%20Spirits%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Shaman%20King%20-%20Master%20of%20Spirits%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Shaman%20King%20-%20Master%20of%20Spirits%20-%20Trans-Center%20-%203.png"]
+patch_file: "[GBA] Shaman King - Master of Spirits 2 (U) [I-BR T-Solid_One G-Trans-Center V-2.0 P-100% A-2008].zip"
 ---
 Tradução boa, com fonte acentuada e todos os diálogos, menus, itens, locais e gráficos traduzidos. Os nomes também foram trocados para versões originais, de acordo com o "manga" no Brasil.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Shonen Jump's - Shaman King - Master of Spirits (U).gba" (código BSOE), com CRC32 10E554AE.
