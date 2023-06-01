@@ -16,5 +16,6 @@ patch_release: "29/06/2014"
 patch_type: "xDelta"
 patch_progress: "Textos - 100% / Gráficos - 0% / Revisão - 0%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNDS%5D%20Pokemon%20Diamond%20-%20gdkchan%20-%201.png","//img.romhackers.org/traducoes/%5BNDS%5D%20Pokemon%20Diamond%20-%20gdkchan%20-%202.png","//img.romhackers.org/traducoes/%5BNDS%5D%20Pokemon%20Diamond%20-%20gdkchan%20-%203.png"]
+patch_file: "[NDS] Pokemon Diamond (U) [T-BR] [T-gdkchanT G-Nenhum] [V-Beta1 A-2014].rar"
 ---
 De acordo com o autor, esta tradução conta com todos os textos traduzidos e acentuados, mas não estão revisados, podendo conter eventuais erros gramaticais. Além disso, nenhum gráfico foi editado. No entanto, fiquem atentos a futuras atualizações dessa tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 1015 - Pokemon Diamond (U).nds ou lgc-pkmd.nds (dump do grupo LGC), com CRC32 84427823.

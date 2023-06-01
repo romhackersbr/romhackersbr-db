@@ -16,5 +16,6 @@ patch_release: "19/08/2012"
 patch_type: "xDelta"
 patch_progress: "Tradução"
 patch_images: ["//img.romhackers.org/traducoes/%5BNDS%5D%20Prince%20of%20Persia%20The%20Fallen%20King%20-%201.PNG","//img.romhackers.org/traducoes/%5BNDS%5D%20Prince%20of%20Persia%20The%20Fallen%20King%20-%20Ray%20-%202.PNG","//img.romhackers.org/traducoes/%5BNDS%5D%20Prince%20of%20Persia%20The%20Fallen%20King%20-%20Ray%20-%203.PNG"]
+patch_file: "[NDS] Prince of Persia - The Fallen King (E) [T-BR] [T-Ray G-Nenhum] [V-0.9 A-2012].rar"
 ---
 A tradução conta com todos os textos traduzidos e acentuados, mas apenas uma parte está revisada, podendo conter eventuais erros gramaticais. Aparentemente nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 3107 - Prince of Persia - The Fallen King (E).nds ou xpa-ppfk.nds, com CRC32 828F48F9.
