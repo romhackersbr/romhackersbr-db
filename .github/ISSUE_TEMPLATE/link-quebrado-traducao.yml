@@ -1,7 +1,9 @@
 name: "Link Quebrado na Tradução"
 description: "Formulário para correções de links quebrados em Traduções no banco de dados do PO.BR.E"
 title: "[Link Quebrado na Tradução]: Nome do Jogo"
-labels: ["link-quebrado", "traducao"]
+labels: 
+  - "link-quebrado"
+  - "corrigir"
 body:
   - type: input
     id: title
