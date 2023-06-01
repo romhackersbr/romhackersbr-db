@@ -16,5 +16,6 @@ patch_release: "17/05/2013"
 patch_type: "xdelta 3"
 patch_progress: "Diálogos - 100% / Batalhas - 100% / Dungeons - 100% / Menus - 99% / Itens - 99% / Acentos - Sim / Gráficos - Não"
 patch_images: ["//img.romhackers.org/traducoes/%5BNDS%5D%20Final%20Fantasy%20III%20-%20JiraspioM%20-%201.png","//img.romhackers.org/traducoes/%5BNDS%5D%20Final%20Fantasy%20III%20-%20JiraspioM%20-%202.png","//img.romhackers.org/traducoes/%5BNDS%5D%20Final%20Fantasy%20III%20-%20JiraspioM%20-%203.png"]
+patch_file: "[NDS] Final Fantasy III (U) [T-BR] [T-JiraspioM G-Nenhum] [P-99% A-2013].7z"
 ---
 Uma tradução razoável. Os textos estão traduzidos e acentuados (exceto os menus), mas nenhum gráfico além da fonte foi editado. Nota-se alguns textos não traduzidos, erros de português e traduções literais em alguns momentos.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 0681 - Final Fantasy III (U).nds, com CRC32 27883409.

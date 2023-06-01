@@ -16,5 +16,6 @@ patch_release: "01/06/2013"
 patch_type: "xdelta 3"
 patch_progress: "Diálogos - 100% / Menus - 100% / Acentuação - 100% / Gráficos - 95% / Revisão - 100% / Geral - 97%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNDS%5D%20Final%20Fantasy%20III%20-%20Nintendo%20BR%20-%201.jpg","//img.romhackers.org/traducoes/%5BNDS%5D%20Final%20Fantasy%20III%20-%20Nintendo%20BR%20-%202.jpg","//img.romhackers.org/traducoes/%5BNDS%5D%20Final%20Fantasy%20III%20-%20Nintendo%20BR%20-%203.jpg"]
+patch_file: "[NDS] Final Fantasy III (U) [T-Kamppello e Dorzer G-Nintendo BR] [V-1.0 P-97% A-2013].zip"
 ---
 Esta tradução está muito boa. Todos os textos do jogo estão traduzidos e acentuados, e praticamente todos os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 0681 - Final Fantasy III (U).nds, com CRC32 27883409.

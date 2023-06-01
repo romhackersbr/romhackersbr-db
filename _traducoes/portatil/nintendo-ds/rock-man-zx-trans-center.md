@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "xdelta3"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BNDS%5D%20Rock%20Man%20ZX%20-%20Trans-Center%20-%201.png","//img.romhackers.org/traducoes/%5BNDS%5D%20Rock%20Man%20ZX%20-%20Trans-Center%20-%202.png","//img.romhackers.org/traducoes/%5BNDS%5D%20Rock%20Man%20ZX%20-%20Trans-Center%20-%203.png"]
+patch_file: "[NDS] Rock Man ZX (J) [T-BR] [T-Solid One G-Trans-Center] [V-1.2 A-2017].zip"
 ---
 Todos os textos estão traduzidos e acentuados (porém não totalmente revisados ainda), e a maioria dos gráficos foi editada.NOVIDADES DA VERSÃO 1.2:- Todos os vídeos com legendas traduzidas;- Alterados vários termos na tradução, de modo a bater com traduções de outros jogos da série (replóide com 'r' minúsculo, pistola/canhão no lugar de buster, etc);- Mais gráficos editados em relação à versão anterior;- Correções em diversos gráficos do jogo.OBS: Para obter o último patch da tradução para a versão americana do jogo, basta clicar aqui.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 0484 - Rockman ZX (J)(WRG).nds, com código ARZJ e CRC32 B577BBE0.

@@ -16,5 +16,6 @@ patch_release: "27/07/2014 (provavelmente)"
 patch_type: "Aplicador de patch próprio"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BNDS%5D%20Ben%2010%20-%20Alien%20Force%20-%20Brazilian%20Warriors%20-%201.jpg","//img.romhackers.org/traducoes/%5BNDS%5D%20Ben%2010%20-%20Alien%20Force%20-%20Brazilian%20Warriors%20-%202.jpg","//img.romhackers.org/traducoes/%5BNDS%5D%20Ben%2010%20-%20Alien%20Force%20-%20Brazilian%20Warriors%20-%203.jpg"]
+patch_file: "[NDS] Ben 10 - Alien Force (EU) [T-BR] [T-Sergio-F G-Brazilian Warriors] [P-100% A-2014].rar"
 ---
 Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 3311 - Ben 10 - Alien Force (EU)(M5)(BAHAMUT).nds ou Ben 10 - Alien Force (V1.0)(EU)(M5).nds, com CRC32 A6523F74.

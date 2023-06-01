@@ -16,5 +16,6 @@ patch_release: "06/11/2008"
 patch_type: "Delta (arquivo diff gerado pelo XDelta)"
 patch_progress: "100%"
 patch_images: ["//img.romhackers.org/traducoes/%5BNDS%5D%20Castlevania%20-%20Dawn%20of%20Sorrow%20-%20Hyllian%20-%201.png","//img.romhackers.org/traducoes/%5BNDS%5D%20Castlevania%20-%20Dawn%20of%20Sorrow%20-%20Hyllian%20-%202.png","//img.romhackers.org/traducoes/%5BNDS%5D%20Castlevania%20-%20Dawn%20of%20Sorrow%20-%20Hyllian%20-%203.png"]
+patch_file: "[NDS] Castlevania - Dawn of Sorrow (E) (M5) [T-BR] [T-Hyllian G-Nenhum] [V-Beta P-100% A-2008].zip"
 ---
 Esta é uma tradução muito boa do tradutor Hyllian. Apesar da tradução ainda estar em fase beta, todos os textos estão traduzidos e devidamente acentuados, e praticamente todos os gráficos foram editados. No entanto, uma versão definitiva ainda será lançada posteriormente.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 0105 - Castlevania - Dawn of Sorrow (E) (M5).nds, com CRC32 8E908CE7.
