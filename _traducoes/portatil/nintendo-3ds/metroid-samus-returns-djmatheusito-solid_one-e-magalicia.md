@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "xdelta3"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5B3DS%5D%20Metroid%20-%20Samus%20Returns%20-%20FUT%20-%201.jpg","//img.romhackers.org/traducoes/%5B3DS%5D%20Metroid%20-%20Samus%20Returns%20-%20FUT%20-%202.jpg","//img.romhackers.org/traducoes/%5B3DS%5D%20Metroid%20-%20Samus%20Returns%20-%20FUT%20-%203.jpg"]
+patch_file: "[3DS] Metroid - Samus Returns (E) [T-BR] [T-djmatheusito, Solid_One e Magalícia G-FUT] [V-1.1 A-2017].7z"
 ---
 Segundos os autores da tradução, todos os textos do jogo estão traduzidos e acentuados, assim como todas as mensagens do jogo em forma de gráficos.ATENÇÃO:Esta tradução deve ser aplicada em uma ROM em formato CIA da versão europeia do jogo Metroid - Samus Returns, com CRC32 C10BAFDD e MD5SUM 50f0dc6657250872f6883601dfbc0ef3.
